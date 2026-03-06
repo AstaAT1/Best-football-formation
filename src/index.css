@@ -1,0 +1,75 @@
+/* ===================================================================
+   index.css — Minimal Black / White / Grey theme
+   =================================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: #0a0a0a;
+  --bg-overlay: rgba(0, 0, 0, 0.82);
+  --panel: rgba(18, 18, 18, 0.94);
+  --card: rgba(28, 28, 28, 0.92);
+  --card-hover: rgba(40, 40, 40, 0.95);
+  --text: #f0f0f0;
+  --muted: #999;
+  --border: rgba(255, 255, 255, 0.08);
+  --shadow: 0 8px 40px rgba(0, 0, 0, 0.6);
+  --shadow-sm: 0 3px 12px rgba(0, 0, 0, 0.4);
+  --yellow: #e6c31e;
+  --red: #d42020;
+  --accent: #fff;
+  --radius: 12px;
+  --radius-sm: 8px;
+  --dur: 0.2s;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+input,
+button,
+select {
+  font-family: inherit;
+}
+
+img {
+  display: block;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, .12);
+  border-radius: 3px;
+}

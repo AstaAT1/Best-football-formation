@@ -1,0 +1,898 @@
+[
+    {
+        "id": "q1",
+        "pos": "gk",
+        "difficulty": "easy",
+        "text": "What is the primary role of a goalkeeper?",
+        "choices": [
+            "Score goals",
+            "Prevent goals by stopping shots",
+            "Take corners",
+            "Mark strikers"
+        ],
+        "answerIndex": 1,
+        "explanation": "The goalkeeper's main job is to prevent the opposing team from scoring."
+    },
+    {
+        "id": "q2",
+        "pos": "gk",
+        "difficulty": "easy",
+        "text": "Which part of the body can a goalkeeper use inside the penalty area that outfield players cannot?",
+        "choices": [
+            "Feet",
+            "Head",
+            "Hands",
+            "Chest"
+        ],
+        "answerIndex": 2,
+        "explanation": "Goalkeepers can use their hands within their own penalty area."
+    },
+    {
+        "id": "q3",
+        "pos": "gk",
+        "difficulty": "easy",
+        "text": "What color jersey does a goalkeeper typically wear?",
+        "choices": [
+            "Same as teammates",
+            "A different color from all other players",
+            "Always black",
+            "Always green"
+        ],
+        "answerIndex": 1,
+        "explanation": "Goalkeepers must wear a distinguishing color from teammates, opponents, and referees."
+    },
+    {
+        "id": "q4",
+        "pos": "gk",
+        "difficulty": "medium",
+        "text": "Which legendary Italian goalkeeper is known as 'Superman'?",
+        "choices": [
+            "Dino Zoff",
+            "Gianluigi Buffon",
+            "Gianluigi Donnarumma",
+            "Walter Zenga"
+        ],
+        "answerIndex": 1,
+        "explanation": "Gianluigi Buffon earned the nickname 'Superman' for his extraordinary saves."
+    },
+    {
+        "id": "q5",
+        "pos": "gk",
+        "difficulty": "medium",
+        "text": "Which goalkeeper has won the most World Cup Golden Glove awards?",
+        "choices": [
+            "Manuel Neuer",
+            "Iker Casillas",
+            "Gianluigi Buffon",
+            "Oliver Kahn"
+        ],
+        "answerIndex": 0,
+        "explanation": "Manuel Neuer won the Golden Glove at the 2014 World Cup."
+    },
+    {
+        "id": "q6",
+        "pos": "gk",
+        "difficulty": "medium",
+        "text": "What is the 6-yard box also known as?",
+        "choices": [
+            "Penalty area",
+            "Goal area",
+            "Technical area",
+            "Center circle"
+        ],
+        "answerIndex": 1,
+        "explanation": "The 6-yard box is officially called the goal area."
+    },
+    {
+        "id": "q7",
+        "pos": "gk",
+        "difficulty": "hard",
+        "text": "Which goalkeeper scored the most career goals?",
+        "choices": [
+            "René Higuita",
+            "Rogério Ceni",
+            "José Luis Chilavert",
+            "Jorge Campos"
+        ],
+        "answerIndex": 1,
+        "explanation": "Rogério Ceni scored over 130 goals in his career, mostly from free kicks and penalties."
+    },
+    {
+        "id": "q8",
+        "pos": "gk",
+        "difficulty": "hard",
+        "text": "Who was the first goalkeeper to win the Ballon d'Or?",
+        "choices": [
+            "Lev Yashin",
+            "Gordon Banks",
+            "Gianluigi Buffon",
+            "Oliver Kahn"
+        ],
+        "answerIndex": 0,
+        "explanation": "Lev Yashin won the Ballon d'Or in 1963, the only goalkeeper ever to do so."
+    },
+    {
+        "id": "q9",
+        "pos": "gk",
+        "difficulty": "hard",
+        "text": "What famous save technique involves diving with a scorpion-like kick behind the back?",
+        "choices": [
+            "Cat save",
+            "Scorpion kick save",
+            "Double reflex",
+            "Starfish save"
+        ],
+        "answerIndex": 1,
+        "explanation": "René Higuita popularized the scorpion kick save in 1995 against England."
+    },
+    {
+        "id": "q10",
+        "pos": "gk",
+        "difficulty": "easy",
+        "text": "Can a goalkeeper handle a deliberate back-pass from a teammate?",
+        "choices": [
+            "Yes, always",
+            "No, it results in an indirect free kick",
+            "Yes, but only in extra time",
+            "Only if the ball crosses the 6-yard box"
+        ],
+        "answerIndex": 1,
+        "explanation": "The back-pass rule (1992) prohibits goalkeepers from handling deliberate passes from teammates."
+    },
+    {
+        "id": "q11",
+        "pos": "gk",
+        "difficulty": "medium",
+        "text": "Which goalkeeper captained Spain to their 2010 World Cup victory?",
+        "choices": [
+            "Víctor Valdés",
+            "Pepe Reina",
+            "Iker Casillas",
+            "David de Gea"
+        ],
+        "answerIndex": 2,
+        "explanation": "Iker Casillas was Spain's captain during their triumphant 2010 World Cup campaign."
+    },
+    {
+        "id": "q12",
+        "pos": "df",
+        "difficulty": "easy",
+        "text": "What is the standard number of defenders in a 4-3-3 formation?",
+        "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answerIndex": 1,
+        "explanation": "The 4-3-3 formation uses 4 defenders."
+    },
+    {
+        "id": "q13",
+        "pos": "df",
+        "difficulty": "easy",
+        "text": "What does a 'clean sheet' mean?",
+        "choices": [
+            "A match where no fouls were committed",
+            "A match where the team did not concede a goal",
+            "A match without substitutions",
+            "A match with no yellow cards"
+        ],
+        "answerIndex": 1,
+        "explanation": "A clean sheet means the team conceded zero goals in the match."
+    },
+    {
+        "id": "q14",
+        "pos": "df",
+        "difficulty": "easy",
+        "text": "Which defender position plays in the center of the back line?",
+        "choices": [
+            "Right back",
+            "Left back",
+            "Center back",
+            "Wing back"
+        ],
+        "answerIndex": 2,
+        "explanation": "Center backs play in the middle of the defensive line."
+    },
+    {
+        "id": "q15",
+        "pos": "df",
+        "difficulty": "easy",
+        "text": "What is an offside trap?",
+        "choices": [
+            "A goalkeeper's special save",
+            "A defensive strategy where the line pushes up to catch attackers offside",
+            "A corner kick routine",
+            "A midfield pressing tactic"
+        ],
+        "answerIndex": 1,
+        "explanation": "The offside trap involves defenders stepping forward in unison before a pass to catch attackers offside."
+    },
+    {
+        "id": "q16",
+        "pos": "df",
+        "difficulty": "medium",
+        "text": "Which Spanish defender holds the record for most international caps for Spain?",
+        "choices": [
+            "Carles Puyol",
+            "Gerard Piqué",
+            "Sergio Ramos",
+            "Dani Carvajal"
+        ],
+        "answerIndex": 2,
+        "explanation": "Sergio Ramos holds Spain's record with 180 international caps."
+    },
+    {
+        "id": "q17",
+        "pos": "df",
+        "difficulty": "medium",
+        "text": "What is a 'sweeper' (libero) in football?",
+        "choices": [
+            "An attacking midfielder",
+            "A defender who plays behind the main defensive line",
+            "A holding midfielder",
+            "A second goalkeeper"
+        ],
+        "answerIndex": 1,
+        "explanation": "The sweeper plays behind the defensive line and 'sweeps up' any balls that get past the main defenders."
+    },
+    {
+        "id": "q18",
+        "pos": "df",
+        "difficulty": "medium",
+        "text": "Which Italian defensive system is famous for its tight man-marking?",
+        "choices": [
+            "Tiki-taka",
+            "Catenaccio",
+            "Gegenpressing",
+            "Total Football"
+        ],
+        "answerIndex": 1,
+        "explanation": "Catenaccio is an Italian defensive tactic emphasizing tight man-marking and a sweeper."
+    },
+    {
+        "id": "q19",
+        "pos": "df",
+        "difficulty": "medium",
+        "text": "Which defender won the 2006 Ballon d'Or?",
+        "choices": [
+            "Paolo Maldini",
+            "Fabio Cannavaro",
+            "John Terry",
+            "Roberto Carlos"
+        ],
+        "answerIndex": 1,
+        "explanation": "Fabio Cannavaro won the 2006 Ballon d'Or after captaining Italy to the World Cup title."
+    },
+    {
+        "id": "q20",
+        "pos": "df",
+        "difficulty": "hard",
+        "text": "Which defender has scored the most goals in Champions League history?",
+        "choices": [
+            "Sergio Ramos",
+            "Roberto Carlos",
+            "Paolo Maldini",
+            "Gerard Piqué"
+        ],
+        "answerIndex": 0,
+        "explanation": "Sergio Ramos holds the record for most goals by a defender in Champions League history."
+    },
+    {
+        "id": "q21",
+        "pos": "df",
+        "difficulty": "hard",
+        "text": "Who is the youngest player to captain a Champions League winning team?",
+        "choices": [
+            "John Terry",
+            "Matthijs de Ligt",
+            "Paolo Maldini",
+            "Franz Beckenbauer"
+        ],
+        "answerIndex": 2,
+        "explanation": "Paolo Maldini captained AC Milan in Champions League victories at a remarkably young age."
+    },
+    {
+        "id": "q22",
+        "pos": "df",
+        "difficulty": "easy",
+        "text": "What is a 'tackle' in football?",
+        "choices": [
+            "A shot on goal",
+            "An attempt to take the ball from an opponent",
+            "A header",
+            "A throw-in"
+        ],
+        "answerIndex": 1,
+        "explanation": "A tackle is the act of challenging an opponent to win possession of the ball."
+    },
+    {
+        "id": "q23",
+        "pos": "df",
+        "difficulty": "medium",
+        "text": "Which country is Paolo Maldini from?",
+        "choices": [
+            "Spain",
+            "France",
+            "Italy",
+            "Portugal"
+        ],
+        "answerIndex": 2,
+        "explanation": "Paolo Maldini is Italian and spent his entire career at AC Milan."
+    },
+    {
+        "id": "q24",
+        "pos": "df",
+        "difficulty": "hard",
+        "text": "Which defender has made the most appearances in World Cup history?",
+        "choices": [
+            "Cafu",
+            "Paolo Maldini",
+            "Philipp Lahm",
+            "Lothar Matthäus"
+        ],
+        "answerIndex": 3,
+        "explanation": "Lothar Matthäus holds the record for most World Cup appearances with 25 matches."
+    },
+    {
+        "id": "q25",
+        "pos": "df",
+        "difficulty": "easy",
+        "text": "In what situation is a penalty kick awarded?",
+        "choices": [
+            "Foul outside the box",
+            "Foul inside the penalty area by the defending team",
+            "Offside",
+            "Corner kick"
+        ],
+        "answerIndex": 1,
+        "explanation": "A penalty kick is awarded when the defending team commits a foul inside their own penalty area."
+    },
+    {
+        "id": "q26",
+        "pos": "df",
+        "difficulty": "medium",
+        "text": "What is a 'last-man' foul?",
+        "choices": [
+            "A foul by the goalkeeper",
+            "A foul by the last defender that denies a clear goal-scoring opportunity",
+            "Any foul in the box",
+            "A tactical foul in midfield"
+        ],
+        "answerIndex": 1,
+        "explanation": "A last-man foul denies an obvious goal-scoring opportunity and typically results in a red card."
+    },
+    {
+        "id": "q27",
+        "pos": "df",
+        "difficulty": "hard",
+        "text": "Which left-back is famous for his powerful free kicks and played for Real Madrid and Brazil?",
+        "choices": [
+            "Marcelo",
+            "Roberto Carlos",
+            "Dani Alves",
+            "Cafu"
+        ],
+        "answerIndex": 1,
+        "explanation": "Roberto Carlos was known for his incredible left-foot free kicks and played for Real Madrid from 1996 to 2007."
+    },
+    {
+        "id": "q28",
+        "pos": "df",
+        "difficulty": "medium",
+        "text": "How many defenders typically form a back three?",
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answerIndex": 1,
+        "explanation": "A back three uses 3 center-backs, often with wing-backs providing width."
+    },
+    {
+        "id": "q29",
+        "pos": "df",
+        "difficulty": "easy",
+        "text": "What does 'marking' mean in defensive play?",
+        "choices": [
+            "Scoring a goal",
+            "Staying close to an opponent to prevent them receiving the ball",
+            "Taking a corner",
+            "Substituting a player"
+        ],
+        "answerIndex": 1,
+        "explanation": "Marking means closely guarding an opponent to prevent them from receiving or playing the ball effectively."
+    },
+    {
+        "id": "q30",
+        "pos": "df",
+        "difficulty": "hard",
+        "text": "Which defender played 647 consecutive league matches for AC Milan without missing a game?",
+        "choices": [
+            "Franco Baresi",
+            "Paolo Maldini",
+            "Alessandro Nesta",
+            "Fabio Cannavaro"
+        ],
+        "answerIndex": 0,
+        "explanation": "Franco Baresi was renowned for his consistency and longevity at AC Milan."
+    },
+    {
+        "id": "q31",
+        "pos": "df",
+        "difficulty": "medium",
+        "text": "Which nation did Franz Beckenbauer represent?",
+        "choices": [
+            "Austria",
+            "Netherlands",
+            "West Germany",
+            "France"
+        ],
+        "answerIndex": 2,
+        "explanation": "Franz Beckenbauer represented West Germany and is considered one of the greatest defenders ever."
+    },
+    {
+        "id": "q32",
+        "pos": "mf",
+        "difficulty": "easy",
+        "text": "What is the main role of a central midfielder?",
+        "choices": [
+            "Score all the goals",
+            "Defend the goal",
+            "Link defense and attack, control the tempo",
+            "Take throw-ins"
+        ],
+        "answerIndex": 2,
+        "explanation": "Central midfielders connect defense to attack and dictate the pace of the game."
+    },
+    {
+        "id": "q33",
+        "pos": "mf",
+        "difficulty": "easy",
+        "text": "What does 'possession' mean in football?",
+        "choices": [
+            "How many goals a team scores",
+            "The percentage of time a team has the ball",
+            "The number of substitutions",
+            "The number of corners"
+        ],
+        "answerIndex": 1,
+        "explanation": "Possession refers to the percentage of time a team controls the ball during a match."
+    },
+    {
+        "id": "q34",
+        "pos": "mf",
+        "difficulty": "easy",
+        "text": "Which country invented 'tiki-taka' style of play?",
+        "choices": [
+            "Brazil",
+            "Germany",
+            "Spain",
+            "Italy"
+        ],
+        "answerIndex": 2,
+        "explanation": "Spain and FC Barcelona are credited with developing the tiki-taka passing style."
+    },
+    {
+        "id": "q35",
+        "pos": "mf",
+        "difficulty": "medium",
+        "text": "Which midfielder is known as 'The Architect' and played for Barcelona and Spain?",
+        "choices": [
+            "Andrés Iniesta",
+            "Sergio Busquets",
+            "Xavi Hernández",
+            "Cesc Fàbregas"
+        ],
+        "answerIndex": 2,
+        "explanation": "Xavi Hernández was nicknamed 'The Architect' for his ability to orchestrate play."
+    },
+    {
+        "id": "q36",
+        "pos": "mf",
+        "difficulty": "medium",
+        "text": "What is a 'box-to-box' midfielder?",
+        "choices": [
+            "A midfielder who only attacks",
+            "A midfielder who covers the full length of the pitch, defending and attacking",
+            "A defensive midfielder",
+            "A substitute midfielder"
+        ],
+        "answerIndex": 1,
+        "explanation": "A box-to-box midfielder contributes at both ends of the pitch, covering penalty area to penalty area."
+    },
+    {
+        "id": "q37",
+        "pos": "mf",
+        "difficulty": "medium",
+        "text": "Which French midfielder won 3 consecutive Ballon d'Or awards in the 1980s?",
+        "choices": [
+            "Zinedine Zidane",
+            "Thierry Henry",
+            "Michel Platini",
+            "Just Fontaine"
+        ],
+        "answerIndex": 2,
+        "explanation": "Michel Platini won the Ballon d'Or in 1983, 1984, and 1985."
+    },
+    {
+        "id": "q38",
+        "pos": "mf",
+        "difficulty": "hard",
+        "text": "Who scored the famous volley goal in the 2002 Champions League final?",
+        "choices": [
+            "Raúl",
+            "Roberto Carlos",
+            "Zinedine Zidane",
+            "Luis Figo"
+        ],
+        "answerIndex": 2,
+        "explanation": "Zinedine Zidane scored a stunning left-foot volley in the 2002 Champions League final against Bayer Leverkusen."
+    },
+    {
+        "id": "q39",
+        "pos": "mf",
+        "difficulty": "hard",
+        "text": "Which midfielder has the most assists in Champions League history?",
+        "choices": [
+            "Xavi Hernández",
+            "Cristiano Ronaldo",
+            "Lionel Messi",
+            "Ángel Di María"
+        ],
+        "answerIndex": 2,
+        "explanation": "Lionel Messi holds the record for most assists in Champions League history."
+    },
+    {
+        "id": "q40",
+        "pos": "mf",
+        "difficulty": "easy",
+        "text": "What is a 'through ball'?",
+        "choices": [
+            "A pass that goes backward",
+            "A pass played into space behind the defense for a teammate to run onto",
+            "A header",
+            "A goal kick"
+        ],
+        "answerIndex": 1,
+        "explanation": "A through ball splits the defense and allows an attacker to run onto it in a goal-scoring position."
+    },
+    {
+        "id": "q41",
+        "pos": "mf",
+        "difficulty": "medium",
+        "text": "Which German midfielder captained Bayern Munich and Germany, known for his versatility?",
+        "choices": [
+            "Thomas Müller",
+            "Toni Kroos",
+            "Joshua Kimmich",
+            "Bastian Schweinsteiger"
+        ],
+        "answerIndex": 3,
+        "explanation": "Bastian Schweinsteiger captained both Bayern Munich and Germany and could play multiple positions."
+    },
+    {
+        "id": "q42",
+        "pos": "mf",
+        "difficulty": "hard",
+        "text": "Who holds the record for most La Liga assists of all time?",
+        "choices": [
+            "Xavi Hernández",
+            "Lionel Messi",
+            "Karim Benzema",
+            "Luis Suárez"
+        ],
+        "answerIndex": 1,
+        "explanation": "Lionel Messi holds the record for the most assists in La Liga history."
+    },
+    {
+        "id": "q43",
+        "pos": "mf",
+        "difficulty": "medium",
+        "text": "What is a 'holding midfielder' (number 6)?",
+        "choices": [
+            "A midfielder who mainly attacks",
+            "A defensive midfielder who shields the back line",
+            "A winger",
+            "A second striker"
+        ],
+        "answerIndex": 1,
+        "explanation": "The holding midfielder sits in front of the defense, breaking up opponent attacks and distributing the ball."
+    },
+    {
+        "id": "q44",
+        "pos": "mf",
+        "difficulty": "hard",
+        "text": "Which midfielder scored in two different World Cup finals?",
+        "choices": [
+            "Zinedine Zidane",
+            "Pelé",
+            "Andrés Iniesta",
+            "Paul Pogba"
+        ],
+        "answerIndex": 0,
+        "explanation": "Zinedine Zidane scored in the 1998 World Cup final (2 goals) and the 2006 final (1 goal via penalty)."
+    },
+    {
+        "id": "q45",
+        "pos": "mf",
+        "difficulty": "easy",
+        "text": "What does 'dribbling' mean in football?",
+        "choices": [
+            "Passing the ball to a teammate",
+            "Running with the ball at your feet while maintaining control",
+            "Shooting at goal",
+            "Heading the ball"
+        ],
+        "answerIndex": 1,
+        "explanation": "Dribbling is the skill of moving the ball forward while keeping it under close control."
+    },
+    {
+        "id": "q46",
+        "pos": "mf",
+        "difficulty": "medium",
+        "text": "Which midfielder scored the winning goal in the 2010 World Cup final?",
+        "choices": [
+            "David Villa",
+            "Xavi Hernández",
+            "Andrés Iniesta",
+            "Cesc Fàbregas"
+        ],
+        "answerIndex": 2,
+        "explanation": "Andrés Iniesta scored the winning goal in extra time against Netherlands in the 2010 World Cup final."
+    },
+    {
+        "id": "q47",
+        "pos": "atk",
+        "difficulty": "easy",
+        "text": "What is a 'hat-trick'?",
+        "choices": [
+            "Scoring 2 goals in one match",
+            "Scoring 3 goals in one match",
+            "Scoring 4 goals in one match",
+            "Assisting 3 goals in one match"
+        ],
+        "answerIndex": 1,
+        "explanation": "A hat-trick is when a player scores three goals in a single match."
+    },
+    {
+        "id": "q48",
+        "pos": "atk",
+        "difficulty": "easy",
+        "text": "Which player has scored the most goals in FIFA World Cup history?",
+        "choices": [
+            "Pelé",
+            "Ronaldo Nazário",
+            "Miroslav Klose",
+            "Just Fontaine"
+        ],
+        "answerIndex": 2,
+        "explanation": "Miroslav Klose scored 16 goals across four World Cups for Germany."
+    },
+    {
+        "id": "q49",
+        "pos": "atk",
+        "difficulty": "easy",
+        "text": "What is the 'Golden Boot' award?",
+        "choices": [
+            "Best goalkeeper award",
+            "Award for the top scorer in a tournament",
+            "Fair play award",
+            "Best defender award"
+        ],
+        "answerIndex": 1,
+        "explanation": "The Golden Boot is awarded to the top scorer in a football tournament."
+    },
+    {
+        "id": "q50",
+        "pos": "atk",
+        "difficulty": "medium",
+        "text": "Who won the most Ballon d'Or awards?",
+        "choices": [
+            "Cristiano Ronaldo",
+            "Zinedine Zidane",
+            "Lionel Messi",
+            "Michel Platini"
+        ],
+        "answerIndex": 2,
+        "explanation": "Lionel Messi has won the Ballon d'Or 8 times, more than any other player."
+    },
+    {
+        "id": "q51",
+        "pos": "atk",
+        "difficulty": "medium",
+        "text": "Which striker scored 91 goals in a calendar year (2012)?",
+        "choices": [
+            "Cristiano Ronaldo",
+            "Lionel Messi",
+            "Robert Lewandowski",
+            "Gerd Müller"
+        ],
+        "answerIndex": 1,
+        "explanation": "Lionel Messi scored 91 goals in 2012, breaking Gerd Müller's record of 85 goals in 1972."
+    },
+    {
+        "id": "q52",
+        "pos": "atk",
+        "difficulty": "medium",
+        "text": "What is the 'False 9' position?",
+        "choices": [
+            "A winger who plays as a center back",
+            "A center forward who drops deep into midfield to create space",
+            "A goalkeeper who plays outfield",
+            "A defender who acts as a striker"
+        ],
+        "answerIndex": 1,
+        "explanation": "The False 9 drops deep from the striker position to link play and create space for teammates."
+    },
+    {
+        "id": "q53",
+        "pos": "atk",
+        "difficulty": "hard",
+        "text": "Who scored the 'Hand of God' goal?",
+        "choices": [
+            "Pelé",
+            "Zinedine Zidane",
+            "Diego Maradona",
+            "Lionel Messi"
+        ],
+        "answerIndex": 2,
+        "explanation": "Diego Maradona scored the 'Hand of God' goal against England in the 1986 World Cup quarter-final."
+    },
+    {
+        "id": "q54",
+        "pos": "atk",
+        "difficulty": "hard",
+        "text": "Which Brazilian striker won the World Cup twice (1994 and 2002)?",
+        "choices": [
+            "Romário",
+            "Ronaldo Nazário",
+            "Rivaldo",
+            "Ronaldinho"
+        ],
+        "answerIndex": 1,
+        "explanation": "Ronaldo Nazário won the World Cup in 1994 (as a squad member) and 2002 (as the star striker)."
+    },
+    {
+        "id": "q55",
+        "pos": "atk",
+        "difficulty": "easy",
+        "text": "What is a 'volley' in football?",
+        "choices": [
+            "A pass along the ground",
+            "Kicking the ball while it is in the air before it bounces",
+            "A corner kick",
+            "A throw-in"
+        ],
+        "answerIndex": 1,
+        "explanation": "A volley is striking the ball while it is still in the air."
+    },
+    {
+        "id": "q56",
+        "pos": "atk",
+        "difficulty": "medium",
+        "text": "Which club did Erling Haaland join from Borussia Dortmund?",
+        "choices": [
+            "Real Madrid",
+            "Bayern Munich",
+            "Manchester City",
+            "Barcelona"
+        ],
+        "answerIndex": 2,
+        "explanation": "Erling Haaland transferred from Borussia Dortmund to Manchester City in 2022."
+    },
+    {
+        "id": "q57",
+        "pos": "atk",
+        "difficulty": "hard",
+        "text": "Who is the all-time top scorer in Champions League history?",
+        "choices": [
+            "Lionel Messi",
+            "Raúl",
+            "Cristiano Ronaldo",
+            "Robert Lewandowski"
+        ],
+        "answerIndex": 2,
+        "explanation": "Cristiano Ronaldo holds the record for the most goals in Champions League history."
+    },
+    {
+        "id": "q58",
+        "pos": "atk",
+        "difficulty": "medium",
+        "text": "Which country did the legendary striker Pelé represent?",
+        "choices": [
+            "Argentina",
+            "Portugal",
+            "Brazil",
+            "Spain"
+        ],
+        "answerIndex": 2,
+        "explanation": "Pelé played for Brazil and won three FIFA World Cups (1958, 1962, 1970)."
+    },
+    {
+        "id": "q59",
+        "pos": "atk",
+        "difficulty": "hard",
+        "text": "Which striker scored the fastest hat-trick in Premier League history?",
+        "choices": [
+            "Sadio Mané",
+            "Robbie Fowler",
+            "Alan Shearer",
+            "Sergio Agüero"
+        ],
+        "answerIndex": 0,
+        "explanation": "Sadio Mané scored the fastest Premier League hat-trick in 2 minutes 56 seconds for Southampton against Aston Villa in 2015."
+    },
+    {
+        "id": "q60",
+        "pos": "atk",
+        "difficulty": "easy",
+        "text": "What does 'offside' mean for an attacker?",
+        "choices": [
+            "Being behind the ball when it is passed",
+            "Being nearer to the opponent's goal line than the second-last defender when the ball is played",
+            "Being in your own half",
+            "Standing inside the penalty area"
+        ],
+        "answerIndex": 1,
+        "explanation": "An attacker is offside if they are nearer to the goal line than both the ball and the second-last defender."
+    },
+    {
+        "id": "q61",
+        "pos": "atk",
+        "difficulty": "hard",
+        "text": "Which World Cup saw the most goals scored in a single tournament by one player (13 goals)?",
+        "choices": [
+            "1958 - Pelé",
+            "1954 - Sándor Kocsis",
+            "1958 - Just Fontaine",
+            "1970 - Gerd Müller"
+        ],
+        "answerIndex": 2,
+        "explanation": "Just Fontaine scored 13 goals at the 1958 World Cup, a record that still stands."
+    },
+    {
+        "id": "q62",
+        "pos": "df",
+        "difficulty": "hard",
+        "text": "Which defender has won the most Champions League titles?",
+        "choices": [
+            "Sergio Ramos",
+            "Dani Carvajal",
+            "Paolo Maldini",
+            "Marcelo"
+        ],
+        "answerIndex": 3,
+        "explanation": "Marcelo won 5 Champions League titles with Real Madrid."
+    },
+    {
+        "id": "q63",
+        "pos": "mf",
+        "difficulty": "hard",
+        "text": "Which midfielder has scored the most goals in World Cup finals history?",
+        "choices": [
+            "Pelé",
+            "Zinedine Zidane",
+            "Geoff Hurst",
+            "Paul Breitner"
+        ],
+        "answerIndex": 0,
+        "explanation": "Pelé scored in multiple World Cup finals, accumulating the most final goals."
+    },
+    {
+        "id": "q64",
+        "pos": "df",
+        "difficulty": "medium",
+        "text": "What is a 'header clearance'?",
+        "choices": [
+            "Scoring with the head",
+            "Using the head to clear the ball away from danger in the defensive area",
+            "A corner kick technique",
+            "A throw-in variation"
+        ],
+        "answerIndex": 1,
+        "explanation": "A header clearance is when a defender uses their head to direct the ball away from their goal."
+    }
+]
