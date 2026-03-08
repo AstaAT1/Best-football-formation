@@ -894,5 +894,286 @@
         ],
         "answerIndex": 1,
         "explanation": "A header clearance is when a defender uses their head to direct the ball away from their goal."
-    }
+    },
+  {
+    "id": "q71",
+    "pos": "atk",
+    "difficulty": "medium",
+    "text": "Which French legend presented the 2022 Ballon d'Or to Karim Benzema?",
+    "choices": [
+      "Thierry Henry",
+      "Zinedine Zidane",
+      "Michel Platini",
+      "Didier Deschamps"
+    ],
+    "answerIndex": 1,
+    "explanation": "Zinedine Zidane presented the 2022 Ballon d'Or to Karim Benzema."
+  },
+  {
+    "id": "q72",
+    "pos": "atk",
+    "difficulty": "hard",
+    "text": "Who scored the fastest goal in FIFA World Cup history?",
+    "choices": [
+      "Just Fontaine",
+      "Miroslav Klose",
+      "Hakan Şükür",
+      "Ronaldo Nazário"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hakan Şükür scored after 11 seconds for Turkey against South Korea in 2002."
+  },
+  {
+    "id": "q73",
+    "pos": "mf",
+    "difficulty": "easy",
+    "text": "Who scored the winning goal in the 2010 FIFA World Cup final?",
+    "choices": [
+      "David Villa",
+      "Xavi Hernández",
+      "Andrés Iniesta",
+      "Fernando Torres"
+    ],
+    "answerIndex": 2,
+    "explanation": "Andrés Iniesta scored in extra time against the Netherlands."
+  },
+  {
+    "id": "q74",
+    "pos": "atk",
+    "difficulty": "medium",
+    "text": "Who is Real Madrid's all-time top scorer?",
+    "choices": [
+      "Raúl",
+      "Karim Benzema",
+      "Cristiano Ronaldo",
+      "Alfredo Di Stéfano"
+    ],
+    "answerIndex": 2,
+    "explanation": "Cristiano Ronaldo is Real Madrid's all-time leading scorer."
+  },
+  {
+    "id": "q75",
+    "pos": "df",
+    "difficulty": "medium",
+    "text": "Which Italian defender captained Italy to the 2006 World Cup and won the Ballon d'Or that same year?",
+    "choices": [
+      "Paolo Maldini",
+      "Fabio Cannavaro",
+      "Alessandro Nesta",
+      "Leonardo Bonucci"
+    ],
+    "answerIndex": 1,
+    "explanation": "Fabio Cannavaro captained Italy in 2006 and won the Ballon d'Or."
+  },
+  {
+    "id": "q76",
+    "pos": "mf",
+    "difficulty": "medium",
+    "text": "Who assisted Andrés Iniesta's winning goal in the 2010 World Cup final?",
+    "choices": [
+      "Xavi Hernández",
+      "Sergio Busquets",
+      "Cesc Fàbregas",
+      "David Silva"
+    ],
+    "answerIndex": 2,
+    "explanation": "Cesc Fàbregas provided the assist for Iniesta's goal."
+  },
+  {
+    "id": "q77",
+    "pos": "gk",
+    "difficulty": "hard",
+    "text": "Which goalkeeper won the Golden Ball at the 2002 FIFA World Cup?",
+    "choices": [
+      "Oliver Kahn",
+      "Iker Casillas",
+      "Gianluigi Buffon",
+      "Rüştü Reçber"
+    ],
+    "answerIndex": 0,
+    "explanation": "Oliver Kahn won the Golden Ball in 2002 after outstanding performances for Germany."
+  },
+  {
+    "id": "q78",
+    "pos": "atk",
+    "difficulty": "easy",
+    "text": "Which Brazilian striker was nicknamed 'O Fenômeno'?",
+    "choices": [
+      "Romário",
+      "Ronaldo Nazário",
+      "Ronaldinho",
+      "Adriano"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ronaldo Nazário was famously known as 'O Fenômeno'."
+  },
+  {
+    "id": "q79",
+    "pos": "df",
+    "difficulty": "hard",
+    "text": "Which defender scored Real Madrid's dramatic equalizer in the 2014 Champions League final against Atlético Madrid?",
+    "choices": [
+      "Marcelo",
+      "Sergio Ramos",
+      "Pepe",
+      "Dani Carvajal"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sergio Ramos scored the famous 93rd-minute equalizer in Lisbon."
+  },
+  {
+    "id": "q80",
+    "pos": "mf",
+    "difficulty": "hard",
+    "text": "Which player won the 2007 Ballon d'Or?",
+    "choices": [
+      "Cristiano Ronaldo",
+      "Ronaldinho",
+      "Kaká",
+      "Lionel Messi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Kaká won the Ballon d'Or in 2007 after starring for AC Milan."
+  },
+  {
+    "id": "q81",
+    "pos": "atk",
+    "difficulty": "medium",
+    "text": "Which country did Hakan Şükür represent internationally?",
+    "choices": [
+      "Turkey",
+      "Croatia",
+      "Bulgaria",
+      "Greece"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hakan Şükür was one of Turkey's most famous strikers."
+  },
+  {
+    "id": "q82",
+    "pos": "gk",
+    "difficulty": "easy",
+    "text": "Which goalkeeper became famous for the 'scorpion kick' save?",
+    "choices": [
+      "José Luis Chilavert",
+      "René Higuita",
+      "Jorge Campos",
+      "Peter Schmeichel"
+    ],
+    "answerIndex": 1,
+    "explanation": "René Higuita made the scorpion kick save famous in 1995."
+  },
+  {
+    "id": "q83",
+    "pos": "mf",
+    "difficulty": "medium",
+    "text": "Which Croatian midfielder won the Ballon d'Or in 2018?",
+    "choices": [
+      "Ivan Rakitić",
+      "Luka Modrić",
+      "Mateo Kovačić",
+      "Marcelo Brozović"
+    ],
+    "answerIndex": 1,
+    "explanation": "Luka Modrić ended the Messi-Ronaldo streak by winning the 2018 Ballon d'Or."
+  },
+  {
+    "id": "q84",
+    "pos": "mf",
+    "difficulty": "hard",
+    "text": "Who scored the winning goal in the 2014 FIFA World Cup final?",
+    "choices": [
+      "Thomas Müller",
+      "Miroslav Klose",
+      "Mario Götze",
+      "Mesut Özil"
+    ],
+    "answerIndex": 2,
+    "explanation": "Mario Götze scored in extra time against Argentina."
+  },
+  {
+    "id": "q85",
+    "pos": "df",
+    "difficulty": "easy",
+    "text": "Which legendary AC Milan defender was known as 'Il Capitano'?",
+    "choices": [
+      "Franco Baresi",
+      "Paolo Maldini",
+      "Alessandro Nesta",
+      "Cafu"
+    ],
+    "answerIndex": 1,
+    "explanation": "Paolo Maldini is one of the greatest defenders in football history."
+  },
+  {
+    "id": "q86",
+    "pos": "gk",
+    "difficulty": "hard",
+    "text": "Who is the only goalkeeper to have won the Ballon d'Or?",
+    "choices": [
+      "Lev Yashin",
+      "Oliver Kahn",
+      "Gianluigi Buffon",
+      "Manuel Neuer"
+    ],
+    "answerIndex": 0,
+    "explanation": "Lev Yashin won the Ballon d'Or in 1963."
+  },
+  {
+    "id": "q87",
+    "pos": "atk",
+    "difficulty": "medium",
+    "text": "Who scored the famous bicycle kick goal for Real Madrid against Juventus in the Champions League in 2018?",
+    "choices": [
+      "Gareth Bale",
+      "Karim Benzema",
+      "Cristiano Ronaldo",
+      "Isco"
+    ],
+    "answerIndex": 2,
+    "explanation": "Cristiano Ronaldo scored one of the most famous bicycle kicks in Champions League history."
+  },
+  {
+    "id": "q88",
+    "pos": "mf",
+    "difficulty": "easy",
+    "text": "Which Spanish midfielder was known for controlling games with short passing and vision, and played for Barcelona?",
+    "choices": [
+      "Xavi Hernández",
+      "David Silva",
+      "Juan Mata",
+      "Thiago Alcântara"
+    ],
+    "answerIndex": 0,
+    "explanation": "Xavi was one of the masters of possession football with Barcelona and Spain."
+  },
+  {
+    "id": "q89",
+    "pos": "df",
+    "difficulty": "medium",
+    "text": "Which national team did Carles Puyol represent?",
+    "choices": [
+      "Italy",
+      "Portugal",
+      "Spain",
+      "Argentina"
+    ],
+    "answerIndex": 2,
+    "explanation": "Carles Puyol was a key defender for Spain and won the 2010 World Cup."
+  },
+  {
+    "id": "q90",
+    "pos": "atk",
+    "difficulty": "hard",
+    "text": "Which player scored 13 goals in a single FIFA World Cup tournament, a record that still stands?",
+    "choices": [
+      "Pelé",
+      "Just Fontaine",
+      "Gerd Müller",
+      "Miroslav Klose"
+    ],
+    "answerIndex": 1,
+    "explanation": "Just Fontaine scored 13 goals at the 1958 World Cup."
+  }
+
 ]

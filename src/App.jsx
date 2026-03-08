@@ -2,9 +2,9 @@
 // App.jsx — 15-round state machine + stage transitions
 // ============================================================
 import { useState, useRef, useCallback, useEffect } from "react";
-import "./App.css";
 
 import bg from "./assets/images/background.jpg";
+import images from "./constants/images";
 import allPlayers from "./data/players.json";
 import allQuestions from "./data/questions.json";
 
@@ -22,7 +22,7 @@ import TeamPanel from "./Components/TeamPanel";
 import CardCallout from "./Components/CardCallout";
 import StageTransition from "./Components/StageTransition";
 
-const DEFAULT_SETTINGS = { teamName: "My Team", difficulty: "medium" };
+const DEFAULT_SETTINGS = { teamName: "My Team", difficulty: "medium", stadium: null };
 
 /** Stage boundary definitions: after completing roundIndex N, show message */
 const STAGE_BOUNDARIES = {
@@ -166,9 +166,16 @@ export default function App() {
   // Don't render RoundScreen while stage transition or card callout is active
   const isBlocked = stageTransition !== null || cardEvent !== null;
 
+  const currentBg = (screen === "game" || screen === "end") && settings.stadium
+    ? images[settings.stadium]
+    : bg;
+
   return (
-    <div className="app" style={{ backgroundImage: `url(${bg})` }}>
-      <div className="app-overlay">
+    <div
+      className="min-h-screen w-full bg-cover bg-center bg-no-repeat bg-fixed"
+      style={{ backgroundImage: `url(${currentBg})` }}
+    >
+      <div className="min-h-screen w-full bg-black/80 text-white">
 
         <CardCallout
           event={cardEvent ? { ...cardEvent, teamName: settings.teamName } : null}
@@ -182,7 +189,10 @@ export default function App() {
         />
 
         {streakToast && (
-          <div className={`streak-toast ${streakToast.who === "user" ? "toast-left" : "toast-right"}`}>
+          <div
+            className={`fixed top-6 z-[100] flex animate-[bounce_0.5s_infinite] items-center gap-2 rounded-full border border-white/20 bg-black/80 px-5 py-2.5 text-sm font-black shadow-[0_4px_30px_rgba(255,152,0,0.6)] backdrop-blur-md transition-all sm:text-base ${streakToast.who === "user" ? "left-6 border-sky-400" : "right-6 border-rose-400"
+              }`}
+          >
             🔥 {streakToast.who === "user" ? settings.teamName : "AI FC"} —
             {streakToast.bonusType === "removeYellow"
               ? " Streak! 🟡 Yellow removed!"
@@ -193,7 +203,7 @@ export default function App() {
         {screen === "welcome" && <WelcomeScreen onStart={startGame} />}
 
         {screen === "game" && draftPairs.length > 0 && (
-          <div className="game-layout">
+          <div className="mx-auto grid min-h-screen w-full max-w-7xl items-start gap-4 p-4 lg:grid-cols-[220px_1fr_220px]">
             <TeamPanel
               team={teams.user} teamName={settings.teamName}
               cards={{ yellow: cards.userYellow, red: cards.userRed }}
@@ -213,9 +223,11 @@ export default function App() {
               />
             )}
             {isBlocked && (
-              <div className="round-center">
-                <div className="round-header">
-                  <span className="round-badge">Round {roundIndex + 1} / 15</span>
+              <div className="flex flex-col items-center gap-4 py-4">
+                <div className="flex flex-wrap items-center justify-center gap-3">
+                  <span className="rounded-xl border border-white/10 bg-white/[0.04] px-3 py-1 text-sm font-bold text-white/50">
+                    Round {roundIndex + 1} / 15
+                  </span>
                 </div>
               </div>
             )}

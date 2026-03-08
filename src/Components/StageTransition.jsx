@@ -24,14 +24,15 @@ export default function StageTransition({ message, isSpecial, onDone }) {
         <AnimatePresence>
             {message && (
                 <motion.div
-                    className="stage-overlay"
+                    className="fixed inset-0 z-[150] flex flex-col items-center justify-center bg-black/85 p-6 backdrop-blur-sm"
                     initial={{ opacity: 0 }}
                     animate={{ opacity: 1 }}
                     exit={{ opacity: 0 }}
                     transition={{ duration: 0.3 }}
                 >
                     <motion.div
-                        className={`stage-box ${isSpecial ? "stage-special" : ""}`}
+                        className={`flex max-w-lg flex-col items-center gap-4 rounded-3xl border border-white/10 bg-[#0b1018]/95 p-8 text-center shadow-2xl ${isSpecial ? "border-amber-400/50 bg-amber-950/40 shadow-[0_0_40px_rgba(251,191,36,0.2)]" : ""
+                            }`}
                         initial={{ scale: 0.5, opacity: 0 }}
                         animate={{ scale: 1, opacity: 1 }}
                         exit={{ scale: 0.8, opacity: 0 }}
@@ -40,12 +41,14 @@ export default function StageTransition({ message, isSpecial, onDone }) {
                         <motion.img
                             src={images.PierluigiCollina}
                             alt="Referee Collina"
-                            className="stage-ref-img"
+                            className="h-[120px] w-[120px] rounded-full border-[3px] border-white/20 object-cover shadow-xl"
                             animate={{ scale: [1, 1.06, 1] }}
                             transition={{ repeat: 1, duration: 0.6, ease: "easeInOut" }}
                         />
-                        {isSpecial && <span className="stage-whistle">🏟️</span>}
-                        <p className="stage-msg">{message}</p>
+                        {isSpecial && <span className="text-4xl drop-shadow-lg">🏟️</span>}
+                        <p className={`text-lg font-bold leading-relaxed tracking-tight ${isSpecial ? "text-amber-300" : "text-white"}`}>
+                            {message}
+                        </p>
                     </motion.div>
                 </motion.div>
             )}

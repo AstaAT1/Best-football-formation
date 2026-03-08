@@ -3,98 +3,97 @@
     "id": "achraf_hakimi",
     "name": "Achraf Hakimi",
     "pos": "df",
-    "overall": 85,
+    "overall": 88,
     "imageKey": "AchrafHakimi",
     "nation": "Morocco",
     "club": "Paris Saint-Germain"
   },
-  
   {
     "id": "adam_aznou",
     "name": "Adam Aznou",
     "pos": "df",
-    "overall": 72,
+    "overall": 74,
     "imageKey": "AdamAznou",
     "nation": "Morocco",
+    "club": "Everton"
+  },
+  {
+    "id": "carles_puyol",
+    "name": "Carles Puyol",
+    "pos": "df",
+    "overall": 90,
+    "imageKey": "CarlesPuyol",
+    "nation": "Spain",
+    "club": "FC Barcelona"
+  },
+  {
+    "id": "omar_marmoush",
+    "name": "Omar Marmoush",
+    "pos": "atk",
+    "overall": 84,
+    "imageKey": "OmarMarmoush",
+    "nation": "Egypt",
+    "club": "Manchester City"
+  },
+  {
+    "id": "andrea_pirlo",
+    "name": "Andrea Pirlo",
+    "pos": "mf",
+    "overall": 91,
+    "imageKey": "AndreaPirlo",
+    "nation": "Italy",
+    "club": "Juventus"
+  },
+  {
+    "id": "jamal_musiala",
+    "name": "Jamal Musiala",
+    "pos": "mf",
+    "overall": 90,
+    "imageKey": "JamalMusiala",
+    "nation": "Germany",
     "club": "Bayern Munich"
   },
   {
-  "id": "carles_puyol",
-  "name": "Carles Puyol",
-  "pos": "df",
-  "overall": 90,
-  "imageKey": "CarlesPuyol",
-  "nation": "Spain",
-  "club": "FC Barcelona"
-},
-{
-  "id": "omar_marmoush",
-  "name": "Omar Marmoush",
-  "pos": "atk",
-  "overall": 81,
-  "imageKey": "OmarMarmoush",
-  "nation": "Egypt",
-  "club": "Eintracht Frankfurt"
-},
-{
-  "id": "andrea_pirlo",
-  "name": "Andrea Pirlo",
-  "pos": "mf",
-  "overall": 92,
-  "imageKey": "AndreaPirlo",
-  "nation": "Italy",
-  "club": "Juventus"
-},
-{
-  "id": "jamal_musiala",
-  "name": "Jamal Musiala",
-  "pos": "mf",
-  "overall": 86,
-  "imageKey": "JamalMusiala",
-  "nation": "Germany",
-  "club": "Bayern Munich"
-},
-{
-  "id": "marc_cucurella",
-  "name": "Marc Cucurella",
-  "pos": "df",
-  "overall": 83,
-  "imageKey": "MarcCucurella",
-  "nation": "Spain",
-  "club": "Chelsea"
-},
-{
-  "id": "paulo_dybala",
-  "name": "Paulo Dybala",
-  "pos": "atk",
-  "overall": 86,
-  "imageKey": "PauloDybala",
-  "nation": "Argentina",
-  "club": "AS Roma"
-},
-{
-  "id": "yassine_bono",
-  "name": "Yassine Bounou (Bono)",
-  "pos": "gk",
-  "overall": 84,
-  "imageKey": "YassineBono",
-  "nation": "Morocco",
-  "club": "Al Hilal"
-},
-{
-  "id": "mohamed_el_shenawy",
-  "name": "Mohamed El Shenawy",
-  "pos": "gk",
-  "overall": 78,
-  "imageKey": "MohamedElShenawy",
-  "nation": "Egypt",
-  "club": "Al Ahly"
-},
+    "id": "marc_cucurella",
+    "name": "Marc Cucurella",
+    "pos": "df",
+    "overall": 84,
+    "imageKey": "MarcCucurella",
+    "nation": "Spain",
+    "club": "Chelsea"
+  },
+  {
+    "id": "paulo_dybala",
+    "name": "Paulo Dybala",
+    "pos": "atk",
+    "overall": 85,
+    "imageKey": "PauloDybala",
+    "nation": "Argentina",
+    "club": "AS Roma"
+  },
+  {
+    "id": "yassine_bono",
+    "name": "Yassine Bounou (Bono)",
+    "pos": "gk",
+    "overall": 84,
+    "imageKey": "YassineBono",
+    "nation": "Morocco",
+    "club": "Al Hilal"
+  },
+  {
+    "id": "mohamed_el_shenawy",
+    "name": "Mohamed El Shenawy",
+    "pos": "gk",
+    "overall": 79,
+    "imageKey": "MohamedElShenawy",
+    "nation": "Egypt",
+    "club": "Al Ahly"
+  },
   {
     "id": "antoine_griezmann",
     "name": "Antoine Griezmann",
     "pos": "atk",
-    "overall": 86,
+    "overall": 85,
     "imageKey": "AntoineGriezmann",
     "nation": "France",
     "club": "Atlético Madrid"
@@ -103,7 +102,7 @@
     "id": "bruno_fernandes",
     "name": "Bruno Fernandes",
     "pos": "mf",
-    "overall": 86,
+    "overall": 87,
     "imageKey": "BrunoFernandes",
     "nation": "Portugal",
     "club": "Manchester United"
@@ -121,7 +120,7 @@
     "id": "bukayo_saka",
     "name": "Bukayo Saka",
     "pos": "atk",
-    "overall": 87,
+    "overall": 89,
     "imageKey": "BukayoSaka",
     "nation": "England",
     "club": "Arsenal"
@@ -139,7 +138,7 @@
     "id": "enzo_fernandez",
     "name": "Enzo Fernández",
     "pos": "mf",
-    "overall": 83,
+    "overall": 85,
     "imageKey": "EnzoFernandez",
     "nation": "Argentina",
     "club": "Chelsea"
@@ -157,7 +156,7 @@
     "id": "federico_valverde",
     "name": "Federico Valverde",
     "pos": "mf",
-    "overall": 87,
+    "overall": 89,
     "imageKey": "FedericoValverde",
     "nation": "Uruguay",
     "club": "Real Madrid"
@@ -166,7 +165,7 @@
     "id": "gerard_pique",
     "name": "Gerard Piqué",
     "pos": "df",
-    "overall": 85,
+    "overall": 93,
     "imageKey": "GerardPiquet",
     "nation": "Spain",
     "club": "FC Barcelona"
@@ -184,7 +183,7 @@
     "id": "harry_maguire",
     "name": "Harry Maguire",
     "pos": "df",
-    "overall": 76,
+    "overall": 77,
     "imageKey": "HarryMaguire",
     "nation": "England",
     "club": "Manchester United"
@@ -193,7 +192,7 @@
     "id": "isco_alarcon",
     "name": "Isco Alarcón",
     "pos": "mf",
-    "overall": 82,
+    "overall": 83,
     "imageKey": "IscoAlarcon",
     "nation": "Spain",
     "club": "Real Betis"
@@ -202,7 +201,7 @@
     "id": "jan_oblak",
     "name": "Jan Oblak",
     "pos": "gk",
-    "overall": 89,
+    "overall": 88,
     "imageKey": "JanOblak",
     "nation": "Slovenia",
     "club": "Atlético Madrid"
@@ -211,10 +210,10 @@
     "id": "joao_neves",
     "name": "João Neves",
     "pos": "mf",
-    "overall": 80,
+    "overall": 85,
     "imageKey": "JoaoNeves",
     "nation": "Portugal",
-    "club": "Benfica"
+    "club": "Paris Saint-Germain"
   },
   {
     "id": "joshua_kimmich",
@@ -229,7 +228,7 @@
     "id": "kieran_trippier",
     "name": "Kieran Trippier",
     "pos": "df",
-    "overall": 80,
+    "overall": 79,
     "imageKey": "KieranTrippier",
     "nation": "England",
     "club": "Newcastle United"
@@ -238,10 +237,10 @@
     "id": "kyle_walker",
     "name": "Kyle Walker",
     "pos": "df",
-    "overall": 83,
+    "overall": 82,
     "imageKey": "KyleWalker",
     "nation": "England",
-    "club": "Manchester City"
+    "club": "Burnley"
   },
   {
     "id": "kylian_mbappe",
@@ -250,13 +249,13 @@
     "overall": 93,
     "imageKey": "KylianMbappe",
     "nation": "France",
-    "club": "Paris Saint-Germain"
+    "club": "Real Madrid"
   },
   {
     "id": "lamine_yamal",
     "name": "Lamine Yamal",
     "pos": "atk",
-    "overall": 84,
+    "overall": 89,
     "imageKey": "LamineYamal",
     "nation": "Spain",
     "club": "FC Barcelona"
@@ -265,7 +264,7 @@
     "id": "lautaro_martinez",
     "name": "Lautaro Martínez",
     "pos": "atk",
-    "overall": 88,
+    "overall": 89,
     "imageKey": "LautaroMartinez",
     "nation": "Argentina",
     "club": "Inter"
@@ -283,7 +282,7 @@
     "id": "nicolas_otamendi",
     "name": "Nicolás Otamendi",
     "pos": "mf",
-    "overall": 79,
+    "overall": 80,
     "imageKey": "NicolasOtamendi",
     "nation": "Argentina",
     "club": "Benfica"
@@ -301,7 +300,7 @@
     "id": "raphinha",
     "name": "Raphinha",
     "pos": "atk",
-    "overall": 85,
+    "overall": 86,
     "imageKey": "Raphinha",
     "nation": "Brazil",
     "club": "FC Barcelona"
@@ -310,7 +309,7 @@
     "id": "sergio_ramos",
     "name": "Sergio Ramos",
     "pos": "df",
-    "overall": 88,
+    "overall": 82,
     "imageKey": "SergioRamos",
     "nation": "Spain",
     "club": "Real Madrid"
@@ -319,7 +318,7 @@
     "id": "trent_alexander_arnold",
     "name": "Trent Alexander-Arnold",
     "pos": "df",
-    "overall": 87,
+    "overall": 88,
     "imageKey": "TrentAlexanderArnold",
     "nation": "England",
     "club": "Liverpool"
@@ -328,7 +327,7 @@
     "id": "vinicius_junior",
     "name": "Vinícius Júnior",
     "pos": "atk",
-    "overall": 91,
+    "overall": 92,
     "imageKey": "ViniciusJunior",
     "nation": "Brazil",
     "club": "Real Madrid"
@@ -337,7 +336,7 @@
     "id": "william_saliba",
     "name": "William Saliba",
     "pos": "df",
-    "overall": 86,
+    "overall": 88,
     "imageKey": "WilliamSaliba",
     "nation": "France",
     "club": "Arsenal"
@@ -368,5 +367,185 @@
     "imageKey": "ZinedineZidane",
     "nation": "France",
     "club": "Real Madrid"
+  },
+  {
+    "id": "moises_caicedo",
+    "name": "Moisés Caicedo",
+    "pos": "mf",
+    "overall": 87,
+    "imageKey": "MoisesCaicedo",
+    "nation": "Ecuador",
+    "club": "Chelsea"
+  },
+  {
+    "id": "hugo_ekitike",
+    "name": "Hugo Ekitiké",
+    "pos": "atk",
+    "overall": 84,
+    "imageKey": "HugoEkitike",
+    "nation": "France",
+    "club": "Liverpool"
+  },
+  {
+    "id": "david_raya",
+    "name": "David Raya",
+    "pos": "gk",
+    "overall": 85,
+    "imageKey": "DavidRaya",
+    "nation": "Spain",
+    "club": "Arsenal"
+  },
+  {
+    "id": "kaka",
+    "name": "Kaká",
+    "pos": "mf",
+    "overall": 91,
+    "imageKey": "Kaka",
+    "nation": "Brazil",
+    "club": "AC Milan"
+  },
+  {
+    "id": "franz_beckenbauer",
+    "name": "Franz Beckenbauer",
+    "pos": "df",
+    "overall": 94,
+    "imageKey": "Beckenbauer",
+    "nation": "Germany",
+    "club": "Bayern Munich"
+  },
+  {
+    "id": "ronaldinho",
+    "name": "Ronaldinho",
+    "pos": "atk",
+    "overall": 92,
+    "imageKey": "Ronaldinho",
+    "nation": "Brazil",
+    "club": "FC Barcelona"
+  },
+  {
+    "id": "bart_verbruggen",
+    "name": "Bart Verbruggen",
+    "pos": "gk",
+    "overall": 82,
+    "imageKey": "BartVerbruggen",
+    "nation": "Netherlands",
+    "club": "Brighton & Hove Albion"
+  },
+  {
+    "id": "manuel_akanji",
+    "name": "Manuel Akanji",
+    "pos": "df",
+    "overall": 84,
+    "imageKey": "ManuelAkanji",
+    "nation": "Switzerland",
+    "club": "Inter Milan"
+  },
+  {
+    "id": "andre_onana",
+    "name": "André Onana",
+    "pos": "gk",
+    "overall": 81,
+    "imageKey": "AndreOnana",
+    "nation": "Cameroon",
+    "club": "Trabzonspor"
+  },
+  {
+    "id": "antonee_robinson",
+    "name": "Antonee Robinson",
+    "pos": "df",
+    "overall": 84,
+    "imageKey": "AntoneeRobinson",
+    "nation": "United States",
+    "club": "Fulham"
+  },
+  {
+    "id": "james_justin",
+    "name": "James Justin",
+    "pos": "df",
+    "overall": 76,
+    "imageKey": "JamesJustin",
+    "nation": "England",
+    "club": "Leeds United"
+  },
+  {
+    "id": "bruno_guimaraes",
+    "name": "Bruno Guimarães",
+    "pos": "mf",
+    "overall": 87,
+    "imageKey": "BrunoGuimaraes",
+    "nation": "Brazil",
+    "club": "Newcastle United"
+  },
+  {
+    "id": "xavi_simons",
+    "name": "Xavi Simons",
+    "pos": "mf",
+    "overall": 86,
+    "imageKey": "XaviSimons",
+    "nation": "Netherlands",
+    "club": "Tottenham Hotspur"
+  },
+  {
+    "id": "antony_dos_santos",
+    "name": "Antony dos Santos",
+    "pos": "atk",
+    "overall": 79,
+    "imageKey": "AntonyDosSantos",
+    "nation": "Brazil",
+    "club": "Real Betis"
+  },
+  {
+    "id": "paul_pogba",
+    "name": "Paul Pogba",
+    "pos": "mf",
+    "overall": 80,
+    "imageKey": "PaulPogba",
+    "nation": "France",
+    "club": "Monaco"
+  },
+  {
+    "id": "ansu_fati",
+    "name": "Ansu Fati",
+    "pos": "atk",
+    "overall": 78,
+    "imageKey": "AnsuFati",
+    "nation": "Spain",
+    "club": "Monaco"
+  },
+  {
+    "id": "rodrigo_de_paul",
+    "name": "Rodrigo De Paul",
+    "pos": "mf",
+    "overall": 84,
+    "imageKey": "RodrigoDePaul",
+    "nation": "Argentina",
+    "club": "Inter Miami"
+  },
+  {
+    "id": "nico_williams",
+    "name": "Nico Williams",
+    "pos": "atk",
+    "overall": 88,
+    "imageKey": "NicoWilliams",
+    "nation": "Spain",
+    "club": "Athletic Bilbao"
+  },
+  {
+    "id": "marcos_acuna",
+    "name": "Marcos Acuña",
+    "pos": "df",
+    "overall": 80,
+    "imageKey": "MarcosAcuna",
+    "nation": "Argentina",
+    "club": "River Plate"
+  },
+  {
+    "id": "youssef_en_nesyri",
+    "name": "Youssef En-Nesyri",
+    "pos": "atk",
+    "overall": 83,
+    "imageKey": "YoussefEnNesyri",
+    "nation": "Morocco",
+    "club": "Al-Ittihad"
   }
 ]
