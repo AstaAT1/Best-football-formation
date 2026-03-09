@@ -66,9 +66,17 @@ export function shuffleChoices(question) {
  */
 export function pickUnusedQuestion(questions, pos, difficulty, usedIds) {
     const posUp = normalizePos(pos);
-    const unusedForPos = questions.filter(
+    let unusedForPos = questions.filter(
         (q) => normalizePos(q.pos) === posUp && !usedIds.has(q.id)
     );
+
+    // If all questions for this position have been used, refill the pool
+    // by removing only this position's questions from the usedIds set.
+    if (unusedForPos.length === 0) {
+        const posQuestions = questions.filter(q => normalizePos(q.pos) === posUp);
+        posQuestions.forEach(q => usedIds.delete(q.id));
+        unusedForPos = posQuestions;
+    }
 
     const diffOrder =
         difficulty === "easy" ? ["easy", "medium", "hard"] :
@@ -80,10 +88,13 @@ export function pickUnusedQuestion(questions, pos, difficulty, usedIds) {
         if (pool.length) return pool[Math.floor(Math.random() * pool.length)];
     }
 
+    // Fallback 1: Any unused question across all positions
     const anyUnused = questions.filter((q) => !usedIds.has(q.id));
     if (anyUnused.length) return anyUnused[Math.floor(Math.random() * anyUnused.length)];
 
-    return questions[0];
+    // Fallback 2: If somehow literally all questions are used and we didn't refill, 
+    // simply return a completely random question from the entire dataset.
+    return questions[Math.floor(Math.random() * questions.length)];
 }
 
 /** Random float in [min, max) */

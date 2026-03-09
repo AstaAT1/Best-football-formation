@@ -69,7 +69,6 @@ export default function App() {
   }, [streakToast]);
 
   function startGame(settings) {
-    usedQIds.current = new Set();
     setGame({
       screen: "game",
       settings: { ...DEFAULT_SETTINGS, ...settings },

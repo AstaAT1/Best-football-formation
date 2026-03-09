@@ -65,11 +65,45 @@ import stadebernabeu from "../assets/images/stade-bernabeu.jpg";
 import barcastade from "../assets/images/barca-stade.jpg";
 import moroccostade from "../assets/images/Prince-Moulay-Abdellah-Stade.jpg";
 import uclstade from "../assets/images/champions-league-stade.jpg";
+import RamyBensebaini from "../assets/images/Ramy-Bensebaini-df.jpg";
+import TeunKoopmeiners from "../assets/images/Teun-Koopmeiners-mf.jpg";
+import YouriTielemans from "../assets/images/Youri-Tielemans-mf.jpg";
+import RodrigoHernandez from "../assets/images/Rodrigo-Hernandez-mf.jpg";
+import DeclanRice from "../assets/images/Declan-Rice-mf.jpg";
+import Richardríos from "../assets/images/Richard-ríos-mf.jpg";
+import KenanYildiz from "../assets/images/Kenan-Yildiz-atk.jpg";
+import FranciscoTrincao from "../assets/images/Francisco-Trincao-atk.jpg";
+import PauTorres from "../assets/images/Pau-Torres-df.jpg"
+import NunoMendes from "../assets/images/nuno-mendes-df.jpg"
+import VirgilVanDijk from "../assets/images/Virgil-Van-Dijk-df.jpg"
+import  BenWithe from "../assets/images/Ben-White-df.jpg"
+import  MarkosCafu from "../assets/images/Markos-Cafu-df.jpg"
+import gabrielmagalhaes from "../assets/images/gabriel-magalhaes-df.jpg"
+import CodyGakpo from "../assets/images/Cody-Gakpo-atk.jpg"
+
 
 const images = {
   // ─── Players (keys match players.json imageKey exactly) ───
   AchrafHakimi,
   AdamAznou,
+  RamyBensebaini,
+  TeunKoopmeiners,
+  YouriTielemans,
+  RodrigoHernandez,
+  DeclanRice,
+  Richardríos,
+  FranciscoTrincao,
+  KenanYildiz,
+
+  PauTorres,
+  NunoMendes,
+  VirgilVanDijk,
+  BenWithe,
+  MarkosCafu,
+  gabrielmagalhaes,
+
+  CodyGakpo,
+
   AntoineGriezmann,
   BrunoFernandes,
   Buffon,

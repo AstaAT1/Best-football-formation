@@ -1174,6 +1174,1687 @@
     ],
     "answerIndex": 1,
     "explanation": "Just Fontaine scored 13 goals at the 1958 World Cup."
+  },
+  {
+    "id": "q91",
+    "pos": "gk",
+    "difficulty": "easy",
+    "text": "How wide is a regulation football goal?",
+    "choices": [
+      "6.4 metres",
+      "7.32 metres",
+      "8 metres",
+      "9 metres"
+    ],
+    "answerIndex": 1,
+    "explanation": "A standard football goal is 7.32 metres (8 yards) wide and 2.44 metres tall."
+  },
+  {
+    "id": "q92",
+    "pos": "gk",
+    "difficulty": "medium",
+    "text": "Which goalkeeper won the Premier League Golden Glove a record 5 times?",
+    "choices": [
+      "David de Gea",
+      "Joe Hart",
+      "Peter Schmeichel",
+      "Pepe Reina"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pepe Reina won the Premier League Golden Glove award five times with Liverpool."
+  },
+  {
+    "id": "q93",
+    "pos": "gk",
+    "difficulty": "hard",
+    "text": "Which goalkeeper conceded the fewest goals in a single Premier League season (38 games)?",
+    "choices": [
+      "Edwin van der Sar",
+      "Petr Čech",
+      "Alisson Becker",
+      "José Reina"
+    ],
+    "answerIndex": 1,
+    "explanation": "Petr Čech conceded only 15 goals in the 2004–05 Premier League season for Chelsea."
+  },
+  {
+    "id": "q94",
+    "pos": "gk",
+    "difficulty": "easy",
+    "text": "What is the maximum number of steps a goalkeeper can take while holding the ball?",
+    "choices": [
+      "2",
+      "4",
+      "6",
+      "Unlimited"
+    ],
+    "answerIndex": 1,
+    "explanation": "A goalkeeper can take a maximum of 4 steps while holding the ball before they must release it."
+  },
+  {
+    "id": "q95",
+    "pos": "gk",
+    "difficulty": "medium",
+    "text": "Which goalkeeper famously saved three penalties in a 2005 Champions League final shootout?",
+    "choices": [
+      "Oliver Kahn",
+      "Jerzy Dudek",
+      "Gianluigi Buffon",
+      "Víctor Valdés"
+    ],
+    "answerIndex": 1,
+    "explanation": "Jerzy Dudek made three penalty saves for Liverpool against AC Milan in Istanbul 2005."
+  },
+  {
+    "id": "q96",
+    "pos": "gk",
+    "difficulty": "hard",
+    "text": "Which national team did legendary goalkeeper Lev Yashin play for?",
+    "choices": [
+      "Czechoslovakia",
+      "East Germany",
+      "Soviet Union",
+      "Yugoslavia"
+    ],
+    "answerIndex": 2,
+    "explanation": "Lev Yashin, known as the 'Black Spider', was the Soviet Union's legendary goalkeeper."
+  },
+  {
+    "id": "q97",
+    "pos": "gk",
+    "difficulty": "medium",
+    "text": "Which goalkeeper holds the record for the most clean sheets in Premier League history?",
+    "choices": [
+      "Peter Schmeichel",
+      "David de Gea",
+      "Edwin van der Sar",
+      "Petr Čech"
+    ],
+    "answerIndex": 3,
+    "explanation": "Petr Čech holds the Premier League record with 202 clean sheets."
+  },
+  {
+    "id": "q98",
+    "pos": "gk",
+    "difficulty": "easy",
+    "text": "From where is a goal kick taken?",
+    "choices": [
+      "Centre circle",
+      "Penalty spot",
+      "Anywhere in the goal area",
+      "Halfway line"
+    ],
+    "answerIndex": 2,
+    "explanation": "A goal kick can be taken from anywhere inside the goal area (the 6-yard box)."
+  },
+  {
+    "id": "q99",
+    "pos": "gk",
+    "difficulty": "hard",
+    "text": "Which goalkeeper scored a competitive goal directly from a drop kick?",
+    "choices": [
+      "Peter Schmeichel",
+      "Alisson Becker",
+      "Tim Howard",
+      "Brad Friedel"
+    ],
+    "answerIndex": 1,
+    "explanation": "Alisson Becker scored a dramatic header for Liverpool against West Brom in May 2021."
+  },
+  {
+    "id": "q100",
+    "pos": "gk",
+    "difficulty": "medium",
+    "text": "Which World Cup saw Germany goalkeeper Oliver Kahn win the Golden Ball award despite finishing as runners-up?",
+    "choices": [
+      "1998",
+      "2002",
+      "2006",
+      "2010"
+    ],
+    "answerIndex": 1,
+    "explanation": "Oliver Kahn won the Golden Ball at the 2002 World Cup despite Germany losing the final to Brazil."
+  },
+  {
+    "id": "q101",
+    "pos": "gk",
+    "difficulty": "hard",
+    "text": "Which goalkeeper kept a clean sheet in a World Cup final and never conceded in 1,142 minutes of international football?",
+    "choices": [
+      "Walter Zenga",
+      "Iker Casillas",
+      "Peter Shilton",
+      "Dino Zoff"
+    ],
+    "answerIndex": 3,
+    "explanation": "Dino Zoff went 1,142 minutes without conceding for Italy and captained them to the 1982 World Cup."
+  },
+  {
+    "id": "q102",
+    "pos": "df",
+    "difficulty": "easy",
+    "text": "What colour card results in a player being immediately sent off?",
+    "choices": [
+      "Yellow",
+      "Blue",
+      "Red",
+      "Orange"
+    ],
+    "answerIndex": 2,
+    "explanation": "A red card means the player is immediately sent off and cannot be replaced."
+  },
+  {
+    "id": "q103",
+    "pos": "df",
+    "difficulty": "medium",
+    "text": "Which Brazilian right-back won the Champions League with both Barcelona and Juventus?",
+    "choices": [
+      "Cafu",
+      "Dani Alves",
+      "Maicon",
+      "Danilo"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dani Alves won the Champions League with Barcelona and later won Serie A and Coppa Italia with Juventus."
+  },
+  {
+    "id": "q104",
+    "pos": "df",
+    "difficulty": "hard",
+    "text": "Who is the only defender to win the FIFA World Player of the Year award?",
+    "choices": [
+      "Paolo Maldini",
+      "Fabio Cannavaro",
+      "Sergio Ramos",
+      "Franz Beckenbauer"
+    ],
+    "answerIndex": 1,
+    "explanation": "Fabio Cannavaro won the FIFA World Player of the Year in 2006 after Italy's World Cup triumph."
+  },
+  {
+    "id": "q105",
+    "pos": "df",
+    "difficulty": "easy",
+    "text": "What restart takes place after the ball goes out of play over the touchline?",
+    "choices": [
+      "Corner kick",
+      "Goal kick",
+      "Throw-in",
+      "Free kick"
+    ],
+    "answerIndex": 2,
+    "explanation": "A throw-in is awarded when the ball crosses the touchline."
+  },
+  {
+    "id": "q106",
+    "pos": "df",
+    "difficulty": "medium",
+    "text": "Which English defender captained Chelsea to back-to-back Premier League titles in 2005 and 2006?",
+    "choices": [
+      "Rio Ferdinand",
+      "Ashley Cole",
+      "John Terry",
+      "Sol Campbell"
+    ],
+    "answerIndex": 2,
+    "explanation": "John Terry captained Chelsea through their historic back-to-back league titles under José Mourinho."
+  },
+  {
+    "id": "q107",
+    "pos": "df",
+    "difficulty": "hard",
+    "text": "Which defender was known as 'The Kaiser' and won the World Cup as both player and manager?",
+    "choices": [
+      "Lothar Matthäus",
+      "Franz Beckenbauer",
+      "Berti Vogts",
+      "Karl-Heinz Rummenigge"
+    ],
+    "answerIndex": 1,
+    "explanation": "Franz Beckenbauer won the World Cup in 1974 as a player and in 1990 as Germany's manager."
+  },
+  {
+    "id": "q108",
+    "pos": "df",
+    "difficulty": "medium",
+    "text": "Which nation does Virgil van Dijk represent internationally?",
+    "choices": [
+      "Belgium",
+      "Denmark",
+      "Netherlands",
+      "Sweden"
+    ],
+    "answerIndex": 2,
+    "explanation": "Virgil van Dijk captains the Netherlands national team."
+  },
+  {
+    "id": "q109",
+    "pos": "df",
+    "difficulty": "easy",
+    "text": "What is a 'zonal marking' system?",
+    "choices": [
+      "Each defender man-marks a specific opponent",
+      "Defenders guard zones of the pitch rather than specific players",
+      "The goalkeeper calls defensive positions",
+      "A counter-attacking tactic"
+    ],
+    "answerIndex": 1,
+    "explanation": "In zonal marking, defenders cover assigned areas of the pitch instead of following individual opponents."
+  },
+  {
+    "id": "q110",
+    "pos": "df",
+    "difficulty": "hard",
+    "text": "Which English club went an entire 49-game unbeaten league run between 2003 and 2004?",
+    "choices": [
+      "Manchester United",
+      "Chelsea",
+      "Arsenal",
+      "Liverpool"
+    ],
+    "answerIndex": 2,
+    "explanation": "Arsenal's 'Invincibles' went 49 Premier League games unbeaten under Arsène Wenger."
+  },
+  {
+    "id": "q111",
+    "pos": "df",
+    "difficulty": "medium",
+    "text": "Which Portuguese defender plays for Manchester City and is known for his leadership at the back?",
+    "choices": [
+      "Pepe",
+      "Bruno Alves",
+      "Rúben Dias",
+      "José Fonte"
+    ],
+    "answerIndex": 2,
+    "explanation": "Rúben Dias won the Premier League with Manchester City and was named the league's best player in 2020–21."
+  },
+  {
+    "id": "q112",
+    "pos": "df",
+    "difficulty": "hard",
+    "text": "Which Dutch defender captained his country to the 1988 European Championship?",
+    "choices": [
+      "Frank Rijkaard",
+      "Ronald Koeman",
+      "Ruud Gullit",
+      "Danny Blind"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ruud Gullit captained the Netherlands to their only major international trophy at Euro 1988."
+  },
+  {
+    "id": "q113",
+    "pos": "df",
+    "difficulty": "easy",
+    "text": "How many players are on each side in a standard football match?",
+    "choices": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answerIndex": 2,
+    "explanation": "Each team fields 11 players, including the goalkeeper, in a standard match."
+  },
+  {
+    "id": "q114",
+    "pos": "df",
+    "difficulty": "medium",
+    "text": "Which Spanish defender scored the winning goal for Barcelona in the 2009 Champions League final?",
+    "choices": [
+      "Carles Puyol",
+      "Gerard Piqué",
+      "Eric Abidal",
+      "Gabriel Milito"
+    ],
+    "answerIndex": 1,
+    "explanation": "Gerard Piqué scored Barcelona's second goal in the 2009 Champions League final win over Manchester United."
+  },
+  {
+    "id": "q115",
+    "pos": "df",
+    "difficulty": "hard",
+    "text": "Which left-back won 5 Champions League titles and 9 La Liga titles, all with Real Madrid?",
+    "choices": [
+      "Roberto Carlos",
+      "Ferland Mendy",
+      "Marcelo",
+      "Álvaro Arbeloa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Marcelo won 5 Champions League titles with Real Madrid, making him the most decorated player in the competition."
+  },
+  {
+    "id": "q116",
+    "pos": "mf",
+    "difficulty": "easy",
+    "text": "What trophy is awarded to the best player at each FIFA World Cup?",
+    "choices": [
+      "Golden Glove",
+      "Golden Boot",
+      "Golden Ball",
+      "Ballon d'Or"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Golden Ball is awarded to the best player of the FIFA World Cup tournament."
+  },
+  {
+    "id": "q117",
+    "pos": "mf",
+    "difficulty": "medium",
+    "text": "Which Brazilian midfielder is famous for his dribbling, tricks, and playing for FC Barcelona?",
+    "choices": [
+      "Kaká",
+      "Rivaldo",
+      "Ronaldinho",
+      "Robinho"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ronaldinho dazzled the world with his tricks and flair during his time at FC Barcelona."
+  },
+  {
+    "id": "q118",
+    "pos": "mf",
+    "difficulty": "hard",
+    "text": "Which midfielder won the Champions League with three different clubs?",
+    "choices": [
+      "Clarence Seedorf",
+      "Xavi Hernández",
+      "Claude Makélélé",
+      "Patrick Vieira"
+    ],
+    "answerIndex": 0,
+    "explanation": "Clarence Seedorf won the Champions League with Ajax (1995), Real Madrid (1998), and AC Milan (2003, 2007)."
+  },
+  {
+    "id": "q119",
+    "pos": "mf",
+    "difficulty": "easy",
+    "text": "What does 'pressing' mean in modern football?",
+    "choices": [
+      "Shooting at goal repeatedly",
+      "Aggressively chasing the ball high up the pitch to win it back quickly",
+      "Passing the ball backwards",
+      "Playing a long ball over the defense"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pressing means pressuring the opponent immediately after losing the ball to win it back quickly."
+  },
+  {
+    "id": "q120",
+    "pos": "mf",
+    "difficulty": "medium",
+    "text": "Which German midfielder was nicknamed 'Der Bomber der Nation' for his prolific scoring?",
+    "choices": [
+      "Lothar Matthäus",
+      "Gerd Müller",
+      "Michael Ballack",
+      "Karl-Heinz Rummenigge"
+    ],
+    "answerIndex": 1,
+    "explanation": "Gerd Müller was nicknamed 'Der Bomber' for his incredible goal-scoring instinct for Bayern Munich and Germany."
+  },
+  {
+    "id": "q121",
+    "pos": "mf",
+    "difficulty": "hard",
+    "text": "Which club did Kevin De Bruyne join before moving to Manchester City?",
+    "choices": [
+      "RSC Anderlecht",
+      "Bayer Leverkusen",
+      "Chelsea",
+      "VfL Wolfsburg"
+    ],
+    "answerIndex": 3,
+    "explanation": "Kevin De Bruyne starred for VfL Wolfsburg, winning the Bundesliga Player of the Season, before joining Man City."
+  },
+  {
+    "id": "q122",
+    "pos": "mf",
+    "difficulty": "medium",
+    "text": "Which midfielder is known as 'La Pulga' (The Flea) due to his small stature?",
+    "choices": [
+      "Andrés Iniesta",
+      "David Silva",
+      "Lionel Messi",
+      "Xavi Hernández"
+    ],
+    "answerIndex": 2,
+    "explanation": "Lionel Messi is nicknamed 'La Pulga' because of his small frame and quick, elusive movement."
+  },
+  {
+    "id": "q123",
+    "pos": "mf",
+    "difficulty": "easy",
+    "text": "What is a 'free kick' in football?",
+    "choices": [
+      "A kick awarded to the opposing team after a foul",
+      "A kick taken without any defenders nearby",
+      "A penalty kick",
+      "A kick awarded to restart the game after a goal"
+    ],
+    "answerIndex": 0,
+    "explanation": "A free kick is awarded to a team after the opponents commit a foul."
+  },
+  {
+    "id": "q124",
+    "pos": "mf",
+    "difficulty": "hard",
+    "text": "Which midfielder scored the winning goal in extra time of the 1998 World Cup final?",
+    "choices": [
+      "Zinedine Zidane",
+      "Emmanuel Petit",
+      "Lilian Thuram",
+      "Patrick Vieira"
+    ],
+    "answerIndex": 1,
+    "explanation": "Emmanuel Petit scored the third goal in France's 3–0 win over Brazil in the 1998 World Cup final."
+  },
+  {
+    "id": "q125",
+    "pos": "mf",
+    "difficulty": "medium",
+    "text": "Which Italian playmaker was famous for his vision and passing at Juventus in the 1980s?",
+    "choices": [
+      "Roberto Baggio",
+      "Michel Platini",
+      "Dino Baggio",
+      "Gianni Rivera"
+    ],
+    "answerIndex": 1,
+    "explanation": "Michel Platini was the dominant force in Italian football at Juventus, winning three Serie A titles."
+  },
+  {
+    "id": "q126",
+    "pos": "mf",
+    "difficulty": "hard",
+    "text": "Who scored the 'Ghost Goal' for England against Germany in the 2010 World Cup?",
+    "choices": [
+      "Wayne Rooney",
+      "Frank Lampard",
+      "Steven Gerrard",
+      "Gareth Barry"
+    ],
+    "answerIndex": 1,
+    "explanation": "Frank Lampard's shot clearly crossed the line against Germany but was not awarded in the 2010 World Cup."
+  },
+  {
+    "id": "q127",
+    "pos": "mf",
+    "difficulty": "easy",
+    "text": "What is a 'corner kick'?",
+    "choices": [
+      "A kick awarded when the ball goes out over the byline last touched by the attacking team",
+      "A kick awarded when the ball goes out over the byline last touched by the defending team",
+      "A restart after the ball goes out of play over the touchline",
+      "A free kick from the edge of the box"
+    ],
+    "answerIndex": 1,
+    "explanation": "A corner kick is awarded to the attacking team when the defending team last touches the ball over their own byline."
+  },
+  {
+    "id": "q128",
+    "pos": "mf",
+    "difficulty": "medium",
+    "text": "Which midfielder was named the best player at the 2018 FIFA World Cup?",
+    "choices": [
+      "Ivan Rakitić",
+      "Paul Pogba",
+      "Luka Modrić",
+      "Kylian Mbappé"
+    ],
+    "answerIndex": 2,
+    "explanation": "Luka Modrić won the Golden Ball at the 2018 World Cup after inspiring Croatia to the final."
+  },
+  {
+    "id": "q129",
+    "pos": "mf",
+    "difficulty": "hard",
+    "text": "Which Spanish midfielder is the all-time leading assist provider in Champions League history at his retirement?",
+    "choices": [
+      "Xavi Hernández",
+      "Andrés Iniesta",
+      "David Silva",
+      "Cesc Fàbregas"
+    ],
+    "answerIndex": 0,
+    "explanation": "Xavi Hernández made a record 21 assists in the Champions League during his career with Barcelona."
+  },
+  {
+    "id": "q130",
+    "pos": "mf",
+    "difficulty": "medium",
+    "text": "Which club's stadium is known as 'The Theatre of Dreams'?",
+    "choices": [
+      "Liverpool's Anfield",
+      "Arsenal's Emirates",
+      "Manchester United's Old Trafford",
+      "Chelsea's Stamford Bridge"
+    ],
+    "answerIndex": 2,
+    "explanation": "Old Trafford, home of Manchester United, is nicknamed 'The Theatre of Dreams'."
+  },
+  {
+    "id": "q131",
+    "pos": "atk",
+    "difficulty": "easy",
+    "text": "What is the penalty spot distance from the goal line?",
+    "choices": [
+      "8 metres",
+      "10 metres",
+      "11 metres",
+      "12 metres"
+    ],
+    "answerIndex": 2,
+    "explanation": "The penalty spot is exactly 11 metres (12 yards) from the goal line."
+  },
+  {
+    "id": "q132",
+    "pos": "atk",
+    "difficulty": "medium",
+    "text": "Which striker scored a hat-trick in the 2022 World Cup final but still ended up on the losing side?",
+    "choices": [
+      "Olivier Giroud",
+      "Antoine Griezmann",
+      "Kylian Mbappé",
+      "Marcus Rashford"
+    ],
+    "answerIndex": 2,
+    "explanation": "Kylian Mbappé scored a hat-trick in the 2022 World Cup final but France lost to Argentina on penalties."
+  },
+  {
+    "id": "q133",
+    "pos": "atk",
+    "difficulty": "hard",
+    "text": "Which Dutch striker scored 35 goals in a single Bundesliga season in 2022?",
+    "choices": [
+      "Luuk de Jong",
+      "Memphis Depay",
+      "Robert Lewandowski",
+      "Erling Haaland"
+    ],
+    "answerIndex": 3,
+    "explanation": "Erling Haaland scored 35 Bundesliga goals in the 2021–22 season for Borussia Dortmund."
+  },
+  {
+    "id": "q134",
+    "pos": "atk",
+    "difficulty": "easy",
+    "text": "What is an 'assist' in football?",
+    "choices": [
+      "A defensive clearance",
+      "A pass or action that directly leads to a goal being scored",
+      "A shot that hits the post",
+      "A headed clearance"
+    ],
+    "answerIndex": 1,
+    "explanation": "An assist is credited to the player whose pass or action directly leads to a goal."
+  },
+  {
+    "id": "q135",
+    "pos": "atk",
+    "difficulty": "medium",
+    "text": "Which French striker was the top scorer at Euro 2000?",
+    "choices": [
+      "Thierry Henry",
+      "David Trezeguet",
+      "Zinedine Zidane",
+      "Patrick Kluivert"
+    ],
+    "answerIndex": 3,
+    "explanation": "Patrick Kluivert of the Netherlands finished as joint top scorer at Euro 2000 with 5 goals."
+  },
+  {
+    "id": "q136",
+    "pos": "atk",
+    "difficulty": "hard",
+    "text": "Who scored a famous backheel goal for Juventus against Internazionale in the 2015 Coppa Italia semi-final?",
+    "choices": [
+      "Carlos Tévez",
+      "Fernando Llorente",
+      "Álvaro Morata",
+      "Mario Mandžukić"
+    ],
+    "answerIndex": 0,
+    "explanation": "Carlos Tévez scored an outrageous backheel against Inter Milan in the 2015 Coppa Italia."
+  },
+  {
+    "id": "q137",
+    "pos": "atk",
+    "difficulty": "easy",
+    "text": "Which country does Karim Benzema represent internationally?",
+    "choices": [
+      "Algeria",
+      "Morocco",
+      "Tunisia",
+      "France"
+    ],
+    "answerIndex": 3,
+    "explanation": "Karim Benzema plays for France, despite having Algerian heritage."
+  },
+  {
+    "id": "q138",
+    "pos": "atk",
+    "difficulty": "medium",
+    "text": "Which striker holds the record for most goals in a single Premier League season with 34 goals?",
+    "choices": [
+      "Thierry Henry",
+      "Alan Shearer",
+      "Cristiano Ronaldo",
+      "Andrew Cole"
+    ],
+    "answerIndex": 3,
+    "explanation": "Andrew Cole scored 34 Premier League goals for Newcastle United in the 1993–94 season."
+  },
+  {
+    "id": "q139",
+    "pos": "atk",
+    "difficulty": "hard",
+    "text": "Which Argentine striker was sold by Barcelona for a world record fee to PSG in 2017?",
+    "choices": [
+      "Carlos Tévez",
+      "Gonzalo Higuaín",
+      "Neymar Jr.",
+      "Antoine Griezmann"
+    ],
+    "answerIndex": 2,
+    "explanation": "Neymar Jr. transferred from Barcelona to PSG in 2017 for a world record €222 million fee."
+  },
+  {
+    "id": "q140",
+    "pos": "atk",
+    "difficulty": "easy",
+    "text": "Which Italian striker wore the number 9 shirt for Italy and won the 2006 World Cup?",
+    "choices": [
+      "Alessandro Del Piero",
+      "Luca Toni",
+      "Francesco Totti",
+      "Filippo Inzaghi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Luca Toni wore the number 9 shirt and was Italy's main striker at the 2006 World Cup."
+  },
+  {
+    "id": "q141",
+    "pos": "atk",
+    "difficulty": "medium",
+    "text": "Which English striker is the all-time Premier League top scorer?",
+    "choices": [
+      "Wayne Rooney",
+      "Frank Lampard",
+      "Alan Shearer",
+      "Andrew Cole"
+    ],
+    "answerIndex": 2,
+    "explanation": "Alan Shearer scored 260 Premier League goals, a record that still stands."
+  },
+  {
+    "id": "q142",
+    "pos": "atk",
+    "difficulty": "hard",
+    "text": "Who scored the goal that eliminated France from Euro 2004 with a last-minute strike?",
+    "choices": [
+      "Zinedine Zidane",
+      "Theodoros Zagorakis",
+      "Angelos Charisteas",
+      "Takis Fyssas"
+    ],
+    "answerIndex": 2,
+    "explanation": "Angelos Charisteas scored the only goal as Greece shocked France in the Euro 2004 quarter-final."
+  },
+  {
+    "id": "q143",
+    "pos": "atk",
+    "difficulty": "medium",
+    "text": "What nationality is striker Robert Lewandowski?",
+    "choices": [
+      "Czech",
+      "Ukrainian",
+      "Poland",
+      "Hungarian"
+    ],
+    "answerIndex": 2,
+    "explanation": "Robert Lewandowski is Polish and has been one of Europe's top scorers for over a decade."
+  },
+  {
+    "id": "q144",
+    "pos": "atk",
+    "difficulty": "hard",
+    "text": "Which striker scored in 11 consecutive Champions League matches, a record?",
+    "choices": [
+      "Ruud van Nistelrooy",
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Karim Benzema"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ruud van Nistelrooy scored in 11 consecutive Champions League games for Manchester United in 2002–03."
+  },
+  {
+    "id": "q145",
+    "pos": "gk",
+    "difficulty": "medium",
+    "text": "Which Argentine goalkeeper won the 2022 FIFA World Cup with his country?",
+    "choices": [
+      "Sergio Romero",
+      "Juan Musso",
+      "Emiliano Martínez",
+      "Franco Armani"
+    ],
+    "answerIndex": 2,
+    "explanation": "Emiliano Martínez was crucial in Argentina's 2022 World Cup triumph, making key saves in the semi-final and final shootouts."
+  },
+  {
+    "id": "q146",
+    "pos": "df",
+    "difficulty": "easy",
+    "text": "What does the acronym 'VAR' stand for?",
+    "choices": [
+      "Video Assistant Referee",
+      "Virtual Assistance Review",
+      "Visual Aid Referee",
+      "Video Action Replay"
+    ],
+    "answerIndex": 0,
+    "explanation": "VAR stands for Video Assistant Referee, a system introduced to assist match officials."
+  },
+  {
+    "id": "q147",
+    "pos": "mf",
+    "difficulty": "easy",
+    "text": "How long is a standard football match (excluding extra time)?",
+    "choices": [
+      "80 minutes",
+      "90 minutes",
+      "100 minutes",
+      "120 minutes"
+    ],
+    "answerIndex": 1,
+    "explanation": "A standard football match lasts 90 minutes, divided into two 45-minute halves."
+  },
+  {
+    "id": "q148",
+    "pos": "atk",
+    "difficulty": "medium",
+    "text": "Which country won the first ever FIFA World Cup in 1930?",
+    "choices": [
+      "Brazil",
+      "Argentina",
+      "Uruguay",
+      "Czechoslovakia"
+    ],
+    "answerIndex": 2,
+    "explanation": "Uruguay hosted and won the first FIFA World Cup in 1930, defeating Argentina 4–2 in the final."
+  },
+  {
+    "id": "q149",
+    "pos": "gk",
+    "difficulty": "hard",
+    "text": "Which goalkeeper went unbeaten for 13 consecutive World Cup matches, a record?",
+    "choices": [
+      "Gordon Banks",
+      "Peter Shilton",
+      "Gianluigi Buffon",
+      "Walter Zenga"
+    ],
+    "answerIndex": 1,
+    "explanation": "Peter Shilton went a record 13 World Cup matches without conceding a goal for England."
+  },
+  {
+    "id": "q150",
+    "pos": "df",
+    "difficulty": "medium",
+    "text": "Which defender has won the most Champions League titles as a player?",
+    "choices": [
+      "Sergio Ramos",
+      "Dani Carvajal",
+      "Marcelo",
+      "Paolo Maldini"
+    ],
+    "answerIndex": 2,
+    "explanation": "Marcelo won 5 Champions League titles with Real Madrid between 2013 and 2022."
+  },
+  {
+    "id": "q151",
+    "pos": "gk",
+    "difficulty": "easy",
+    "text": "Inside which area is a goalkeeper allowed to handle the ball?",
+    "choices": [
+      "Center circle",
+      "Opponent's penalty area",
+      "Own penalty area",
+      "Entire half of the pitch"
+    ],
+    "answerIndex": 2,
+    "explanation": "A goalkeeper is only allowed to use their hands inside their own penalty area."
+  },
+  {
+    "id": "q152",
+    "pos": "gk",
+    "difficulty": "medium",
+    "text": "Which Italian goalkeeper won the 2006 FIFA World Cup with Italy?",
+    "choices": [
+      "Walter Zenga",
+      "Gianluigi Buffon",
+      "Dino Zoff",
+      "Salvatore Sirigu"
+    ],
+    "answerIndex": 1,
+    "explanation": "Gianluigi Buffon was Italy's starting goalkeeper in their 2006 World Cup-winning campaign."
+  },
+  {
+    "id": "q153",
+    "pos": "gk",
+    "difficulty": "hard",
+    "text": "Which Brazilian goalkeeper captained Brazil in the 1970 World Cup final?",
+    "choices": [
+      "Félix",
+      "Taffarel",
+      "Gilmar",
+      "Dida"
+    ],
+    "answerIndex": 0,
+    "explanation": "Félix was Brazil's goalkeeper and captain in the 1970 World Cup final against Italy."
+  },
+  {
+    "id": "q154",
+    "pos": "gk",
+    "difficulty": "easy",
+    "text": "What is the crossbar?",
+    "choices": [
+      "The line in the middle of the pitch",
+      "The horizontal bar joining the two goalposts",
+      "The corner flag pole",
+      "The line of the penalty area"
+    ],
+    "answerIndex": 1,
+    "explanation": "The crossbar is the horizontal bar at the top of the goal."
+  },
+  {
+    "id": "q155",
+    "pos": "gk",
+    "difficulty": "medium",
+    "text": "Which goalkeeper was England's number one at the 1966 World Cup and later made the famous 'Banks of England' save?",
+    "choices": [
+      "Peter Shilton",
+      "Ray Clemence",
+      "Gordon Banks",
+      "David Seaman"
+    ],
+    "answerIndex": 2,
+    "explanation": "Gordon Banks is one of England's greatest goalkeepers and is remembered for his save from Pelé in 1970."
+  },
+  {
+    "id": "q156",
+    "pos": "gk",
+    "difficulty": "hard",
+    "text": "Which goalkeeper became the first ever winner of the Yashin Trophy in 2019?",
+    "choices": [
+      "Alisson Becker",
+      "Marc-André ter Stegen",
+      "Ederson",
+      "Manuel Neuer"
+    ],
+    "answerIndex": 0,
+    "explanation": "Alisson Becker won the first Yashin Trophy, the award created for the world's best goalkeeper."
+  },
+  {
+    "id": "q157",
+    "pos": "gk",
+    "difficulty": "easy",
+    "text": "What is a goalkeeper's main duty during a penalty kick?",
+    "choices": [
+      "Stand outside the box",
+      "Stop the ball from entering the goal",
+      "Mark the nearest striker",
+      "Take the kick instead"
+    ],
+    "answerIndex": 1,
+    "explanation": "The goalkeeper's job during a penalty is to try to save the shot."
+  },
+  {
+    "id": "q158",
+    "pos": "gk",
+    "difficulty": "medium",
+    "text": "Which goalkeeper started for France in the 2018 World Cup final?",
+    "choices": [
+      "Steve Mandanda",
+      "Hugo Lloris",
+      "Fabien Barthez",
+      "Mickaël Landreau"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hugo Lloris captained France and started in their 2018 World Cup final victory."
+  },
+  {
+    "id": "q159",
+    "pos": "gk",
+    "difficulty": "hard",
+    "text": "Which goalkeeper scored more than 100 career goals, mostly from penalties and free kicks?",
+    "choices": [
+      "René Higuita",
+      "Jorge Campos",
+      "Rogério Ceni",
+      "José Luis Chilavert"
+    ],
+    "answerIndex": 2,
+    "explanation": "Rogério Ceni is the highest-scoring goalkeeper in football history."
+  },
+  {
+    "id": "q160",
+    "pos": "gk",
+    "difficulty": "medium",
+    "text": "Which Spanish goalkeeper was Barcelona's regular starter during much of Pep Guardiola's era?",
+    "choices": [
+      "David de Gea",
+      "Víctor Valdés",
+      "Pepe Reina",
+      "Kepa Arrizabalaga"
+    ],
+    "answerIndex": 1,
+    "explanation": "Víctor Valdés was Barcelona's first-choice goalkeeper during their dominant Guardiola years."
+  },
+  {
+    "id": "q161",
+    "pos": "gk",
+    "difficulty": "easy",
+    "text": "What is a rebound save situation?",
+    "choices": [
+      "When the goalkeeper scores",
+      "When the ball comes back into play after a save",
+      "When the goalkeeper takes a throw-in",
+      "When the ball hits the corner flag"
+    ],
+    "answerIndex": 1,
+    "explanation": "A rebound happens when the goalkeeper saves the ball but it remains in play."
+  },
+  {
+    "id": "q162",
+    "pos": "gk",
+    "difficulty": "hard",
+    "text": "Which goalkeeper won the Golden Glove at the 2014 FIFA World Cup?",
+    "choices": [
+      "Manuel Neuer",
+      "Keylor Navas",
+      "Sergio Romero",
+      "Jasper Cillessen"
+    ],
+    "answerIndex": 0,
+    "explanation": "Manuel Neuer won the Golden Glove after an outstanding tournament for Germany in 2014."
+  },
+  {
+    "id": "q163",
+    "pos": "df",
+    "difficulty": "easy",
+    "text": "What is the main job of a center-back?",
+    "choices": [
+      "Create chances from the wing",
+      "Protect the area in front of goal and stop attackers",
+      "Take every corner kick",
+      "Play behind the goalkeeper"
+    ],
+    "answerIndex": 1,
+    "explanation": "Center-backs are primarily responsible for defending central areas and stopping attacks."
+  },
+  {
+    "id": "q164",
+    "pos": "df",
+    "difficulty": "medium",
+    "text": "Which defender captained Barcelona in the 2011 Champions League final?",
+    "choices": [
+      "Carles Puyol",
+      "Gerard Piqué",
+      "Éric Abidal",
+      "Dani Alves"
+    ],
+    "answerIndex": 0,
+    "explanation": "Carles Puyol was Barcelona's captain during the 2011 Champions League final."
+  },
+  {
+    "id": "q165",
+    "pos": "df",
+    "difficulty": "hard",
+    "text": "Which German defender scored in the 2014 World Cup final after coming on as a substitute?",
+    "choices": [
+      "Mats Hummels",
+      "Benedikt Höwedes",
+      "Jerome Boateng",
+      "Mario Götze"
+    ],
+    "answerIndex": 3,
+    "explanation": "Mario Götze scored the extra-time winner in the 2014 World Cup final."
+  },
+  {
+    "id": "q166",
+    "pos": "df",
+    "difficulty": "easy",
+    "text": "What does a defender do when they 'block' a shot?",
+    "choices": [
+      "Pass it to the striker",
+      "Stop the shot from reaching goal",
+      "Leave it for the goalkeeper",
+      "Kick it for a throw-in automatically"
+    ],
+    "answerIndex": 1,
+    "explanation": "Blocking a shot means getting in the way to prevent the ball from reaching the goal."
+  },
+  {
+    "id": "q167",
+    "pos": "df",
+    "difficulty": "medium",
+    "text": "Which legendary Italian defender wore number 3 for AC Milan for most of his career?",
+    "choices": [
+      "Fabio Cannavaro",
+      "Franco Baresi",
+      "Paolo Maldini",
+      "Alessandro Nesta"
+    ],
+    "answerIndex": 2,
+    "explanation": "Paolo Maldini famously wore the number 3 shirt for AC Milan."
+  },
+  {
+    "id": "q168",
+    "pos": "df",
+    "difficulty": "hard",
+    "text": "Which defender won Euro 2000 and the 1998 World Cup with France and later coached France to the 2018 World Cup title?",
+    "choices": [
+      "Laurent Blanc",
+      "Didier Deschamps",
+      "Marcel Desailly",
+      "Lilian Thuram"
+    ],
+    "answerIndex": 1,
+    "explanation": "Didier Deschamps won major trophies as a player and later coached France to the 2018 World Cup."
+  },
+  {
+    "id": "q169",
+    "pos": "df",
+    "difficulty": "easy",
+    "text": "What is a wing-back?",
+    "choices": [
+      "A goalkeeper who plays wide",
+      "A wide defender with both defensive and attacking duties",
+      "A striker who drifts to the wing",
+      "A center-back who never leaves the box"
+    ],
+    "answerIndex": 1,
+    "explanation": "A wing-back plays on the flank and contributes both defensively and offensively."
+  },
+  {
+    "id": "q170",
+    "pos": "df",
+    "difficulty": "medium",
+    "text": "Which Spanish defender scored the winning goal in the 2010 World Cup semi-final against Germany?",
+    "choices": [
+      "Gerard Piqué",
+      "Sergio Ramos",
+      "Carles Puyol",
+      "Joan Capdevila"
+    ],
+    "answerIndex": 2,
+    "explanation": "Carles Puyol scored with a header to send Spain into the 2010 World Cup final."
+  },
+  {
+    "id": "q171",
+    "pos": "df",
+    "difficulty": "hard",
+    "text": "Which defender is known as 'Der Kaiser'?",
+    "choices": [
+      "Franz Beckenbauer",
+      "Paolo Maldini",
+      "Fabio Cannavaro",
+      "Berti Vogts"
+    ],
+    "answerIndex": 0,
+    "explanation": "Franz Beckenbauer was nicknamed 'Der Kaiser' and is one of the greatest defenders ever."
+  },
+  {
+    "id": "q172",
+    "pos": "df",
+    "difficulty": "easy",
+    "text": "What is a headed clearance?",
+    "choices": [
+      "A goal scored with the head",
+      "A defender using their head to remove danger",
+      "A corner routine",
+      "A free-kick trick"
+    ],
+    "answerIndex": 1,
+    "explanation": "A headed clearance is when a defender uses their head to clear the ball away from danger."
+  },
+  {
+    "id": "q173",
+    "pos": "df",
+    "difficulty": "medium",
+    "text": "Which Brazilian defender is famous for his powerful free kicks and long-range shots from left-back?",
+    "choices": [
+      "Marcelo",
+      "Roberto Carlos",
+      "Cafu",
+      "Dani Alves"
+    ],
+    "answerIndex": 1,
+    "explanation": "Roberto Carlos became famous for his incredible left foot and spectacular free kicks."
+  },
+  {
+    "id": "q174",
+    "pos": "df",
+    "difficulty": "hard",
+    "text": "Which Dutch defender scored twice for the Netherlands in the Euro 1988 final?",
+    "choices": [
+      "Ronald Koeman",
+      "Frank Rijkaard",
+      "Ruud Gullit",
+      "Adri van Tiggelen"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ruud Gullit scored in the Euro 1988 final as the Netherlands beat the Soviet Union."
+  },
+  {
+    "id": "q175",
+    "pos": "df",
+    "difficulty": "easy",
+    "text": "What does it mean when defenders 'hold the line'?",
+    "choices": [
+      "They all stay deep inside the box",
+      "They keep their shape together across the pitch",
+      "They stop passing the ball",
+      "They switch with midfielders"
+    ],
+    "answerIndex": 1,
+    "explanation": "Holding the line means defenders stay coordinated and maintain the defensive shape together."
+  },
+  {
+    "id": "q176",
+    "pos": "df",
+    "difficulty": "medium",
+    "text": "Which Italian defender was captain of Juventus and part of Italy's 2006 World Cup-winning squad?",
+    "choices": [
+      "Fabio Grosso",
+      "Giorgio Chiellini",
+      "Leonardo Bonucci",
+      "Christian Panucci"
+    ],
+    "answerIndex": 1,
+    "explanation": "Giorgio Chiellini became one of Italy and Juventus's great defensive leaders."
+  },
+  {
+    "id": "q177",
+    "pos": "mf",
+    "difficulty": "easy",
+    "text": "What is the job of a defensive midfielder?",
+    "choices": [
+      "Stay next to the striker",
+      "Protect the defense and recover the ball",
+      "Only take corners",
+      "Mark the goalkeeper"
+    ],
+    "answerIndex": 1,
+    "explanation": "A defensive midfielder shields the back line and helps win the ball back."
+  },
+  {
+    "id": "q178",
+    "pos": "mf",
+    "difficulty": "medium",
+    "text": "Which Spanish midfielder scored the winning goal in the 2010 FIFA World Cup final?",
+    "choices": [
+      "Xavi Hernández",
+      "Andrés Iniesta",
+      "David Silva",
+      "Sergio Busquets"
+    ],
+    "answerIndex": 1,
+    "explanation": "Andrés Iniesta scored in extra time to give Spain their first World Cup title."
+  },
+  {
+    "id": "q179",
+    "pos": "mf",
+    "difficulty": "hard",
+    "text": "Which Dutch midfielder scored one of the most famous volleys in history in the Euro 1988 final?",
+    "choices": [
+      "Ruud Gullit",
+      "Frank Rijkaard",
+      "Marco van Basten",
+      "Ronald Koeman"
+    ],
+    "answerIndex": 2,
+    "explanation": "Marco van Basten scored an iconic volley in the Euro 1988 final against the Soviet Union."
+  },
+  {
+    "id": "q180",
+    "pos": "mf",
+    "difficulty": "easy",
+    "text": "What is a long ball in football?",
+    "choices": [
+      "A short pass in midfield",
+      "A high or driven pass played over a long distance",
+      "A throw-in into the box",
+      "A type of dribble"
+    ],
+    "answerIndex": 1,
+    "explanation": "A long ball is a pass played over a significant distance, often to switch play or find a forward quickly."
+  },
+  {
+    "id": "q181",
+    "pos": "mf",
+    "difficulty": "medium",
+    "text": "Which midfielder was nicknamed 'Don Andrés'?",
+    "choices": [
+      "Xabi Alonso",
+      "Andrés Iniesta",
+      "David Silva",
+      "Juan Mata"
+    ],
+    "answerIndex": 1,
+    "explanation": "Andrés Iniesta was affectionately nicknamed 'Don Andrés' because of his class and elegance."
+  },
+  {
+    "id": "q182",
+    "pos": "mf",
+    "difficulty": "hard",
+    "text": "Which midfielder won the Ballon d'Or in 2007 after starring for AC Milan?",
+    "choices": [
+      "Andrea Pirlo",
+      "Clarence Seedorf",
+      "Kaká",
+      "Gennaro Gattuso"
+    ],
+    "answerIndex": 2,
+    "explanation": "Kaká won the 2007 Ballon d'Or after a brilliant year for AC Milan."
+  },
+  {
+    "id": "q183",
+    "pos": "mf",
+    "difficulty": "easy",
+    "text": "What is a pass completion rate?",
+    "choices": [
+      "The number of goals from passes",
+      "The percentage of passes that successfully reach a teammate",
+      "The number of long balls attempted",
+      "The number of corners won"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pass completion rate measures how many of a player's passes are accurate."
+  },
+  {
+    "id": "q184",
+    "pos": "mf",
+    "difficulty": "medium",
+    "text": "Which Croatian midfielder won the Ballon d'Or in 2018?",
+    "choices": [
+      "Ivan Rakitić",
+      "Luka Modrić",
+      "Mateo Kovačić",
+      "Marcelo Brozović"
+    ],
+    "answerIndex": 1,
+    "explanation": "Luka Modrić won the 2018 Ballon d'Or after a brilliant year for club and country."
+  },
+  {
+    "id": "q185",
+    "pos": "mf",
+    "difficulty": "hard",
+    "text": "Which midfielder won the Champions League with Ajax, Real Madrid, and AC Milan?",
+    "choices": [
+      "Edgar Davids",
+      "Clarence Seedorf",
+      "Frank Rijkaard",
+      "Rafael van der Vaart"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clarence Seedorf is famous for winning the Champions League with three different clubs."
+  },
+  {
+    "id": "q186",
+    "pos": "mf",
+    "difficulty": "easy",
+    "text": "What does a midfielder do when they 'dictate the tempo'?",
+    "choices": [
+      "Take all penalties",
+      "Control the speed and rhythm of the game",
+      "Stay in the penalty area",
+      "Mark the referee"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dictating the tempo means controlling how quickly or slowly the team plays."
+  },
+  {
+    "id": "q187",
+    "pos": "mf",
+    "difficulty": "medium",
+    "text": "Which French midfielder won three consecutive Ballon d'Or awards in the 1980s?",
+    "choices": [
+      "Zinedine Zidane",
+      "Michel Platini",
+      "Jean Tigana",
+      "Didier Deschamps"
+    ],
+    "answerIndex": 1,
+    "explanation": "Michel Platini won the Ballon d'Or in 1983, 1984, and 1985."
+  },
+  {
+    "id": "q188",
+    "pos": "mf",
+    "difficulty": "hard",
+    "text": "Which midfielder scored Germany's winning goal in the 2014 World Cup final assist move before the finish?",
+    "choices": [
+      "Mesut Özil",
+      "Bastian Schweinsteiger",
+      "André Schürrle",
+      "Toni Kroos"
+    ],
+    "answerIndex": 2,
+    "explanation": "André Schürrle provided the cross for Mario Götze's winning goal in the final."
+  },
+  {
+    "id": "q189",
+    "pos": "mf",
+    "difficulty": "easy",
+    "text": "What is an interception in midfield?",
+    "choices": [
+      "A shot from distance",
+      "Stopping an opponent's pass before it reaches its target",
+      "A dribble past two players",
+      "A type of free kick"
+    ],
+    "answerIndex": 1,
+    "explanation": "An interception is when a player reads the pass and cuts it out."
+  },
+  {
+    "id": "q190",
+    "pos": "mf",
+    "difficulty": "medium",
+    "text": "Which English midfielder was known for wearing number 8 at Chelsea and scoring many goals from midfield?",
+    "choices": [
+      "Steven Gerrard",
+      "Frank Lampard",
+      "Paul Scholes",
+      "David Beckham"
+    ],
+    "answerIndex": 1,
+    "explanation": "Frank Lampard became one of the highest-scoring midfielders in Premier League history."
+  },
+  {
+    "id": "q191",
+    "pos": "atk",
+    "difficulty": "easy",
+    "text": "What is a striker's main job?",
+    "choices": [
+      "Take throw-ins only",
+      "Score goals and lead the attack",
+      "Stay in defense",
+      "Referee the match"
+    ],
+    "answerIndex": 1,
+    "explanation": "A striker's primary responsibility is to score goals and create danger in attack."
+  },
+  {
+    "id": "q192",
+    "pos": "atk",
+    "difficulty": "medium",
+    "text": "Which Portuguese forward is Real Madrid's all-time top scorer?",
+    "choices": [
+      "Eusébio",
+      "Cristiano Ronaldo",
+      "Luís Figo",
+      "Nani"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cristiano Ronaldo is Real Madrid's all-time leading scorer."
+  },
+  {
+    "id": "q193",
+    "pos": "atk",
+    "difficulty": "hard",
+    "text": "Which striker scored twice for Brazil in the 2002 World Cup final?",
+    "choices": [
+      "Rivaldo",
+      "Ronaldinho",
+      "Ronaldo Nazário",
+      "Romário"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ronaldo Nazário scored both goals in Brazil's 2-0 win over Germany in the 2002 final."
+  },
+  {
+    "id": "q194",
+    "pos": "atk",
+    "difficulty": "easy",
+    "text": "What is a header in football?",
+    "choices": [
+      "Kicking the ball in the air",
+      "Using the head to play the ball",
+      "A sliding tackle",
+      "A chest pass"
+    ],
+    "answerIndex": 1,
+    "explanation": "A header is when a player uses their head to direct the ball."
+  },
+  {
+    "id": "q195",
+    "pos": "atk",
+    "difficulty": "medium",
+    "text": "Which French striker scored the golden goal in the Euro 2000 final?",
+    "choices": [
+      "Thierry Henry",
+      "Sylvain Wiltord",
+      "David Trezeguet",
+      "Nicolas Anelka"
+    ],
+    "answerIndex": 2,
+    "explanation": "David Trezeguet scored the golden goal that won Euro 2000 for France."
+  },
+  {
+    "id": "q196",
+    "pos": "atk",
+    "difficulty": "hard",
+    "text": "Which striker scored four goals for Real Madrid in the 2017 Champions League final era campaign final season run and is the all-time top scorer in the competition?",
+    "choices": [
+      "Karim Benzema",
+      "Cristiano Ronaldo",
+      "Raúl",
+      "Robert Lewandowski"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cristiano Ronaldo is the all-time top scorer in Champions League history and was central to Real Madrid's 2017 triumph."
+  },
+  {
+    "id": "q197",
+    "pos": "atk",
+    "difficulty": "easy",
+    "text": "What is a bicycle kick?",
+    "choices": [
+      "A low pass across goal",
+      "An acrobatic overhead kick",
+      "A goalkeeper throw",
+      "A shot taken with the knee"
+    ],
+    "answerIndex": 1,
+    "explanation": "A bicycle kick is an overhead acrobatic attempt at goal."
+  },
+  {
+    "id": "q198",
+    "pos": "atk",
+    "difficulty": "medium",
+    "text": "Which Norwegian striker joined Manchester City in 2022?",
+    "choices": [
+      "Alexander Sørloth",
+      "Erling Haaland",
+      "Jørgen Strand Larsen",
+      "Joshua King"
+    ],
+    "answerIndex": 1,
+    "explanation": "Erling Haaland joined Manchester City in 2022."
+  },
+  {
+    "id": "q199",
+    "pos": "atk",
+    "difficulty": "hard",
+    "text": "Which player scored the 'Hand of God' goal in the 1986 World Cup?",
+    "choices": [
+      "Pelé",
+      "Diego Maradona",
+      "Jorge Valdano",
+      "Gabriel Batistuta"
+    ],
+    "answerIndex": 1,
+    "explanation": "Diego Maradona scored the famous 'Hand of God' goal against England."
+  },
+  {
+    "id": "q200",
+    "pos": "atk",
+    "difficulty": "easy",
+    "text": "What is a near-post finish?",
+    "choices": [
+      "A shot aimed toward the post closest to the attacker",
+      "A shot from the halfway line",
+      "A volley from outside the box",
+      "A pass back to midfield"
+    ],
+    "answerIndex": 0,
+    "explanation": "A near-post finish is aimed at the side of the goal nearest to the shooter."
+  },
+  {
+    "id": "q201",
+    "pos": "atk",
+    "difficulty": "medium",
+    "text": "Which striker is Argentina's all-time top scorer?",
+    "choices": [
+      "Gabriel Batistuta",
+      "Sergio Agüero",
+      "Lionel Messi",
+      "Hernán Crespo"
+    ],
+    "answerIndex": 2,
+    "explanation": "Lionel Messi is Argentina's all-time top scorer."
+  },
+  {
+    "id": "q202",
+    "pos": "atk",
+    "difficulty": "hard",
+    "text": "Which striker scored the fastest hat-trick in Premier League history?",
+    "choices": [
+      "Sadio Mané",
+      "Alan Shearer",
+      "Robbie Fowler",
+      "Sergio Agüero"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sadio Mané scored the fastest Premier League hat-trick in 2 minutes 56 seconds."
+  },
+  {
+    "id": "q203",
+    "pos": "atk",
+    "difficulty": "easy",
+    "text": "What does a forward do when making a 'run in behind'?",
+    "choices": [
+      "Drop next to the defenders",
+      "Sprint into space behind the defense",
+      "Stay wide near the corner flag only",
+      "Move back to their own penalty area"
+    ],
+    "answerIndex": 1,
+    "explanation": "A run in behind is made to attack the space behind the defensive line."
+  },
+  {
+    "id": "q204",
+    "pos": "atk",
+    "difficulty": "medium",
+    "text": "Which Uruguayan striker is nicknamed 'El Pistolero'?",
+    "choices": [
+      "Edinson Cavani",
+      "Diego Forlán",
+      "Luis Suárez",
+      "Darwin Núñez"
+    ],
+    "answerIndex": 2,
+    "explanation": "Luis Suárez is famously known as 'El Pistolero'."
+  },
+  {
+    "id": "q205",
+    "pos": "atk",
+    "difficulty": "hard",
+    "text": "Which French striker won the 1991 Ballon d'Or while playing for Marseille?",
+    "choices": [
+      "Jean-Pierre Papin",
+      "David Ginola",
+      "Thierry Henry",
+      "Eric Cantona"
+    ],
+    "answerIndex": 0,
+    "explanation": "Jean-Pierre Papin won the 1991 Ballon d'Or after his brilliant performances for Marseille."
+  },
+  {
+    "id": "q206",
+    "pos": "atk",
+    "difficulty": "easy",
+    "text": "What is a first-time finish?",
+    "choices": [
+      "A shot taken without controlling the ball first",
+      "The first shot of the game",
+      "A penalty taken in the first half",
+      "A shot from the center circle"
+    ],
+    "answerIndex": 0,
+    "explanation": "A first-time finish is struck immediately without taking a touch to control the ball."
+  },
+  {
+    "id": "q207",
+    "pos": "atk",
+    "difficulty": "medium",
+    "text": "Which striker scored the winning goal for Spain in the Euro 2008 final?",
+    "choices": [
+      "David Villa",
+      "Fernando Torres",
+      "Raúl",
+      "Cesc Fàbregas"
+    ],
+    "answerIndex": 1,
+    "explanation": "Fernando Torres scored the only goal in Spain's Euro 2008 final win over Germany."
+  },
+  {
+    "id": "q208",
+    "pos": "atk",
+    "difficulty": "hard",
+    "text": "Which striker scored in both the 1958 and 1970 World Cup finals for Brazil?",
+    "choices": [
+      "Garrincha",
+      "Pelé",
+      "Jairzinho",
+      "Vavá"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pelé scored in the 1958 and 1970 World Cup finals for Brazil."
+  },
+  {
+    "id": "q209",
+    "pos": "atk",
+    "difficulty": "medium",
+    "text": "Which player won the Golden Boot at the 2014 FIFA World Cup?",
+    "choices": [
+      "Thomas Müller",
+      "James Rodríguez",
+      "Lionel Messi",
+      "Neymar"
+    ],
+    "answerIndex": 1,
+    "explanation": "James Rodríguez finished as the top scorer of the 2014 World Cup with 6 goals."
+  },
+  {
+    "id": "q210",
+    "pos": "atk",
+    "difficulty": "hard",
+    "text": "Which forward scored the winning goal for Manchester United in the 1999 Champions League final?",
+    "choices": [
+      "Dwight Yorke",
+      "Andy Cole",
+      "Teddy Sheringham",
+      "Ole Gunnar Solskjær"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ole Gunnar Solskjær scored the dramatic stoppage-time winner against Bayern Munich."
   }
+
 
 ]

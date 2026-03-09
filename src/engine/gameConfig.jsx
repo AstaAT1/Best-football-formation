@@ -25,7 +25,7 @@ export const ROUND_POSITIONS = [
 
 export const TOTAL_ROUNDS = 15;
 export const DRAFT_ROUNDS = 11;   // first 11 = normal draft
-export const TIMER_MS = 12_000;
+export const TIMER_MS = 15_000;
 export const MAX_SWAPS = 3;
 export const YELLOWS_TO_RED = 3;
 export const YELLOW_PTS = -2;
