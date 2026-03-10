@@ -3,6 +3,7 @@
 // ============================================================
 import images from "../constants/images";
 import { POS_LABEL } from "../engine/gameConfig";
+import { useLanguage } from "../contexts/LanguageContext";
 
 /**
  * Props:
@@ -13,14 +14,15 @@ import { POS_LABEL } from "../engine/gameConfig";
  *   onSkip      — () => void
  */
 export default function ChangementPanel({ candidate, pos, teamAtPos, onReplace, onSkip }) {
+    const { t } = useLanguage();
     return (
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/85 p-6 backdrop-blur-sm">
             <div className="w-full max-w-lg rounded-2xl border border-white/10 bg-[#0b1018]/95 p-6 shadow-2xl sm:p-8">
                 <h2 className="mb-6 text-center text-xl font-bold text-white sm:text-2xl">
-                    🔄 Changement — <span className="text-amber-400">{POS_LABEL[pos]}</span>
+                    🔄 {t("changement", "Changement")} — <span className="text-amber-400">{POS_LABEL[pos]}</span>
                 </h2>
 
-                <p className="mb-3 text-sm font-bold uppercase tracking-wider text-white/50">New candidate:</p>
+                <p className="mb-3 text-sm font-bold uppercase tracking-wider text-white/50">{t("newPlayer", "New candidate")}:</p>
                 <div className="mb-6 flex items-center gap-4 rounded-xl border border-sky-500/30 bg-sky-500/10 p-4 shadow-[0_0_15px_rgba(56,189,248,0.1)]">
                     <img src={images[candidate.imageKey]} alt={candidate.name} className="h-16 w-16 rounded-full border-2 border-sky-400/50 object-cover" />
                     <div className="flex flex-col">
@@ -30,7 +32,7 @@ export default function ChangementPanel({ candidate, pos, teamAtPos, onReplace, 
                 </div>
 
                 <p className="mb-3 mt-6 text-sm font-bold uppercase tracking-wider text-white/50">
-                    Replace one of your {POS_LABEL[pos]}s:
+                    {t("replaceWho", "Replace one of your")} {POS_LABEL[pos]}s:
                 </p>
 
                 <div className="mb-6 flex max-h-[40vh] flex-col gap-3 overflow-y-auto pr-2 scrollbar-thin">
@@ -45,7 +47,7 @@ export default function ChangementPanel({ candidate, pos, teamAtPos, onReplace, 
                                 className="shrink-0 rounded-lg border border-amber-500/50 bg-amber-500/10 px-4 py-2 text-xs font-bold uppercase tracking-wider text-amber-400 transition hover:bg-amber-500/20 active:scale-95"
                                 onClick={() => onReplace(p)}
                             >
-                                Replace
+                                {t("replaceBtn", "Replace")}
                             </button>
                         </div>
                     ))}
@@ -55,7 +57,7 @@ export default function ChangementPanel({ candidate, pos, teamAtPos, onReplace, 
                     className="w-full rounded-xl border border-white/10 bg-white/5 py-3.5 text-sm font-bold uppercase tracking-wider text-white/70 transition hover:bg-white/10 active:scale-[0.98]"
                     onClick={onSkip}
                 >
-                    ✕ Skip — Keep Current Team
+                    ✕ {t("skipChangement", "Skip")} — {t("keepCurrentSquad", "Keep Current Team")}
                 </button>
             </div>
         </div>

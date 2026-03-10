@@ -1,20 +1,7 @@
 import { useState } from "react";
 import images from "../constants/images";
 import bg from "../assets/images/background.jpg";
-
-const RULES = [
-  "15 rounds total: 11 draft rounds + 4 CHANGEMENT (substitution) rounds.",
-  "Draft rounds build your squad: 1 GK → 4 DF → 3 MF → 3 ATK.",
-  "Changement rounds (12-15): replace one existing player of that position.",
-  "Each round: answer a football trivia question in 12 seconds.",
-  "Two players are up for grabs — winner picks first, loser gets the other.",
-  "Both wrong? Question swaps (max 3 times), then play continues.",
-  "Wrong answer (while opponent was right) = 🟡 Yellow card (−2 pts).",
-  "3 yellows = 🔴 Red card → opponent removes 1 of your players at end.",
-  "🔥 3 correct answers in a row = Streak Bonus! (removes 1 yellow or gives 🛡️ shield).",
-  "Final score = Σ player ratings − yellow penalty points.",
-  "Player ratings are hidden during the game — revealed at the end!",
-];
+import { useLanguage } from "../contexts/LanguageContext";
 
 const STADIUMS = [
   { id: "stadebernabeu", label: "Santiago Bernabéu", sub: "Real Madrid" },
@@ -98,6 +85,9 @@ function CheckIcon() {
 }
 
 function RulesAccordion({ open, onToggle }) {
+  const { t } = useLanguage();
+  const rules = t("rules") || [];
+
   return (
     <div className="mt-5">
       <button
@@ -112,7 +102,7 @@ function RulesAccordion({ open, onToggle }) {
               📋
             </div>
             <span className="text-[13px] font-extrabold uppercase tracking-[0.1em] text-white">
-              How to Play
+              {t("howToPlay")}
             </span>
           </div>
           <ChevronDown open={open} />
@@ -128,7 +118,7 @@ function RulesAccordion({ open, onToggle }) {
         <div className="overflow-hidden">
           <div className="rounded-2xl border border-white/10 bg-black/20 p-1.5">
             <div className="max-h-[220px] overflow-y-auto px-2 py-1">
-              {RULES.map((rule, index) => (
+              {rules.map((rule, index) => (
                 <div
                   key={index}
                   className="flex items-start gap-3 rounded-xl px-2 py-2 hover:bg-white/[0.03]"
@@ -146,10 +136,12 @@ function RulesAccordion({ open, onToggle }) {
 }
 
 function DifficultySelector({ value, onChange }) {
+  const { t } = useLanguage();
+
   return (
     <div className="mt-5">
       <label className="mb-2.5 block text-xs font-extrabold uppercase tracking-[0.14em] text-white/75">
-        Difficulty
+        {t("difficultyLabel")}
       </label>
 
       <div className="flex flex-wrap gap-2">
@@ -168,7 +160,7 @@ function DifficultySelector({ value, onChange }) {
                   : "border-white/10 bg-black/20 text-white/75 hover:bg-black/30"
               )}
             >
-              {level.charAt(0).toUpperCase() + level.slice(1)}
+              {t("difficulty")[level] || level}
             </button>
           );
         })}
@@ -187,12 +179,13 @@ function StadiumCarousel({
   onSelect,
   onGoTo,
 }) {
+  const { t } = useLanguage();
   const isSelected = stadium === currentStadium.id;
 
   return (
     <div className="mt-5">
       <label className="mb-2.5 block text-xs font-extrabold uppercase tracking-[0.14em] text-white/75">
-        Select Stadium
+        {t("selectVenueLabel")}
       </label>
 
       <div className="overflow-hidden rounded-2xl border border-white/10 bg-black/20">
@@ -229,7 +222,7 @@ function StadiumCarousel({
           {isSelected && (
             <div className="absolute right-3 top-3 z-10 inline-flex items-center gap-1 rounded-full bg-white px-2.5 py-1 text-[10px] font-extrabold uppercase tracking-[0.12em] text-[#0b0e14]">
               <CheckIcon />
-              Selected
+              {t("selected")}
             </div>
           )}
 
@@ -260,8 +253,8 @@ function StadiumCarousel({
                     isActive
                       ? "h-1.5 w-5.5 bg-white"
                       : isPicked
-                      ? "h-1.5 w-2.5 bg-white/70"
-                      : "h-1.5 w-1.5 bg-white/25"
+                        ? "h-1.5 w-2.5 bg-white/70"
+                        : "h-1.5 w-1.5 bg-white/25"
                   )}
                 />
               );
@@ -281,10 +274,10 @@ function StadiumCarousel({
             {isSelected ? (
               <>
                 <CheckIcon />
-                Confirmed
+                {t("confirmed")}
               </>
             ) : (
-              "Select Venue"
+              t("selectVenue")
             )}
           </button>
         </div>
@@ -294,6 +287,7 @@ function StadiumCarousel({
 }
 
 export default function WelcomeScreen({ onStart }) {
+  const { language, updateLanguage, t } = useLanguage();
   const [teamName, setTeamName] = useState("");
   const [difficulty, setDifficulty] = useState("medium");
   const [stadium, setStadium] = useState(null);
@@ -345,15 +339,31 @@ export default function WelcomeScreen({ onStart }) {
       {/* soft vignette */}
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,transparent_25%,rgba(0,0,0,0.28)_100%)]" />
 
+      {/* LANGUAGE SELECTOR */}
+      <div className="absolute right-4 top-4 z-50 flex items-center gap-2 rounded-full border border-white/10 bg-black/30 p-1 backdrop-blur-md" dir="ltr">
+        {['en', 'fr', 'ar'].map((lang) => (
+          <button
+            key={lang}
+            onClick={() => updateLanguage(lang)}
+            className={`flex h-8 w-8 items-center justify-center rounded-full text-xs font-bold uppercase transition-all ${language === lang
+              ? 'bg-white text-black'
+              : 'text-white/60 hover:bg-white/10 hover:text-white'
+              }`}
+          >
+            {lang}
+          </button>
+        ))}
+      </div>
+
       <div className="relative z-10 w-full max-w-[620px]">
         <div className="overflow-hidden rounded-[30px] border border-white/10 bg-black/35 shadow-[0_24px_60px_rgba(0,0,0,0.45)] backdrop-blur-md">
           <div className="px-6 py-8 sm:px-10 sm:py-10">
             <header className="mb-8 text-center">
               <h1 className="text-[clamp(42px,8vw,64px)] font-black leading-none tracking-tight text-white">
-                ⚽ Draft Arena
+                {t("appTitle")}
               </h1>
               <p className="mt-3 text-[15px] font-medium tracking-wide text-white/60">
-                Build your dream squad — one question at a time.
+                {t("appSubtitle")}
               </p>
             </header>
 
@@ -368,14 +378,14 @@ export default function WelcomeScreen({ onStart }) {
                   htmlFor="teamName"
                   className="mb-2.5 block text-xs font-extrabold uppercase tracking-[0.14em] text-white/75"
                 >
-                  Your Team Name
+                  {t("teamNameLabel")}
                 </label>
 
                 <input
                   id="teamName"
                   type="text"
                   className="h-[52px] w-full rounded-2xl border border-white/10 bg-black/20 px-5 text-[15px] text-white outline-none transition placeholder:text-white/25 focus:border-white/20 focus:bg-black/30"
-                  placeholder="e.g. Atlas Lions FC"
+                  placeholder={t("teamNamePlaceholder")}
                   value={teamName}
                   onChange={(e) => setTeamName(e.target.value)}
                   maxLength={24}
@@ -402,16 +412,16 @@ export default function WelcomeScreen({ onStart }) {
                   className="h-[56px] w-full rounded-2xl bg-white text-[15px] font-black uppercase tracking-[0.05em] text-[#020617] transition hover:bg-white/90 active:scale-[0.98] disabled:cursor-not-allowed disabled:bg-white/20 disabled:text-white/40"
                   disabled={!canStart}
                 >
-                  Start Draft ⚡
+                  {t("startDraft")}
                 </button>
 
                 {!canStart && (
                   <div className="mx-auto mt-4 max-w-xs text-center text-xs font-medium leading-relaxed text-white/40">
                     {!teamName.trim() && !stadium
-                      ? "Enter your team name and select a stadium to continue."
+                      ? t("enterTeamAndStadium")
                       : !teamName.trim()
-                      ? "Enter your team name to continue."
-                      : "Select a stadium to continue."}
+                        ? t("enterTeam")
+                        : t("selectStadiumText")}
                   </div>
                 )}
               </div>

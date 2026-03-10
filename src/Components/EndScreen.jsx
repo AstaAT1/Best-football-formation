@@ -8,6 +8,7 @@ import { botRemovePlayer } from "../engine/ai";
 import { computeFinalScore } from "../engine/scoring";
 import TeamPanel from "./TeamPanel";
 import PitchLineup from "./PitchLineup";
+import { useLanguage } from "../contexts/LanguageContext";
 
 function cn(...inputs) {
   return twMerge(clsx(inputs));
@@ -122,7 +123,7 @@ function LiveScoreTicker({ teamName, runningUserScore, runningBotScore }) {
 
       <div className="flex flex-col items-center px-4">
         <span className="text-[10px] font-black uppercase tracking-[0.2em] text-white/30">
-          Live
+          {t("live", "LIVE")}
         </span>
         <span className="text-xs font-black italic tracking-[0.2em] text-white/20">
           VS
@@ -165,12 +166,12 @@ function RemovalPhase({
     >
       <div className="overflow-hidden rounded-3xl border border-white/10 bg-[#0b1018]/75 shadow-2xl backdrop-blur-xl">
         <div className="border-b border-white/10 px-6 py-5 text-center">
-          <SectionPill>Red Card Penalties</SectionPill>
+          <SectionPill>{t("redCardPenalties", "Red Card Penalties")}</SectionPill>
           <h2 className="mt-4 text-3xl font-black tracking-tight text-white sm:text-4xl">
-            Final Removals
+            {t("finalRemovals", "Final Removals")}
           </h2>
           <p className="mt-2 text-sm text-white/45">
-            Red cards are applied before the final comparison starts.
+            {t("removalsExplanation", "Red cards are applied before the final comparison starts.")}
           </p>
         </div>
 
@@ -190,7 +191,7 @@ function RemovalPhase({
               {removalLog.length === 0 ? (
                 <div className="flex h-14 items-center justify-center rounded-xl bg-white/[0.02]">
                   <span className="text-xs font-bold uppercase tracking-[0.16em] text-white/30">
-                    Awaiting removals
+                    {t("awaitingRemovals", "Awaiting removals")}
                   </span>
                 </div>
               ) : (
@@ -247,7 +248,7 @@ function RemovalPhase({
           {userRedsLeft <= 0 && botRedsLeft <= 0 && (
             <div className="rounded-2xl border border-white/10 bg-white/[0.04] px-4 py-3 text-center">
               <p className="text-sm font-black uppercase tracking-[0.16em] text-white/50">
-                All removals complete
+                {t("allRemovalsComplete", "All removals complete")}
               </p>
             </div>
           )}
@@ -289,10 +290,10 @@ function VerdictOverlay() {
       >
         <SectionPill>Draft Arena · Final Decision</SectionPill>
         <h2 className="mt-5 text-[clamp(2.2rem,6vw,4rem)] font-black uppercase tracking-[0.08em] text-white">
-          Player Comparison
+          {t("playerComparison", "Player Comparison")}
         </h2>
         <p className="mt-4 text-xs font-black uppercase tracking-[0.24em] text-white/35">
-          Revealing ratings...
+          {t("revealingRatings", "Revealing ratings...")}
         </p>
       </motion.div>
     </motion.div>
@@ -434,13 +435,13 @@ function FinalScoreColumn({ isWinner, result, yellow, teamName }) {
 
       <div className="space-y-4">
         <div className="flex items-center justify-between border-b border-white/10 pb-4">
-          <span className="text-sm font-medium text-white/50">Base Rating</span>
+          <span className="text-sm font-medium text-white/50">{t("baseScore", "Base Rating")}</span>
           <span className="font-mono text-lg font-bold text-white">{result.teamRating}</span>
         </div>
 
         <div className="flex items-center justify-between border-b border-white/10 pb-4">
           <span className="flex items-center gap-2 text-sm font-medium text-white/50">
-            Card Penalty
+            {t("penalties", "Card Penalty")}
             {yellow > 0 && (
               <span className="rounded bg-yellow-400/15 px-1.5 py-0.5 text-[10px] font-black text-yellow-300">
                 {yellow}×🟡
@@ -452,7 +453,7 @@ function FinalScoreColumn({ isWinner, result, yellow, teamName }) {
 
         <div className="mt-2 flex items-end justify-between">
           <span className="text-xs font-black uppercase tracking-[0.18em] text-white/45">
-            Final
+            {t("finalScoreLabel", "Final")}
           </span>
           <span
             className={cn(
@@ -488,6 +489,7 @@ function PitchPanel({ team, name }) {
 }
 
 export default function EndScreen({ teams, cards, settings, onPlayAgain }) {
+  const { t } = useLanguage();
   const difficulty = settings?.difficulty ?? "medium";
   const teamName = settings?.teamName ?? "Your Team";
   const stadiumBg = images?.[settings?.stadium] || bg;
@@ -726,17 +728,17 @@ export default function EndScreen({ teams, cards, settings, onPlayAgain }) {
               transition={{ duration: 0.5, ease: "easeOut" }}
             >
               <header className="mb-10 w-full text-center">
-                <SectionPill>Draft Arena · Full Time</SectionPill>
+                <SectionPill>Draft Arena · {t("fullTime", "Full Time")}</SectionPill>
 
                 <div className="mt-5">
                   {winner === "Draw" ? (
                     <h2 className="text-[clamp(3rem,9vw,6rem)] font-black uppercase leading-none tracking-tight text-white">
-                      It's a Draw
+                      {t("itsADraw", "It's a Draw")}
                     </h2>
                   ) : (
                     <>
                       <p className="mb-2 text-sm font-black uppercase tracking-[0.24em] text-white/45">
-                        Winner
+                        {t("winnerLabel", "Winner")}
                       </p>
                       <h2 className="text-[clamp(2.6rem,8vw,5.5rem)] font-black uppercase leading-none tracking-tight text-white">
                         {winner}
@@ -750,7 +752,7 @@ export default function EndScreen({ teams, cards, settings, onPlayAgain }) {
                 <div className="flex items-center gap-3 border-b border-white/10 px-5 py-3">
                   <div className="h-4 w-1 rounded-full bg-white/30" />
                   <span className="text-[11px] font-black uppercase tracking-[0.18em] text-white/45">
-                    Final Scorecard
+                    {t("finalResults", "Final Scorecard")}
                   </span>
                 </div>
 

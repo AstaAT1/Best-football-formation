@@ -33,9 +33,9 @@ export default function TeamPanel({ team, teamName, cards, showOverall, streak, 
                 return (
                     <div key={pos} className="mb-3">
                         <span className={`inline-block rounded-full px-2 py-0.5 text-[9px] font-black uppercase tracking-wider ${pos === "GK" ? "bg-amber-400/15 text-amber-400" :
-                                pos === "DF" ? "bg-white/[0.08] text-slate-300" :
-                                    pos === "MF" ? "bg-white/[0.08] text-slate-200" :
-                                        "bg-rose-500/15 text-rose-500"
+                            pos === "DF" ? "bg-white/[0.08] text-slate-300" :
+                                pos === "MF" ? "bg-white/[0.08] text-slate-200" :
+                                    "bg-rose-500/15 text-rose-500"
                             }`}>
                             {POS_LABEL[pos]}
                         </span>

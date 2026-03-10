@@ -9,6 +9,7 @@ import { planBotAnswer, botPickFromPair, botChangementDecision } from "../engine
 import { gradeAnswer, resolveRound, yellowRecipients } from "../engine/scoring";
 import PickScreen from "./PickScreen";
 import ChangementPanel from "./ChangementPanel";
+import { useLanguage } from "../contexts/LanguageContext";
 
 export default function RoundScreen({
     roundIndex, pair, allQuestions, usedQuestionIds, settings, teams, onRoundDone,
@@ -16,6 +17,7 @@ export default function RoundScreen({
     const pos = normalizePos(pair.pos);
     const difficulty = settings?.difficulty ?? "medium";
     const isChange = roundIndex >= DRAFT_ROUNDS;
+    const { t } = useLanguage();
 
     const [question, setQuestion] = useState(null);  // shuffled question
     const [botPlan, setBotPlan] = useState(null);
@@ -261,8 +263,8 @@ export default function RoundScreen({
             <div className="flex flex-col items-center gap-4 py-4 sm:py-6">
                 <div className="flex flex-wrap items-center justify-center gap-3">
                     <span className="rounded-xl border border-white/10 bg-white/[0.04] px-3 py-1.5 text-sm font-bold text-white/60 shadow-sm backdrop-blur-md">
-                        Round {roundIndex + 1} / 15
-                        {isChange && <span className="ml-2 font-black text-amber-500"> CHANGEMENT</span>}
+                        {t("roundPrefix")} {roundIndex + 1} / 15
+                        {isChange && <span className="ml-2 font-black text-amber-500"> {t("changement")}</span>}
                     </span>
                     <span className={`inline-block rounded-full px-2.5 py-0.5 text-[11px] font-bold uppercase tracking-[0.04em] ${pos === "GK" ? "bg-amber-400/15 text-amber-400" :
                         pos === "DF" ? "bg-white/[0.08] text-slate-300" :
@@ -277,7 +279,7 @@ export default function RoundScreen({
                 <div className="relative mx-auto mt-2 w-full max-w-2xl px-2">
                     <div className="flex items-end justify-between px-1 pb-1.5 opacity-80">
                         <span className="text-[10px] font-bold uppercase tracking-[0.15em] text-white/50">
-                            Time Remaining
+                            {t("timeRemaining")}
                         </span>
                         <span className="font-mono text-sm font-bold text-white/80">
                             {timerSec}s
@@ -286,10 +288,10 @@ export default function RoundScreen({
                     <div className="h-2 w-full overflow-hidden rounded-full bg-black/40 shadow-[inset_0_2px_4px_rgba(0,0,0,0.6)]">
                         <div
                             className={`h-full rounded-full transition-all duration-100 ease-linear ${timerPct > 40
-                                    ? "bg-gradient-to-r from-sky-500 to-sky-300 shadow-[0_0_10px_rgba(56,189,248,0.5)]"
-                                    : timerPct > 15
-                                        ? "bg-gradient-to-r from-amber-500 to-amber-300 shadow-[0_0_10px_rgba(251,191,36,0.6)]"
-                                        : "bg-gradient-to-r from-rose-600 to-rose-400 shadow-[0_0_15px_rgba(244,63,94,0.8)]"
+                                ? "bg-gradient-to-r from-sky-500 to-sky-300 shadow-[0_0_10px_rgba(56,189,248,0.5)]"
+                                : timerPct > 15
+                                    ? "bg-gradient-to-r from-amber-500 to-amber-300 shadow-[0_0_10px_rgba(251,191,36,0.6)]"
+                                    : "bg-gradient-to-r from-rose-600 to-rose-400 shadow-[0_0_15px_rgba(244,63,94,0.8)]"
                                 }`}
                             style={{ width: `${timerPct}%` }}
                         />
@@ -351,7 +353,7 @@ export default function RoundScreen({
 
                 {phase === "result_swap" && (
                     <div className="mx-auto w-full max-w-2xl rounded-xl border border-white/10 bg-white/[0.04] px-5 py-3 text-center text-sm text-white/60">
-                        <strong>🔄 Both wrong! Swapping question… ({swapCount}/{MAX_SWAPS})</strong>
+                        <strong>{t("bothWrongSwapping")} ({swapCount}/{MAX_SWAPS})</strong>
                     </div>
                 )}
 
@@ -389,14 +391,14 @@ export default function RoundScreen({
                             }`}>
                             <span className={`text-lg font-black uppercase tracking-wide ${roundWinner === "user" ? "text-emerald-400" : "text-rose-400"
                                 }`}>
-                                {roundWinner === "user" ? "🏆 You win this round!" : "🤖 Bot wins this round!"}
+                                {roundWinner === "user" ? t("youWin") : t("botWins")}
                             </span>
 
                             <span className="mt-2 text-sm text-white/60">
-                                You: {selectedIdx !== null ? (uCorrect ? "✅" : "❌") : "⌛ No answer"}
+                                {t("you")} {selectedIdx !== null ? (uCorrect ? "✅" : "❌") : t("noAnswer")}
                                 {userTimeMs != null && ` ${(userTimeMs / 1000).toFixed(1)}s`}
                                 <span className="mx-2 opacity-30">|</span>
-                                Bot: {bCorrect ? "✅" : "❌"} {(botPlan.timeMs / 1000).toFixed(1)}s
+                                {t("bot")} {bCorrect ? "✅" : "❌"} {(botPlan.timeMs / 1000).toFixed(1)}s
                             </span>
 
                             {question.explanation && (
@@ -407,7 +409,7 @@ export default function RoundScreen({
 
                             {yellows.length > 0 && (
                                 <span className="mt-4 rounded-lg bg-amber-500/10 py-2 text-xs font-bold text-amber-500">
-                                    🟡 Yellow: {yellows.map((w) => w === "user" ? settings.teamName : "AI FC").join(", ")}
+                                    {t("yellowPenalty")} {yellows.map((w) => w === "user" ? settings.teamName : t("aiFc")).join(", ")}
                                 </span>
                             )}
                         </div>
@@ -417,8 +419,8 @@ export default function RoundScreen({
                             onClick={handleContinue}
                         >
                             {isChange
-                                ? "Changement Decision"
-                                : roundWinner === "user" ? "Pick Your Player" : "Continue"}
+                                ? t("changementDecision")
+                                : roundWinner === "user" ? t("pickYourPlayer") : t("continueBtn")}
                             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="transition-transform group-hover:translate-x-1">
                                 <path d="M5 12h14" />
                                 <path d="m12 5 7 7-7 7" />

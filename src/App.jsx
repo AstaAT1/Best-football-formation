@@ -21,15 +21,16 @@ import EndScreen from "./Components/EndScreen";
 import TeamPanel from "./Components/TeamPanel";
 import CardCallout from "./Components/CardCallout";
 import StageTransition from "./Components/StageTransition";
+import { useLanguage } from "./contexts/LanguageContext";
 
 const DEFAULT_SETTINGS = { teamName: "My Team", difficulty: "medium", stadium: null };
 
 /** Stage boundary definitions: after completing roundIndex N, show message */
 const STAGE_BOUNDARIES = {
-  1: { msg: "GK stage completed ✅ — Next up: DEFENDERS (DF) 🛡️", special: false },
-  5: { msg: "DF stage completed ✅ — Next up: MIDFIELDERS (MF) 🧠", special: false },
-  8: { msg: "MF stage completed ✅ — Next up: ATTACKERS (ATK) ⚡", special: false },
-  11: { msg: "Draft completed ✅ — It's CHANGEMENT time! 🔁 Substitution rounds start now.", special: true },
+  1: { msg: "stageGkCompleted", special: false },
+  5: { msg: "stageDfCompleted", special: false },
+  8: { msg: "stageMfCompleted", special: false },
+  11: { msg: "stageDraftCompleted", special: true },
 };
 
 function buildInitialGame() {
@@ -45,6 +46,7 @@ function buildInitialGame() {
 }
 
 export default function App() {
+  const { t } = useLanguage();
   const [game, setGame] = useState(buildInitialGame);
   const [cardEvent, setCardEvent] = useState(null);
   const [cardPending, setCardPending] = useState([]);
@@ -182,7 +184,7 @@ export default function App() {
         />
 
         <StageTransition
-          message={stageTransition?.msg ?? null}
+          message={stageTransition?.msg ? t(stageTransition.msg) : null}
           isSpecial={stageTransition?.special ?? false}
           onDone={handleStageDone}
         />
@@ -192,10 +194,10 @@ export default function App() {
             className={`fixed top-6 z-[100] flex animate-[bounce_0.5s_infinite] items-center gap-2 rounded-full border border-white/20 bg-black/80 px-5 py-2.5 text-sm font-black shadow-[0_4px_30px_rgba(255,152,0,0.6)] backdrop-blur-md transition-all sm:text-base ${streakToast.who === "user" ? "left-6 border-sky-400" : "right-6 border-rose-400"
               }`}
           >
-            🔥 {streakToast.who === "user" ? settings.teamName : "AI FC"} —
+            🔥 {streakToast.who === "user" ? settings.teamName : t("aiFc")} —
             {streakToast.bonusType === "removeYellow"
-              ? " Streak! 🟡 Yellow removed!"
-              : " Streak! 🛡️ Shield earned!"}
+              ? " " + t("removeYellowStreak")
+              : " " + t("shieldEarnedStreak")}
           </div>
         )}
 
@@ -225,13 +227,13 @@ export default function App() {
               <div className="flex flex-col items-center gap-4 py-4">
                 <div className="flex flex-wrap items-center justify-center gap-3">
                   <span className="rounded-xl border border-white/10 bg-white/[0.04] px-3 py-1 text-sm font-bold text-white/50">
-                    Round {roundIndex + 1} / 15
+                    {t("roundPrefix")} {roundIndex + 1} / 15
                   </span>
                 </div>
               </div>
             )}
             <TeamPanel
-              team={teams.bot} teamName="AI FC"
+              team={teams.bot} teamName={t("aiFc")}
               cards={{ yellow: cards.botYellow, red: cards.botRed }}
               streak={streaks.botStreak} shield={streaks.botShield}
             />

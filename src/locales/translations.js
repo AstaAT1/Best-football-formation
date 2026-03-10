@@ -1,0 +1,350 @@
+export const translations = {
+    en: {
+        // Welcome Screen
+        appTitle: "⚽ Draft Arena",
+        appSubtitle: "Build your dream squad — one question at a time.",
+        howToPlay: "HOW TO PLAY",
+        rules: [
+            "15 rounds total: 11 draft rounds + 4 CHANGEMENT (substitution) rounds.",
+            "Draft rounds build your squad: 1 GK → 4 DF → 3 MF → 3 ATK.",
+            "Changement rounds (12-15): replace one existing player of that position.",
+            "Each round: answer a football trivia question in 15 seconds.",
+            "Two players are up for grabs — winner picks first, loser gets the other.",
+            "Both wrong? Question swaps (max 3 times), then play continues.",
+            "Wrong answer (while opponent was right) = 🟡 Yellow card (−2 pts).",
+            "3 yellows = 🔴 Red card → opponent removes 1 of your players at end.",
+            "🔥 3 correct answers in a row = Streak Bonus! (removes 1 yellow or gives 🛡️ shield).",
+            "Final score = Σ player ratings − yellow penalty points.",
+            "Player ratings are hidden during the game — revealed at the end!"
+        ],
+        teamNameLabel: "YOUR TEAM NAME",
+        teamNamePlaceholder: "e.g. Atlas Lions FC",
+        difficultyLabel: "DIFFICULTY",
+        difficulty: {
+            easy: "Easy",
+            medium: "Medium",
+            hard: "Hard"
+        },
+        selectVenueLabel: "SELECT STADIUM",
+        selected: "SELECTED",
+        selectVenue: "SELECT VENUE",
+        confirmed: "CONFIRMED",
+        startDraft: "START DRAFT ⚡",
+        enterTeamAndStadium: "Enter your team name and select a stadium to continue.",
+        enterTeam: "Enter your team name to continue.",
+        selectStadiumText: "Select a stadium to continue.",
+
+        // Team Panel
+        yellowCards: "Yellow Cards",
+        redCards: "Red Cards",
+        streak: "STREAK",
+        shieldActive: "SHIELD ACTIVE",
+
+        // App/Game Level
+        removeYellowStreak: "Streak! 🟡 Yellow removed!",
+        shieldEarnedStreak: "Streak! 🛡️ Shield earned!",
+        aiFc: "AI FC",
+
+        // Stage Boundaries
+        stageGkCompleted: "GK stage completed ✅ — Next up: DEFENDERS (DF) 🛡️",
+        stageDfCompleted: "DF stage completed ✅ — Next up: MIDFIELDERS (MF) 🧠",
+        stageMfCompleted: "MF stage completed ✅ — Next up: ATTACKERS (ATK) ⚡",
+        stageDraftCompleted: "Draft completed ✅ — It's CHANGEMENT time! 🔁 Substitution rounds start now.",
+
+        // Round Screen
+        roundPrefix: "Round",
+        changement: "CHANGEMENT",
+        timeRemaining: "TIME REMAINING",
+        bothWrongSwapping: "🔄 Both wrong! Swapping question…",
+        youWin: "🏆 YOU WIN THIS ROUND!",
+        botWins: "🤖 BOT WINS THIS ROUND!",
+        you: "You:",
+        noAnswer: "⌛ No answer",
+        bot: "Bot:",
+        yellowPenalty: "🟡 Yellow:",
+        changementDecision: "CHANGEMENT DECISION",
+        pickYourPlayer: "PICK YOUR PLAYER",
+        continueBtn: "CONTINUE",
+
+        // Pick Screen
+        winnerPicksFirst: "Winner picks first! Choose wisely.",
+        botPicking: "Bot is picking...",
+        botPicked: "Bot picked:",
+        youGet: "You get:",
+
+        // Changement Panel
+        newPlayer: "NEW PLAYER",
+        replaceWho: "REPLACE WHO?",
+        skipChangement: "SKIP CHANGEMENT",
+        keepCurrentSquad: "Keep current squad",
+        replaceWith: "Replace with",
+
+        // End Screen
+        finalResults: "FINAL RESULTS",
+        ratingsRevealed: "Player ratings are now revealed!",
+        baseScore: "BASE SCORE",
+        penalties: "PENALTIES",
+        finalScoreLabel: "FINAL SCORE",
+        vs: "VS",
+        playAgain: "PLAY AGAIN ⚡",
+        itsADraw: "IT'S A DRAW",
+        winnerLabel: "WINNER",
+        fullTime: "FULL TIME",
+        playerComparison: "PLAYER COMPARISON",
+        revealingRatings: "Revealing ratings...",
+        redCardPenalties: "RED CARD PENALTIES",
+        finalRemovals: "FINAL REMOVALS",
+        removalsExplanation: "Red cards are applied before the final comparison starts.",
+        matchLog: "MATCH LOG",
+        events: "events",
+        awaitingRemovals: "Awaiting removals",
+        allRemovalsComplete: "All removals complete",
+        live: "LIVE",
+        replaceBtn: "REPLACE",
+
+        // Card Callout
+        redCard: "🔴 RED CARD!",
+        yellowCard: "🟡 YELLOW CARD!",
+        shieldBlocked: "🛡️ SHIELD BLOCKED A YELLOW CARD!",
+        userGotRedCard: "received a RED CARD (3 Yellows).",
+        botGotRedCard: "received a RED CARD (3 Yellows).",
+        userGotYellowCard: "received a YELLOW CARD for answering wrong.",
+        botGotYellowCard: "received a YELLOW CARD for answering wrong.",
+        userShieldBlocked: "Your SHIELD blocked a yellow card!",
+        botShieldBlocked: "Bot's SHIELD blocked a yellow card!",
+        userPlayerRemoved: "AI removed one of your players as penalty!",
+        botPlayerRemoved: "You eliminated one of AI's players as penalty!",
+    },
+    fr: {
+        // Welcome Screen
+        appTitle: "⚽ Draft Arena",
+        appSubtitle: "Construisez votre équipe de rêve — une question à la fois.",
+        howToPlay: "COMMENT JOUER",
+        rules: [
+            "15 manches au total : 11 de draft + 4 manches de CHANGEMENT (remplacements).",
+            "La draft construit votre équipe : 1 GB → 4 DEF → 3 MIL → 3 ATT.",
+            "Manches de changement (12-15) : remplacez un joueur existant de ce poste.",
+            "Chaque manche : répondez à une question dans les 15 secondes.",
+            "Deux joueurs sont en jeu — le gagnant choisit en premier.",
+            "Les deux ont faux ? La question change (max 3 fois).",
+            "Mauvaise réponse (alors que l'adversaire a juste) = 🟡 Carton Jaune (−2 pts).",
+            "3 jaunes = 🔴 Carton Rouge → l'adversaire retire 1 de vos joueurs à la fin.",
+            "🔥 3 bonnes réponses de suite = Bonus de Série ! (-1 jaune ou donne un 🛡️ bouclier).",
+            "Score final = Σ notes des joueurs − points de pénalité des jaunes.",
+            "Les notes des joueurs sont cachées pendant le jeu — révélées à la fin !"
+        ],
+        teamNameLabel: "NOM DE VOTRE ÉQUIPE",
+        teamNamePlaceholder: "ex. Les Bleus FC",
+        difficultyLabel: "DIFFICULTÉ",
+        difficulty: {
+            easy: "Facile",
+            medium: "Moyen",
+            hard: "Difficile"
+        },
+        selectVenueLabel: "SÉLECTIONNER LE STADE",
+        selected: "SÉLECTIONNÉ",
+        selectVenue: "CHOISIR LE STADE",
+        confirmed: "CONFIRMÉ",
+        startDraft: "COMMENCER LA DRAFT ⚡",
+        enterTeamAndStadium: "Entrez le nom de votre équipe et sélectionnez un stade pour continuer.",
+        enterTeam: "Entrez le nom de votre équipe pour continuer.",
+        selectStadiumText: "Sélectionnez un stade pour continuer.",
+
+        // Team Panel
+        yellowCards: "Cartons Jaunes",
+        redCards: "Cartons Rouges",
+        streak: "SÉRIE",
+        shieldActive: "BOUCLIER ACTIF",
+
+        // App/Game Level
+        removeYellowStreak: "Série ! 🟡 Jaune retiré !",
+        shieldEarnedStreak: "Série ! 🛡️ Bouclier gagné !",
+        aiFc: "IA FC",
+
+        // Stage Boundaries
+        stageGkCompleted: "Étape GB terminée ✅ — À suivre : DÉFENSEURS (DEF) 🛡️",
+        stageDfCompleted: "Étape DEF terminée ✅ — À suivre : MILIEUX (MIL) 🧠",
+        stageMfCompleted: "Étape MIL terminée ✅ — À suivre : ATTAQUANTS (ATT) ⚡",
+        stageDraftCompleted: "Draft terminée ✅ — C'est l'heure du CHANGEMENT ! 🔁 Les remplacements commencent.",
+
+        // Round Screen
+        roundPrefix: "Manche",
+        changement: "CHANGEMENT",
+        timeRemaining: "TEMPS RESTANT",
+        bothWrongSwapping: "🔄 Faux tous les deux ! Changement de question…",
+        youWin: "🏆 VOUS GAGNEZ CETTE MANCHE !",
+        botWins: "🤖 L'IA GAGNE CETTE MANCHE !",
+        you: "Vous :",
+        noAnswer: "⌛ Pas de réponse",
+        bot: "IA :",
+        yellowPenalty: "🟡 Jaune :",
+        changementDecision: "DÉCISION DE CHANGEMENT",
+        pickYourPlayer: "CHOISISSEZ VOTRE JOUEUR",
+        continueBtn: "CONTINUER",
+
+        // Pick Screen
+        winnerPicksFirst: "Le gagnant choisit en premier ! Choisissez bien.",
+        botPicking: "L'IA choisit...",
+        botPicked: "L'IA a choisi :",
+        youGet: "Vous obtenez :",
+
+        // Changement Panel
+        newPlayer: "NOUVEAU JOUEUR",
+        replaceWho: "REMPLACER QUI ?",
+        skipChangement: "PASSER LE CHANGEMENT",
+        keepCurrentSquad: "Garder l'équipe actuelle",
+        replaceWith: "Remplacer par",
+
+        // End Screen
+        finalResults: "RÉSULTATS FINAUX",
+        ratingsRevealed: "Les notes des joueurs sont dévoilées !",
+        baseScore: "SCORE DE BASE",
+        penalties: "PÉNALITÉS",
+        finalScoreLabel: "SCORE FINAL",
+        vs: "CONTRE",
+        playAgain: "REJOUER ⚡",
+        itsADraw: "MATCH NUL",
+        winnerLabel: "VAINQUEUR",
+        fullTime: "FIN DU MATCH",
+        playerComparison: "COMPARAISON DES JOUEURS",
+        revealingRatings: "Révélation des notes...",
+        redCardPenalties: "PÉNALITÉS CARTONS ROUGES",
+        finalRemovals: "RETRAITS FINAUX",
+        removalsExplanation: "Les cartons rouges s'appliquent avant la comparaison finale.",
+        matchLog: "JOURNAL DU MATCH",
+        events: "événements",
+        awaitingRemovals: "En attente des retraits",
+        allRemovalsComplete: "Tous les retraits sont terminés",
+        live: "EN DIRECT",
+        replaceBtn: "REMPLACER",
+
+        // Card Callout
+        redCard: "🔴 CARTON ROUGE !",
+        yellowCard: "🟡 CARTON JAUNE !",
+        shieldBlocked: "🛡️ LE BOUCLIER A BLOQUÉ UN CARTON JAUNE !",
+        userGotRedCard: "a reçu un CARTON ROUGE (3 Jaunes).",
+        botGotRedCard: "a reçu un CARTON ROUGE (3 Jaunes).",
+        userGotYellowCard: "a reçu un CARTON JAUNE pour mauvaise réponse.",
+        botGotYellowCard: "a reçu un CARTON JAUNE pour mauvaise réponse.",
+        userShieldBlocked: "Votre BOUCLIER a bloqué un carton jaune !",
+        botShieldBlocked: "Le BOUCLIER de l'IA a bloqué un carton jaune !",
+        userPlayerRemoved: "L'IA a retiré l'un de vos joueurs par pénalité !",
+        botPlayerRemoved: "Vous avez éliminé l'un des joueurs de l'IA par pénalité !",
+    },
+    ar: {
+        // Welcome Screen
+        appTitle: "⚽ درافت أرينا",
+        appSubtitle: "اصنع فريق أحلامك — سؤالاً بسؤال.",
+        howToPlay: "كيفية اللعب",
+        rules: [
+            "15 جولة في المجموع: 11 جولة درافت + 4 جولات تغيير (تبديلات).",
+            "جولات الدرافت تبني فريقك: 1 حارس → 4 دفاع → 3 وسط → 3 هجوم.",
+            "جولات التغيير (12-15): استبدال لاعب موجود في نفس المركز.",
+            "كل جولة: أجب عن سؤال في كل جولة خلال 15 ثانية.",
+            "يوجد لاعبان متاحان — الفائز يختار أولاً.",
+            "كلاكما أخطأ؟ يتم تبديل السؤال (بحد أقصى 3 مرات).",
+            "إجابة خاطئة (بينما أصاب الخصم) = 🟡 بطاقة صفراء (−2 نقطة).",
+            "3 بطاقات صفراء = 🔴 بطاقة حمراء → يقوم الخصم بإزالة 1 من لاعبيك في النهاية.",
+            "🔥 3 إجابات صحيحة متتالية = مكافأة سلسلة! (تزيل بطاقة صفراء أو تعطيك 🛡️ درعًا).",
+            "النتيجة النهائية = Σ تقييمات اللاعبين − نقاط جزاء البطاقات الصفراء.",
+            "تقييمات اللاعبين مخفية أثناء اللعب — تُكشف في النهاية!"
+        ],
+        teamNameLabel: "اسم فريقك",
+        teamNamePlaceholder: "مثلًا: أسود الأطلس",
+        difficultyLabel: "الصعوبة",
+        difficulty: {
+            easy: "سهل",
+            medium: "متوسط",
+            hard: "صعب"
+        },
+        selectVenueLabel: "اختر الملعب",
+        selected: "تم الاختيار",
+        selectVenue: "اختر الملعب",
+        confirmed: "مؤكد",
+        startDraft: "ابدأ الدرافت ⚡",
+        enterTeamAndStadium: "أدخل اسم فريقك واختر ملعبًا للمتابعة.",
+        enterTeam: "أدخل اسم فريقك للمتابعة.",
+        selectStadiumText: "اختر ملعبًا للمتابعة.",
+
+        // Team Panel
+        yellowCards: "البطاقات الصفراء",
+        redCards: "البطاقات الحمراء",
+        streak: "سلسلة الانتصارات",
+        shieldActive: "الدرع نشط",
+
+        // App/Game Level
+        removeYellowStreak: "سلسلة! 🟡 تمت إزالة بطاقة صفراء!",
+        shieldEarnedStreak: "سلسلة! 🛡️ حصلت على درع!",
+        aiFc: "الذكاء الاصطناعي FC",
+
+        // Stage Boundaries
+        stageGkCompleted: "اكتملت مرحلة الحارس ✅ — القادم: المدافعون (DF) 🛡️",
+        stageDfCompleted: "اكتملت مرحلة الدفاع ✅ — القادم: خط الوسط (MF) 🧠",
+        stageMfCompleted: "اكتملت مرحلة الوسط ✅ — القادم: المهاجمون (ATK) ⚡",
+        stageDraftCompleted: "الدرافت اكتمل ✅ — حان وقت التغيير! 🔁 جولات التبديل تبدأ الآن.",
+
+        // Round Screen
+        roundPrefix: "جولة",
+        changement: "تغيير",
+        timeRemaining: "الوقت المتبقي",
+        bothWrongSwapping: "🔄 كلاكما أخطأ! تبديل السؤال…",
+        youWin: "🏆 لقد فزت بهذه الجولة!",
+        botWins: "🤖 الذكاء الاصطناعي يفوز بهذه الجولة!",
+        you: "أنت:",
+        noAnswer: "⌛ لا توجد إجابة",
+        bot: "الذكاء الاصطناعي:",
+        yellowPenalty: "🟡 بطاقة صفراء:",
+        changementDecision: "قرار التغيير",
+        pickYourPlayer: "اختر لاعبك",
+        continueBtn: "متابعة",
+
+        // Pick Screen
+        winnerPicksFirst: "الفائز يختار أولاً! اختر بحكمة.",
+        botPicking: "الذكاء الاصطناعي يختار...",
+        botPicked: "اختار الذكاء الاصطناعي:",
+        youGet: "أنت تحصل على:",
+
+        // Changement Panel
+        newPlayer: "لاعب جديد",
+        replaceWho: "استبدال من؟",
+        skipChangement: "تخطي التغيير",
+        keepCurrentSquad: "الاحتفاظ بالتشكيلة الحالية",
+        replaceWith: "استبدال بـ",
+
+        // End Screen
+        finalResults: "النتائج النهائية",
+        ratingsRevealed: "تم الكشف عن تقييمات اللاعبين!",
+        baseScore: "النتيجة الأساسية",
+        penalties: "الجزاءات",
+        finalScoreLabel: "النتيجة النهائية",
+        vs: "ضد",
+        playAgain: "العب مرة أخرى ⚡",
+        itsADraw: "التعادل",
+        winnerLabel: "الفائز",
+        fullTime: "نهاية المباراة",
+        playerComparison: "مقارنة اللاعبين",
+        revealingRatings: "كشف التقييمات...",
+        redCardPenalties: "جزاءات البطاقات الحمراء",
+        finalRemovals: "الإزالات النهائية",
+        removalsExplanation: "تُطبق البطاقات الحمراء قبل بدء المقارنة النهائية.",
+        matchLog: "سجل المباراة",
+        events: "أحداث",
+        awaitingRemovals: "في انتظار الإزالات",
+        allRemovalsComplete: "اكتملت جميع الإزالات",
+        live: "مباشر",
+        replaceBtn: "استبدال",
+
+        // Card Callout
+        redCard: "🔴 بطاقة حمراء!",
+        yellowCard: "🟡 بطاقة صفراء!",
+        shieldBlocked: "🛡️ الدرع منع بطاقة صفراء!",
+        userGotRedCard: "حصل على بطاقة حمراء (3 صفراء).",
+        botGotRedCard: "حصل على بطاقة حمراء (3 صفراء).",
+        userGotYellowCard: "حصل على بطاقة صفراء للإجابة الخاطئة.",
+        botGotYellowCard: "حصل على بطاقة صفراء للإجابة الخاطئة.",
+        userShieldBlocked: "صد درعك بطاقة صفراء!",
+        botShieldBlocked: "صد درع الذكاء الاصطناعي بطاقة صفراء!",
+        userPlayerRemoved: "أزال الذكاء الاصطناعي أحد لاعبيك كعقوبة!",
+        botPlayerRemoved: "قمت بإقصاء أحد لاعبي الذكاء الاصطناعي كعقوبة!",
+    }
+};
