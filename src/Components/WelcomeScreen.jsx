@@ -1,7 +1,7 @@
 import { useState } from "react";
 import images from "../constants/images";
 import bg from "../assets/images/background.jpg";
-import { useLanguage } from "../contexts/LanguageContext";
+import { useTranslation } from "react-i18next";
 
 const STADIUMS = [
   { id: "stadebernabeu", label: "Santiago Bernabéu", sub: "Real Madrid" },
@@ -85,8 +85,8 @@ function CheckIcon() {
 }
 
 function RulesAccordion({ open, onToggle }) {
-  const { t } = useLanguage();
-  const rules = t("rules") || [];
+  const { t } = useTranslation("ui");
+  const rules = t("rules", { returnObjects: true }) || [];
 
   return (
     <div className="mt-5">
@@ -136,7 +136,7 @@ function RulesAccordion({ open, onToggle }) {
 }
 
 function DifficultySelector({ value, onChange }) {
-  const { t } = useLanguage();
+  const { t } = useTranslation("ui");
 
   return (
     <div className="mt-5">
@@ -160,7 +160,7 @@ function DifficultySelector({ value, onChange }) {
                   : "border-white/10 bg-black/20 text-white/75 hover:bg-black/30"
               )}
             >
-              {t("difficulty")[level] || level}
+              {t(`difficulty${level.charAt(0).toUpperCase() + level.slice(1)}`) || level}
             </button>
           );
         })}
@@ -179,7 +179,7 @@ function StadiumCarousel({
   onSelect,
   onGoTo,
 }) {
-  const { t } = useLanguage();
+  const { t } = useTranslation("ui");
   const isSelected = stadium === currentStadium.id;
 
   return (
@@ -287,7 +287,8 @@ function StadiumCarousel({
 }
 
 export default function WelcomeScreen({ onStart }) {
-  const { language, updateLanguage, t } = useLanguage();
+  const { t, i18n } = useTranslation("ui");
+  const language = i18n.language;
   const [teamName, setTeamName] = useState("");
   const [difficulty, setDifficulty] = useState("medium");
   const [stadium, setStadium] = useState(null);
@@ -344,7 +345,7 @@ export default function WelcomeScreen({ onStart }) {
         {['en', 'fr', 'ar'].map((lang) => (
           <button
             key={lang}
-            onClick={() => updateLanguage(lang)}
+            onClick={() => i18n.changeLanguage(lang)}
             className={`flex h-8 w-8 items-center justify-center rounded-full text-xs font-bold uppercase transition-all ${language === lang
               ? 'bg-white text-black'
               : 'text-white/60 hover:bg-white/10 hover:text-white'

@@ -3,7 +3,7 @@
 // ============================================================
 import { useEffect, useState } from "react";
 import images from "../constants/images";
-import { useLanguage } from "../contexts/LanguageContext";
+import { useTranslation } from "react-i18next";
 
 /**
  * Props:
@@ -12,6 +12,7 @@ import { useLanguage } from "../contexts/LanguageContext";
  */
 export default function CardCallout({ event, onDone }) {
     const [phase, setPhase] = useState("hidden"); // hidden | center | slide | out
+    const { t } = useTranslation("ui");
 
     useEffect(() => {
         if (!event) return;
@@ -31,13 +32,12 @@ export default function CardCallout({ event, onDone }) {
 
     if (!event || phase === "hidden") return null;
 
-    const { t } = useLanguage();
     const isYellow = event.type === "yellow";
     const side = event.who === "user" ? "slide-left" : "slide-right";
     const label = event.who === "user" ? event.teamName : t("aiFc", "AI FC");
     const msg = isYellow
-        ? `${label} — ${t("yellowCard")} (−2 pts)`
-        : `${label} — ${t("redCard")} ${t("redCardRemoval", "Removal at end!")}`;
+        ? `${label} — ${t("yellowCardLabel", "Yellow Card")} (${t("minusTwoPts", "−2 pts")})`
+        : `${label} — ${t("redCardLabel", "Red Card")} ${t("removalAtEnd", "Removal at end!")}`;
 
     // We map phases to Tailwind utility classes to replace the old CSS @keyframes
     const overlayBase = "fixed inset-0 z-[200] flex items-center justify-center bg-black/82 pointer-events-none transition-opacity duration-300";

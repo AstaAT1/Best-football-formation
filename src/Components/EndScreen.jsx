@@ -8,7 +8,7 @@ import { botRemovePlayer } from "../engine/ai";
 import { computeFinalScore } from "../engine/scoring";
 import TeamPanel from "./TeamPanel";
 import PitchLineup from "./PitchLineup";
-import { useLanguage } from "../contexts/LanguageContext";
+import { useTranslation } from "react-i18next";
 
 function cn(...inputs) {
   return twMerge(clsx(inputs));
@@ -103,6 +103,7 @@ function SectionPill({ children }) {
 }
 
 function LiveScoreTicker({ teamName, runningUserScore, runningBotScore }) {
+  const { t } = useTranslation("ui");
   return (
     <div className="mx-auto mt-6 flex w-full max-w-lg items-center justify-between overflow-hidden rounded-2xl border border-white/10 bg-black/35 backdrop-blur-xl">
       <div className="flex min-w-[120px] flex-col items-center px-5 py-3">
@@ -157,6 +158,7 @@ function RemovalPhase({
   teamName,
   onRemoveBotPlayer,
 }) {
+  const { t } = useTranslation("ui");
   return (
     <motion.div
       className="w-full max-w-2xl"
@@ -259,6 +261,7 @@ function RemovalPhase({
 }
 
 function VerdictOverlay() {
+  const { t } = useTranslation("ui");
   return (
     <motion.div
       className="fixed inset-0 z-[100] flex flex-col items-center justify-center bg-[#06080f]/95 px-6 text-center"
@@ -405,6 +408,7 @@ function RevealPlayerCard({ side, teamName, player, position }) {
 }
 
 function FinalScoreColumn({ isWinner, result, yellow, teamName }) {
+  const { t } = useTranslation("ui");
   return (
     <div className={cn("flex flex-1 flex-col p-6 md:p-7", isWinner && "bg-white/[0.03]")}>
       <div className="mb-5 flex items-center justify-between gap-3">
@@ -489,7 +493,7 @@ function PitchPanel({ team, name }) {
 }
 
 export default function EndScreen({ teams, cards, settings, onPlayAgain }) {
-  const { t } = useLanguage();
+  const { t } = useTranslation("ui");
   const difficulty = settings?.difficulty ?? "medium";
   const teamName = settings?.teamName ?? "Your Team";
   const stadiumBg = images?.[settings?.stadium] || bg;

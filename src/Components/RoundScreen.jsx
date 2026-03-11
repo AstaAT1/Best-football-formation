@@ -9,7 +9,7 @@ import { planBotAnswer, botPickFromPair, botChangementDecision } from "../engine
 import { gradeAnswer, resolveRound, yellowRecipients } from "../engine/scoring";
 import PickScreen from "./PickScreen";
 import ChangementPanel from "./ChangementPanel";
-import { useLanguage } from "../contexts/LanguageContext";
+import { useTranslation } from "react-i18next";
 
 export default function RoundScreen({
     roundIndex, pair, allQuestions, usedQuestionIds, settings, teams, onRoundDone,
@@ -17,7 +17,31 @@ export default function RoundScreen({
     const pos = normalizePos(pair.pos);
     const difficulty = settings?.difficulty ?? "medium";
     const isChange = roundIndex >= DRAFT_ROUNDS;
-    const { t } = useLanguage();
+    const { t } = useTranslation("ui");
+    const { t: tQ } = useTranslation("questions");
+
+    // Helper: get translated question text, choices, explanation
+    // while preserving the existing shuffle order
+    const getTranslatedQuestion = (q) => {
+        if (!q) return q;
+        const qId = q.id;
+        const translatedText = tQ(`${qId}.text`, { defaultValue: q.text });
+        const translatedChoices = tQ(`${qId}.choices`, { returnObjects: true, defaultValue: q.choices });
+        const translatedExplanation = tQ(`${qId}.explanation`, { defaultValue: q.explanation });
+        // Map shuffled choices using original indices
+        // shuffleChoices stores the original-index order; map those to translated choices
+        const origChoices = q.choices; // English choices from the raw question
+        const translatedShuffledChoices = q.shuffledChoices.map((engChoice) => {
+            const origIdx = origChoices.indexOf(engChoice);
+            return origIdx >= 0 && translatedChoices[origIdx] ? translatedChoices[origIdx] : engChoice;
+        });
+        return {
+            ...q,
+            text: translatedText,
+            explanation: translatedExplanation,
+            shuffledChoices: translatedShuffledChoices,
+        };
+    };
 
     const [question, setQuestion] = useState(null);  // shuffled question
     const [botPlan, setBotPlan] = useState(null);
@@ -324,10 +348,10 @@ export default function RoundScreen({
                 {(phase === "answering" || phase === "result_swap") && (
                     <div className="mx-auto mt-2 flex w-full max-w-2xl flex-col items-center gap-6">
                         <div className="w-full rounded-2xl border border-white/10 bg-[#0b1018]/80 p-5 shadow-xl backdrop-blur-md sm:p-6">
-                            <h2 className="text-center text-lg font-bold leading-relaxed text-white sm:text-xl">{question.text}</h2>
+                            <h2 className="text-center text-lg font-bold leading-relaxed text-white sm:text-xl">{getTranslatedQuestion(question).text}</h2>
                         </div>
                         <div className="grid w-full grid-cols-1 gap-3 sm:grid-cols-2">
-                            {question.shuffledChoices.map((choice, idx) => (
+                            {getTranslatedQuestion(question).shuffledChoices.map((choice, idx) => (
                                 <button
                                     key={idx}
                                     className={`group flex w-full items-center gap-4 rounded-xl border p-4 text-left transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-sky-400/50 active:scale-95 ${selectedIdx === idx
@@ -359,10 +383,10 @@ export default function RoundScreen({
 
                 {phase === "result_win" && (
                     <div className="mx-auto flex w-full max-w-2xl flex-col items-center gap-6">
-                        <h2 className="mb-2 text-center text-xl font-bold leading-relaxed text-white/60 sm:text-2xl">{question.text}</h2>
+                        <h2 className="mb-2 text-center text-xl font-bold leading-relaxed text-white/60 sm:text-2xl">{getTranslatedQuestion(question).text}</h2>
 
                         <div className="w-full grid grid-cols-1 gap-3 sm:grid-cols-2">
-                            {question.shuffledChoices.map((choice, idx) => {
+                            {getTranslatedQuestion(question).shuffledChoices.map((choice, idx) => {
                                 const isCorrect = idx === question.shuffledAnswerIndex;
                                 const isSelected = idx === selectedIdx;
                                 return (
@@ -401,9 +425,9 @@ export default function RoundScreen({
                                 {t("bot")} {bCorrect ? "✅" : "❌"} {(botPlan.timeMs / 1000).toFixed(1)}s
                             </span>
 
-                            {question.explanation && (
+                            {getTranslatedQuestion(question).explanation && (
                                 <span className="mt-4 rounded-xl bg-black/30 p-4 text-xs italic leading-relaxed text-white/60">
-                                    {question.explanation}
+                                    {getTranslatedQuestion(question).explanation}
                                 </span>
                             )}
 

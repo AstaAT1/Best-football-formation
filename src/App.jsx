@@ -21,7 +21,7 @@ import EndScreen from "./Components/EndScreen";
 import TeamPanel from "./Components/TeamPanel";
 import CardCallout from "./Components/CardCallout";
 import StageTransition from "./Components/StageTransition";
-import { useLanguage } from "./contexts/LanguageContext";
+import { useTranslation } from "react-i18next";
 
 const DEFAULT_SETTINGS = { teamName: "My Team", difficulty: "medium", stadium: null };
 
@@ -46,7 +46,7 @@ function buildInitialGame() {
 }
 
 export default function App() {
-  const { t } = useLanguage();
+  const { t } = useTranslation("ui");
   const [game, setGame] = useState(buildInitialGame);
   const [cardEvent, setCardEvent] = useState(null);
   const [cardPending, setCardPending] = useState([]);

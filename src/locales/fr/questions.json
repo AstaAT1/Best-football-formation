@@ -1,0 +1,2042 @@
+{
+  "q1": {
+    "text": "Quel est le rôle principal d'un gardien de but ?",
+    "choices": [
+      "Marquer des buts",
+      "Empêcher les buts en arrêtant les tirs",
+      "Tirer les corners",
+      "Marquer les attaquants"
+    ],
+    "explanation": "Le travail principal du gardien est d'empêcher l'équipe adverse de marquer."
+  },
+  "q2": {
+    "text": "Quelle partie du corps un gardien peut-il utiliser dans la surface de réparation que les joueurs de champ ne peuvent pas ?",
+    "choices": [
+      "Les pieds",
+      "La tête",
+      "Les mains",
+      "La poitrine"
+    ],
+    "explanation": "Les gardiens peuvent utiliser leurs mains dans leur propre surface de réparation."
+  },
+  "q3": {
+    "text": "Quelle couleur de maillot porte généralement un gardien de but ?",
+    "choices": [
+      "La même que ses coéquipiers",
+      "Une couleur différente de tous les autres joueurs",
+      "Toujours noir",
+      "Toujours vert"
+    ],
+    "explanation": "Les gardiens doivent porter une couleur distinctive de leurs coéquipiers, adversaires et arbitres."
+  },
+  "q4": {
+    "text": "Quel légendaire gardien italien est surnommé 'Superman' ?",
+    "choices": [
+      "Dino Zoff",
+      "Gianluigi Buffon",
+      "Gianluigi Donnarumma",
+      "Walter Zenga"
+    ],
+    "explanation": "Gianluigi Buffon a gagné le surnom de 'Superman' pour ses arrêts extraordinaires."
+  },
+  "q5": {
+    "text": "Quel gardien a remporté le plus de Gants d'Or en Coupe du Monde ?",
+    "choices": [
+      "Manuel Neuer",
+      "Iker Casillas",
+      "Gianluigi Buffon",
+      "Oliver Kahn"
+    ],
+    "explanation": "Manuel Neuer a remporté le Gant d'Or lors de la Coupe du Monde 2014."
+  },
+  "q6": {
+    "text": "Comment appelle-t-on aussi la surface des 6 mètres ?",
+    "choices": [
+      "Surface de réparation",
+      "Surface de but",
+      "Surface technique",
+      "Cercle central"
+    ],
+    "explanation": "La surface des 6 mètres est officiellement appelée surface de but."
+  },
+  "q7": {
+    "text": "Quel gardien a marqué le plus de buts en carrière ?",
+    "choices": [
+      "René Higuita",
+      "Rogério Ceni",
+      "José Luis Chilavert",
+      "Jorge Campos"
+    ],
+    "explanation": "Rogério Ceni a marqué plus de 130 buts en carrière, principalement sur coups francs et penalties."
+  },
+  "q8": {
+    "text": "Qui a été le premier gardien à remporter le Ballon d'Or ?",
+    "choices": [
+      "Lev Yashin",
+      "Gordon Banks",
+      "Gianluigi Buffon",
+      "Oliver Kahn"
+    ],
+    "explanation": "Lev Yashin a remporté le Ballon d'Or en 1963, le seul gardien à l'avoir fait."
+  },
+  "q9": {
+    "text": "Quelle célèbre technique d'arrêt implique un coup de pied en scorpion derrière le dos ?",
+    "choices": [
+      "Arrêt félin",
+      "Arrêt coup du scorpion",
+      "Double réflexe",
+      "Arrêt étoile de mer"
+    ],
+    "explanation": "René Higuita a popularisé le coup du scorpion en 1995 contre l'Angleterre."
+  },
+  "q10": {
+    "text": "Un gardien peut-il attraper une passe en retrait délibérée d'un coéquipier ?",
+    "choices": [
+      "Oui, toujours",
+      "Non, cela entraîne un coup franc indirect",
+      "Oui, mais seulement en prolongation",
+      "Seulement si le ballon traverse la surface des 6 mètres"
+    ],
+    "explanation": "La règle du retrait (1992) interdit aux gardiens de prendre le ballon avec les mains sur une passe volontaire d'un coéquipier."
+  },
+  "q11": {
+    "text": "Quel gardien a capitané l'Espagne lors de sa victoire en Coupe du Monde 2010 ?",
+    "choices": [
+      "Víctor Valdés",
+      "Pepe Reina",
+      "Iker Casillas",
+      "David de Gea"
+    ],
+    "explanation": "Iker Casillas était le capitaine de l'Espagne lors de sa campagne victorieuse en Coupe du Monde 2010."
+  },
+  "q12": {
+    "text": "Quel est le nombre standard de défenseurs dans un 4-3-3 ?",
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation": "La formation 4-3-3 utilise 4 défenseurs."
+  },
+  "q13": {
+    "text": "Que signifie un 'clean sheet' (cage inviolée) ?",
+    "choices": [
+      "Un match sans fautes",
+      "Un match où l'équipe n'a pas encaissé de but",
+      "Un match sans remplacements",
+      "Un match sans cartons jaunes"
+    ],
+    "explanation": "Un clean sheet signifie que l'équipe n'a encaissé aucun but dans le match."
+  },
+  "q14": {
+    "text": "Quel poste de défenseur joue au centre de la ligne arrière ?",
+    "choices": [
+      "Arrière droit",
+      "Arrière gauche",
+      "Défenseur central",
+      "Latéral"
+    ],
+    "explanation": "Les défenseurs centraux jouent au milieu de la ligne défensive."
+  },
+  "q15": {
+    "text": "Qu'est-ce qu'un piège du hors-jeu ?",
+    "choices": [
+      "Un arrêt spécial du gardien",
+      "Une stratégie défensive où la ligne avance pour piéger les attaquants en hors-jeu",
+      "Une routine de corner",
+      "Une tactique de pressing au milieu de terrain"
+    ],
+    "explanation": "Le piège du hors-jeu implique que les défenseurs avancent en unisson avant une passe pour piéger les attaquants."
+  },
+  "q16": {
+    "text": "Quel défenseur espagnol détient le record du plus grand nombre de sélections internationales pour l'Espagne ?",
+    "choices": [
+      "Carles Puyol",
+      "Gerard Piqué",
+      "Sergio Ramos",
+      "Dani Carvajal"
+    ],
+    "explanation": "Sergio Ramos détient le record d'Espagne avec 180 sélections internationales."
+  },
+  "q17": {
+    "text": "Qu'est-ce qu'un 'libéro' dans le football ?",
+    "choices": [
+      "Un milieu offensif",
+      "Un défenseur qui joue derrière la ligne défensive principale",
+      "Un milieu défensif",
+      "Un deuxième gardien"
+    ],
+    "explanation": "Le libéro joue derrière la ligne défensive et 'balaie' les ballons qui passent les défenseurs principaux."
+  },
+  "q18": {
+    "text": "Quel système défensif italien est célèbre pour son marquage individuel serré ?",
+    "choices": [
+      "Tiki-taka",
+      "Catenaccio",
+      "Gegenpressing",
+      "Football total"
+    ],
+    "explanation": "Le Catenaccio est une tactique défensive italienne mettant l'accent sur le marquage individuel serré et un libéro."
+  },
+  "q19": {
+    "text": "Quel défenseur a remporté le Ballon d'Or 2006 ?",
+    "choices": [
+      "Paolo Maldini",
+      "Fabio Cannavaro",
+      "John Terry",
+      "Roberto Carlos"
+    ],
+    "explanation": "Fabio Cannavaro a remporté le Ballon d'Or 2006 après avoir capitané l'Italie vers le titre de Champion du Monde."
+  },
+  "q20": {
+    "text": "Quel défenseur a marqué le plus de buts dans l'histoire de la Ligue des Champions ?",
+    "choices": [
+      "Sergio Ramos",
+      "Roberto Carlos",
+      "Paolo Maldini",
+      "Gerard Piqué"
+    ],
+    "explanation": "Sergio Ramos détient le record du plus grand nombre de buts marqués par un défenseur en Ligue des Champions."
+  },
+  "q21": {
+    "text": "Qui est le plus jeune joueur à avoir capitané une équipe victorieuse en Ligue des Champions ?",
+    "choices": [
+      "John Terry",
+      "Matthijs de Ligt",
+      "Paolo Maldini",
+      "Franz Beckenbauer"
+    ],
+    "explanation": "Paolo Maldini a capitané l'AC Milan lors de victoires en Ligue des Champions à un âge remarquablement jeune."
+  },
+  "q22": {
+    "text": "Qu'est-ce qu'un 'tacle' dans le football ?",
+    "choices": [
+      "Un tir au but",
+      "Une tentative de prendre le ballon à un adversaire",
+      "Un coup de tête",
+      "Une touche"
+    ],
+    "explanation": "Un tacle est l'acte de défier un adversaire pour gagner la possession du ballon."
+  },
+  "q23": {
+    "text": "De quel pays est originaire Paolo Maldini ?",
+    "choices": [
+      "Espagne",
+      "France",
+      "Italie",
+      "Portugal"
+    ],
+    "explanation": "Paolo Maldini est italien et a passé toute sa carrière à l'AC Milan."
+  },
+  "q24": {
+    "text": "Quel défenseur a fait le plus d'apparitions dans l'histoire de la Coupe du Monde ?",
+    "choices": [
+      "Cafu",
+      "Paolo Maldini",
+      "Philipp Lahm",
+      "Lothar Matthäus"
+    ],
+    "explanation": "Lothar Matthäus détient le record du plus grand nombre d'apparitions en Coupe du Monde avec 25 matchs."
+  },
+  "q25": {
+    "text": "Dans quelle situation un penalty est-il accordé ?",
+    "choices": [
+      "Faute en dehors de la surface",
+      "Faute dans la surface de réparation par l'équipe en défense",
+      "Hors-jeu",
+      "Corner"
+    ],
+    "explanation": "Un penalty est accordé lorsque l'équipe en défense commet une faute dans sa propre surface de réparation."
+  },
+  "q26": {
+    "text": "Qu'est-ce qu'une faute du dernier défenseur ?",
+    "choices": [
+      "Une faute du gardien",
+      "Une faute du dernier défenseur qui empêche une occasion de but claire",
+      "Toute faute dans la surface",
+      "Une faute tactique au milieu de terrain"
+    ],
+    "explanation": "Une faute du dernier défenseur empêche une occasion de but évidente et entraîne généralement un carton rouge."
+  },
+  "q27": {
+    "text": "Quel arrière gauche est célèbre pour ses coups francs puissants et a joué pour le Real Madrid et le Brésil ?",
+    "choices": [
+      "Marcelo",
+      "Roberto Carlos",
+      "Dani Alves",
+      "Cafu"
+    ],
+    "explanation": "Roberto Carlos était connu pour ses coups francs incroyables du pied gauche et a joué au Real Madrid de 1996 à 2007."
+  },
+  "q28": {
+    "text": "Combien de défenseurs forment généralement une défense à trois ?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "explanation": "Une défense à trois utilise 3 défenseurs centraux, souvent avec des pistons apportant de la largeur."
+  },
+  "q29": {
+    "text": "Que signifie 'marquer' dans le jeu défensif ?",
+    "choices": [
+      "Marquer un but",
+      "Rester proche d'un adversaire pour l'empêcher de recevoir le ballon",
+      "Tirer un corner",
+      "Remplacer un joueur"
+    ],
+    "explanation": "Marquer signifie surveiller de près un adversaire pour l'empêcher de recevoir ou de jouer le ballon efficacement."
+  },
+  "q30": {
+    "text": "Quel défenseur a joué 647 matchs de championnat consécutifs pour l'AC Milan ?",
+    "choices": [
+      "Franco Baresi",
+      "Paolo Maldini",
+      "Alessandro Nesta",
+      "Fabio Cannavaro"
+    ],
+    "explanation": "Franco Baresi était réputé pour sa régularité et sa longévité à l'AC Milan."
+  },
+  "q31": {
+    "text": "Quelle nation Franz Beckenbauer a-t-il représentée ?",
+    "choices": [
+      "Autriche",
+      "Pays-Bas",
+      "Allemagne de l'Ouest",
+      "France"
+    ],
+    "explanation": "Franz Beckenbauer a représenté l'Allemagne de l'Ouest et est considéré comme l'un des plus grands défenseurs de tous les temps."
+  },
+  "q32": {
+    "text": "Quel est le rôle principal d'un milieu central ?",
+    "choices": [
+      "Marquer tous les buts",
+      "Défendre le but",
+      "Faire le lien entre défense et attaque, contrôler le tempo",
+      "Effectuer les touches"
+    ],
+    "explanation": "Les milieux centraux connectent la défense à l'attaque et dictent le rythme du jeu."
+  },
+  "q33": {
+    "text": "Que signifie 'possession' dans le football ?",
+    "choices": [
+      "Le nombre de buts marqués par une équipe",
+      "Le pourcentage de temps où une équipe a le ballon",
+      "Le nombre de remplacements",
+      "Le nombre de corners"
+    ],
+    "explanation": "La possession fait référence au pourcentage de temps qu'une équipe contrôle le ballon pendant un match."
+  },
+  "q34": {
+    "text": "Quel pays a inventé le style de jeu 'tiki-taka' ?",
+    "choices": [
+      "Brésil",
+      "Allemagne",
+      "Espagne",
+      "Italie"
+    ],
+    "explanation": "L'Espagne et le FC Barcelone sont crédités du développement du style de passes tiki-taka."
+  },
+  "q35": {
+    "text": "Quel milieu de terrain est connu comme 'L'Architecte' et a joué pour Barcelone et l'Espagne ?",
+    "choices": [
+      "Andrés Iniesta",
+      "Sergio Busquets",
+      "Xavi Hernández",
+      "Cesc Fàbregas"
+    ],
+    "explanation": "Xavi Hernández a été surnommé 'L'Architecte' pour sa capacité à orchestrer le jeu."
+  },
+  "q36": {
+    "text": "Qu'est-ce qu'un milieu 'box-to-box' ?",
+    "choices": [
+      "Un milieu qui attaque uniquement",
+      "Un milieu qui couvre toute la longueur du terrain, défendant et attaquant",
+      "Un milieu défensif",
+      "Un milieu remplaçant"
+    ],
+    "explanation": "Un milieu box-to-box contribue aux deux extrémités du terrain, couvrant de surface à surface."
+  },
+  "q37": {
+    "text": "Quel milieu français a remporté 3 Ballon d'Or consécutifs dans les années 1980 ?",
+    "choices": [
+      "Zinedine Zidane",
+      "Thierry Henry",
+      "Michel Platini",
+      "Just Fontaine"
+    ],
+    "explanation": "Michel Platini a remporté le Ballon d'Or en 1983, 1984 et 1985."
+  },
+  "q38": {
+    "text": "Qui a marqué la célèbre volée lors de la finale de la Ligue des Champions 2002 ?",
+    "choices": [
+      "Raúl",
+      "Roberto Carlos",
+      "Zinedine Zidane",
+      "Luis Figo"
+    ],
+    "explanation": "Zinedine Zidane a marqué une superbe volée du pied gauche lors de la finale de la Ligue des Champions 2002 contre le Bayer Leverkusen."
+  },
+  "q39": {
+    "text": "Quel milieu de terrain détient le record du plus grand nombre de passes décisives en Ligue des Champions ?",
+    "choices": [
+      "Xavi Hernández",
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Ángel Di María"
+    ],
+    "explanation": "Lionel Messi détient le record du plus grand nombre de passes décisives en Ligue des Champions."
+  },
+  "q40": {
+    "text": "Qu'est-ce qu'une 'passe en profondeur' ?",
+    "choices": [
+      "Une passe vers l'arrière",
+      "Une passe jouée dans l'espace derrière la défense pour qu'un coéquipier y court",
+      "Un coup de tête",
+      "Un coup de pied de but"
+    ],
+    "explanation": "Une passe en profondeur divise la défense et permet à un attaquant de courir vers une position de but."
+  },
+  "q41": {
+    "text": "Quel milieu allemand a capitané le Bayern Munich et l'Allemagne, connu pour sa polyvalence ?",
+    "choices": [
+      "Thomas Müller",
+      "Toni Kroos",
+      "Joshua Kimmich",
+      "Bastian Schweinsteiger"
+    ],
+    "explanation": "Bastian Schweinsteiger a capitané le Bayern Munich et l'Allemagne et pouvait jouer à plusieurs postes."
+  },
+  "q42": {
+    "text": "Qui détient le record du plus grand nombre de passes décisives en Liga ?",
+    "choices": [
+      "Xavi Hernández",
+      "Lionel Messi",
+      "Karim Benzema",
+      "Luis Suárez"
+    ],
+    "explanation": "Lionel Messi détient le record du plus grand nombre de passes décisives en Liga."
+  },
+  "q43": {
+    "text": "Qu'est-ce qu'un 'milieu défensif' (numéro 6) ?",
+    "choices": [
+      "Un milieu qui attaque principalement",
+      "Un milieu défensif qui protège la ligne arrière",
+      "Un ailier",
+      "Un second attaquant"
+    ],
+    "explanation": "Le milieu défensif se positionne devant la défense, cassant les attaques adverses et distribuant le ballon."
+  },
+  "q44": {
+    "text": "Quel milieu a marqué dans deux finales de Coupe du Monde différentes ?",
+    "choices": [
+      "Zinedine Zidane",
+      "Pelé",
+      "Andrés Iniesta",
+      "Paul Pogba"
+    ],
+    "explanation": "Zinedine Zidane a marqué en finale de la Coupe du Monde 1998 (2 buts) et en finale 2006 (1 but sur penalty)."
+  },
+  "q45": {
+    "text": "Que signifie 'dribbler' dans le football ?",
+    "choices": [
+      "Passer le ballon à un coéquipier",
+      "Courir avec le ballon aux pieds en gardant le contrôle",
+      "Tirer au but",
+      "Faire une tête"
+    ],
+    "explanation": "Le dribble est la compétence de faire avancer le ballon en le gardant sous contrôle étroit."
+  },
+  "q46": {
+    "text": "Quel milieu a marqué le but vainqueur en finale de la Coupe du Monde 2010 ?",
+    "choices": [
+      "David Villa",
+      "Xavi Hernández",
+      "Andrés Iniesta",
+      "Cesc Fàbregas"
+    ],
+    "explanation": "Andrés Iniesta a marqué le but vainqueur en prolongation contre les Pays-Bas en finale de la Coupe du Monde 2010."
+  },
+  "q47": {
+    "text": "Qu'est-ce qu'un 'triplé' (hat-trick) ?",
+    "choices": [
+      "Marquer 2 buts en un match",
+      "Marquer 3 buts en un match",
+      "Marquer 4 buts en un match",
+      "Faire 3 passes décisives en un match"
+    ],
+    "explanation": "Un triplé, c'est quand un joueur marque trois buts dans un seul match."
+  },
+  "q48": {
+    "text": "Quel joueur a marqué le plus de buts dans l'histoire de la Coupe du Monde FIFA ?",
+    "choices": [
+      "Pelé",
+      "Ronaldo Nazário",
+      "Miroslav Klose",
+      "Just Fontaine"
+    ],
+    "explanation": "Miroslav Klose a marqué 16 buts sur quatre Coupes du Monde pour l'Allemagne."
+  },
+  "q49": {
+    "text": "Qu'est-ce que le 'Soulier d'Or' ?",
+    "choices": [
+      "Prix du meilleur gardien",
+      "Prix du meilleur buteur d'un tournoi",
+      "Prix du fair-play",
+      "Prix du meilleur défenseur"
+    ],
+    "explanation": "Le Soulier d'Or est décerné au meilleur buteur d'un tournoi de football."
+  },
+  "q50": {
+    "text": "Qui a remporté le plus de Ballon d'Or ?",
+    "choices": [
+      "Cristiano Ronaldo",
+      "Zinedine Zidane",
+      "Lionel Messi",
+      "Michel Platini"
+    ],
+    "explanation": "Lionel Messi a remporté le Ballon d'Or 8 fois, plus que tout autre joueur."
+  },
+  "q51": {
+    "text": "Quel attaquant a marqué 91 buts en une année civile (2012) ?",
+    "choices": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Robert Lewandowski",
+      "Gerd Müller"
+    ],
+    "explanation": "Lionel Messi a marqué 91 buts en 2012, battant le record de Gerd Müller de 85 buts en 1972."
+  },
+  "q52": {
+    "text": "Qu'est-ce que le poste de 'Faux 9' ?",
+    "choices": [
+      "Un ailier qui joue défenseur central",
+      "Un avant-centre qui descend au milieu pour créer de l'espace",
+      "Un gardien qui joue sur le terrain",
+      "Un défenseur qui agit comme attaquant"
+    ],
+    "explanation": "Le Faux 9 descend de la position d'attaquant pour lier le jeu et créer de l'espace pour ses coéquipiers."
+  },
+  "q53": {
+    "text": "Qui a marqué le but de la 'Main de Dieu' ?",
+    "choices": [
+      "Pelé",
+      "Zinedine Zidane",
+      "Diego Maradona",
+      "Lionel Messi"
+    ],
+    "explanation": "Diego Maradona a marqué le but de la 'Main de Dieu' contre l'Angleterre en quart de finale de la Coupe du Monde 1986."
+  },
+  "q54": {
+    "text": "Quel attaquant brésilien a remporté la Coupe du Monde deux fois (1994 et 2002) ?",
+    "choices": [
+      "Romário",
+      "Ronaldo Nazário",
+      "Rivaldo",
+      "Ronaldinho"
+    ],
+    "explanation": "Ronaldo Nazário a remporté la Coupe du Monde en 1994 (comme membre de l'effectif) et 2002 (comme attaquant vedette)."
+  },
+  "q55": {
+    "text": "Qu'est-ce qu'une 'volée' dans le football ?",
+    "choices": [
+      "Une passe au sol",
+      "Frapper le ballon en l'air avant qu'il ne rebondisse",
+      "Un corner",
+      "Une touche"
+    ],
+    "explanation": "Une volée consiste à frapper le ballon alors qu'il est encore en l'air."
+  },
+  "q56": {
+    "text": "Quel club Erling Haaland a-t-il rejoint en quittant le Borussia Dortmund ?",
+    "choices": [
+      "Real Madrid",
+      "Bayern Munich",
+      "Manchester City",
+      "Barcelone"
+    ],
+    "explanation": "Erling Haaland a été transféré du Borussia Dortmund à Manchester City en 2022."
+  },
+  "q57": {
+    "text": "Qui est le meilleur buteur de tous les temps en Ligue des Champions ?",
+    "choices": [
+      "Lionel Messi",
+      "Raúl",
+      "Cristiano Ronaldo",
+      "Robert Lewandowski"
+    ],
+    "explanation": "Cristiano Ronaldo détient le record du plus grand nombre de buts en Ligue des Champions."
+  },
+  "q58": {
+    "text": "Quel pays le légendaire attaquant Pelé a-t-il représenté ?",
+    "choices": [
+      "Argentine",
+      "Portugal",
+      "Brésil",
+      "Espagne"
+    ],
+    "explanation": "Pelé a joué pour le Brésil et a remporté trois Coupes du Monde FIFA (1958, 1962, 1970)."
+  },
+  "q59": {
+    "text": "Quel attaquant a marqué le triplé le plus rapide de l'histoire de la Premier League ?",
+    "choices": [
+      "Sadio Mané",
+      "Robbie Fowler",
+      "Alan Shearer",
+      "Sergio Agüero"
+    ],
+    "explanation": "Sadio Mané a marqué le triplé le plus rapide de la Premier League en 2 minutes 56 secondes pour Southampton contre Aston Villa en 2015."
+  },
+  "q60": {
+    "text": "Que signifie 'hors-jeu' pour un attaquant ?",
+    "choices": [
+      "Être derrière le ballon quand il est passé",
+      "Être plus près de la ligne de but adverse que l'avant-dernier défenseur quand le ballon est joué",
+      "Être dans sa propre moitié de terrain",
+      "Se tenir dans la surface de réparation"
+    ],
+    "explanation": "Un attaquant est hors-jeu s'il est plus près de la ligne de but que le ballon et l'avant-dernier défenseur."
+  },
+  "q61": {
+    "text": "Quelle Coupe du Monde a vu le plus de buts marqués par un seul joueur (13 buts) ?",
+    "choices": [
+      "1958 - Pelé",
+      "1954 - Sándor Kocsis",
+      "1958 - Just Fontaine",
+      "1970 - Gerd Müller"
+    ],
+    "explanation": "Just Fontaine a marqué 13 buts lors de la Coupe du Monde 1958, un record qui tient toujours."
+  },
+  "q62": {
+    "text": "Quel défenseur a remporté le plus de titres en Ligue des Champions ?",
+    "choices": [
+      "Sergio Ramos",
+      "Dani Carvajal",
+      "Paolo Maldini",
+      "Marcelo"
+    ],
+    "explanation": "Marcelo a remporté 5 titres en Ligue des Champions avec le Real Madrid."
+  },
+  "q63": {
+    "text": "Quel milieu de terrain a marqué le plus de buts dans l'histoire des finales de Coupe du Monde ?",
+    "choices": [
+      "Pelé",
+      "Zinedine Zidane",
+      "Geoff Hurst",
+      "Paul Breitner"
+    ],
+    "explanation": "Pelé a marqué dans plusieurs finales de Coupe du Monde, accumulant le plus de buts en finale."
+  },
+  "q64": {
+    "text": "Qu'est-ce qu'un 'dégagement de la tête' ?",
+    "choices": [
+      "Marquer de la tête",
+      "Utiliser la tête pour dégager le ballon d'une zone dangereuse en défense",
+      "Une technique de corner",
+      "Une variante de touche"
+    ],
+    "explanation": "Un dégagement de la tête est quand un défenseur utilise sa tête pour éloigner le ballon du but."
+  },
+  "q71": {
+    "text": "Quelle légende française a remis le Ballon d'Or 2022 à Karim Benzema ?",
+    "choices": [
+      "Thierry Henry",
+      "Zinedine Zidane",
+      "Michel Platini",
+      "Didier Deschamps"
+    ],
+    "explanation": "Zinedine Zidane a remis le Ballon d'Or 2022 à Karim Benzema."
+  },
+  "q72": {
+    "text": "Qui a marqué le but le plus rapide de l'histoire de la Coupe du Monde FIFA ?",
+    "choices": [
+      "Just Fontaine",
+      "Miroslav Klose",
+      "Hakan Şükür",
+      "Ronaldo Nazário"
+    ],
+    "explanation": "Hakan Şükür a marqué après 11 secondes pour la Turquie contre la Corée du Sud en 2002."
+  },
+  "q73": {
+    "text": "Qui a marqué le but vainqueur de la finale de la Coupe du Monde FIFA 2010 ?",
+    "choices": [
+      "David Villa",
+      "Xavi Hernández",
+      "Andrés Iniesta",
+      "Fernando Torres"
+    ],
+    "explanation": "Andrés Iniesta a marqué en prolongation contre les Pays-Bas."
+  },
+  "q74": {
+    "text": "Qui est le meilleur buteur de tous les temps du Real Madrid ?",
+    "choices": [
+      "Raúl",
+      "Karim Benzema",
+      "Cristiano Ronaldo",
+      "Alfredo Di Stéfano"
+    ],
+    "explanation": "Cristiano Ronaldo est le meilleur buteur de l'histoire du Real Madrid."
+  },
+  "q75": {
+    "text": "Quel défenseur italien a capitané l'Italie vers la Coupe du Monde 2006 et a remporté le Ballon d'Or cette même année ?",
+    "choices": [
+      "Paolo Maldini",
+      "Fabio Cannavaro",
+      "Alessandro Nesta",
+      "Leonardo Bonucci"
+    ],
+    "explanation": "Fabio Cannavaro a capitané l'Italie en 2006 et a remporté le Ballon d'Or."
+  },
+  "q76": {
+    "text": "Qui a fait la passe décisive pour le but vainqueur d'Andrés Iniesta en finale de la Coupe du Monde 2010 ?",
+    "choices": [
+      "Xavi Hernández",
+      "Sergio Busquets",
+      "Cesc Fàbregas",
+      "David Silva"
+    ],
+    "explanation": "Cesc Fàbregas a fait la passe décisive pour le but d'Iniesta."
+  },
+  "q77": {
+    "text": "Quel gardien a remporté le Ballon d'Or lors de la Coupe du Monde FIFA 2002 ?",
+    "choices": [
+      "Oliver Kahn",
+      "Iker Casillas",
+      "Gianluigi Buffon",
+      "Rüştü Reçber"
+    ],
+    "explanation": "Oliver Kahn a remporté le Ballon d'Or en 2002 après des performances exceptionnelles pour l'Allemagne."
+  },
+  "q78": {
+    "text": "Quel attaquant brésilien était surnommé 'O Fenômeno' ?",
+    "choices": [
+      "Romário",
+      "Ronaldo Nazário",
+      "Ronaldinho",
+      "Adriano"
+    ],
+    "explanation": "Ronaldo Nazário était célèbrement connu comme 'O Fenômeno'."
+  },
+  "q79": {
+    "text": "Quel défenseur a marqué l'égalisation dramatique du Real Madrid en finale de la Ligue des Champions 2014 contre l'Atlético Madrid ?",
+    "choices": [
+      "Marcelo",
+      "Sergio Ramos",
+      "Pepe",
+      "Dani Carvajal"
+    ],
+    "explanation": "Sergio Ramos a marqué la célèbre égalisation à la 93e minute à Lisbonne."
+  },
+  "q80": {
+    "text": "Quel joueur a remporté le Ballon d'Or 2007 ?",
+    "choices": [
+      "Cristiano Ronaldo",
+      "Ronaldinho",
+      "Kaká",
+      "Lionel Messi"
+    ],
+    "explanation": "Kaká a remporté le Ballon d'Or en 2007 après avoir brillé avec l'AC Milan."
+  },
+  "q81": {
+    "text": "Quel pays Hakan Şükür a-t-il représenté internationalement ?",
+    "choices": [
+      "Turquie",
+      "Croatie",
+      "Bulgarie",
+      "Grèce"
+    ],
+    "explanation": "Hakan Şükür était l'un des attaquants les plus célèbres de la Turquie."
+  },
+  "q82": {
+    "text": "Quel gardien est devenu célèbre pour l'arrêt du 'coup du scorpion' ?",
+    "choices": [
+      "José Luis Chilavert",
+      "René Higuita",
+      "Jorge Campos",
+      "Peter Schmeichel"
+    ],
+    "explanation": "René Higuita a rendu célèbre l'arrêt du coup du scorpion en 1995."
+  },
+  "q83": {
+    "text": "Quel milieu croate a remporté le Ballon d'Or en 2018 ?",
+    "choices": [
+      "Ivan Rakitić",
+      "Luka Modrić",
+      "Mateo Kovačić",
+      "Marcelo Brozović"
+    ],
+    "explanation": "Luka Modrić a mis fin à la série Messi-Ronaldo en remportant le Ballon d'Or 2018."
+  },
+  "q84": {
+    "text": "Qui a marqué le but vainqueur en finale de la Coupe du Monde FIFA 2014 ?",
+    "choices": [
+      "Thomas Müller",
+      "Miroslav Klose",
+      "Mario Götze",
+      "Mesut Özil"
+    ],
+    "explanation": "Mario Götze a marqué en prolongation contre l'Argentine."
+  },
+  "q85": {
+    "text": "Quel légendaire défenseur de l'AC Milan était surnommé 'Il Capitano' ?",
+    "choices": [
+      "Franco Baresi",
+      "Paolo Maldini",
+      "Alessandro Nesta",
+      "Cafu"
+    ],
+    "explanation": "Paolo Maldini est l'un des plus grands défenseurs de l'histoire du football."
+  },
+  "q86": {
+    "text": "Qui est le seul gardien à avoir remporté le Ballon d'Or ?",
+    "choices": [
+      "Lev Yashin",
+      "Oliver Kahn",
+      "Gianluigi Buffon",
+      "Manuel Neuer"
+    ],
+    "explanation": "Lev Yashin a remporté le Ballon d'Or en 1963."
+  },
+  "q87": {
+    "text": "Qui a marqué le célèbre but en retourné acrobatique pour le Real Madrid contre la Juventus en Ligue des Champions en 2018 ?",
+    "choices": [
+      "Gareth Bale",
+      "Karim Benzema",
+      "Cristiano Ronaldo",
+      "Isco"
+    ],
+    "explanation": "Cristiano Ronaldo a marqué l'un des plus célèbres retournés acrobatiques de l'histoire de la Ligue des Champions."
+  },
+  "q88": {
+    "text": "Quel milieu espagnol était connu pour contrôler les matchs avec des passes courtes et sa vision, et a joué pour Barcelone ?",
+    "choices": [
+      "Xavi Hernández",
+      "David Silva",
+      "Juan Mata",
+      "Thiago Alcântara"
+    ],
+    "explanation": "Xavi était l'un des maîtres du football de possession avec Barcelone et l'Espagne."
+  },
+  "q89": {
+    "text": "Quelle équipe nationale Carles Puyol a-t-il représentée ?",
+    "choices": [
+      "Italie",
+      "Portugal",
+      "Espagne",
+      "Argentine"
+    ],
+    "explanation": "Carles Puyol était un défenseur clé pour l'Espagne et a remporté la Coupe du Monde 2010."
+  },
+  "q90": {
+    "text": "Quel joueur a marqué 13 buts en un seul tournoi de Coupe du Monde, un record qui tient toujours ?",
+    "choices": [
+      "Pelé",
+      "Just Fontaine",
+      "Gerd Müller",
+      "Miroslav Klose"
+    ],
+    "explanation": "Just Fontaine a marqué 13 buts lors de la Coupe du Monde 1958."
+  },
+  "q91": {
+    "text": "Quelle est la largeur d'un but de football réglementaire ?",
+    "choices": [
+      "6,4 mètres",
+      "7,32 mètres",
+      "8 mètres",
+      "9 mètres"
+    ],
+    "explanation": "Un but de football standard mesure 7,32 mètres (8 yards) de large et 2,44 mètres de haut."
+  },
+  "q92": {
+    "text": "Quel gardien a remporté le Gant d'Or de la Premier League un record de 5 fois ?",
+    "choices": [
+      "David de Gea",
+      "Joe Hart",
+      "Peter Schmeichel",
+      "Pepe Reina"
+    ],
+    "explanation": "Pepe Reina a remporté le Gant d'Or de la Premier League cinq fois avec Liverpool."
+  },
+  "q93": {
+    "text": "Quel gardien a encaissé le moins de buts en une saison de Premier League (38 matchs) ?",
+    "choices": [
+      "Edwin van der Sar",
+      "Petr Čech",
+      "Alisson Becker",
+      "José Reina"
+    ],
+    "explanation": "Petr Čech n'a encaissé que 15 buts lors de la saison 2004-05 de Premier League avec Chelsea."
+  },
+  "q94": {
+    "text": "Quel est le nombre maximum de pas qu'un gardien peut faire en tenant le ballon ?",
+    "choices": [
+      "2",
+      "4",
+      "6",
+      "Illimité"
+    ],
+    "explanation": "Un gardien peut faire un maximum de 4 pas en tenant le ballon avant de devoir le relâcher."
+  },
+  "q95": {
+    "text": "Quel gardien a célèbrement arrêté trois penalties lors de la séance de tirs au but de la finale de la Ligue des Champions 2005 ?",
+    "choices": [
+      "Oliver Kahn",
+      "Jerzy Dudek",
+      "Gianluigi Buffon",
+      "Víctor Valdés"
+    ],
+    "explanation": "Jerzy Dudek a arrêté trois penalties pour Liverpool contre l'AC Milan à Istanbul en 2005."
+  },
+  "q96": {
+    "text": "Quelle équipe nationale le légendaire gardien Lev Yashin a-t-il représentée ?",
+    "choices": [
+      "Tchécoslovaquie",
+      "Allemagne de l'Est",
+      "Union soviétique",
+      "Yougoslavie"
+    ],
+    "explanation": "Lev Yashin, connu comme l'Araignée Noire, était le gardien légendaire de l'Union soviétique."
+  },
+  "q97": {
+    "text": "Quel gardien détient le record du plus grand nombre de clean sheets en Premier League ?",
+    "choices": [
+      "Peter Schmeichel",
+      "David de Gea",
+      "Edwin van der Sar",
+      "Petr Čech"
+    ],
+    "explanation": "Petr Čech détient le record de la Premier League avec 202 clean sheets."
+  },
+  "q98": {
+    "text": "D'où est tiré un coup de pied de but ?",
+    "choices": [
+      "Cercle central",
+      "Point de penalty",
+      "N'importe où dans la surface de but",
+      "Ligne médiane"
+    ],
+    "explanation": "Un coup de pied de but peut être tiré de n'importe où dans la surface de but (la surface des 6 mètres)."
+  },
+  "q99": {
+    "text": "Quel gardien a marqué un but en compétition directement d'un dégagement ?",
+    "choices": [
+      "Peter Schmeichel",
+      "Alisson Becker",
+      "Tim Howard",
+      "Brad Friedel"
+    ],
+    "explanation": "Alisson Becker a marqué un but dramatique de la tête pour Liverpool contre West Brom en mai 2021."
+  },
+  "q100": {
+    "text": "Lors de quelle Coupe du Monde le gardien allemand Oliver Kahn a-t-il remporté le Ballon d'Or tout en finissant finaliste ?",
+    "choices": [
+      "1998",
+      "2002",
+      "2006",
+      "2010"
+    ],
+    "explanation": "Oliver Kahn a remporté le Ballon d'Or à la Coupe du Monde 2002 malgré la défaite de l'Allemagne en finale contre le Brésil."
+  },
+  "q101": {
+    "text": "Quel gardien a gardé sa cage inviolée en finale de Coupe du Monde et est resté invaincu pendant 1 142 minutes internationales ?",
+    "choices": [
+      "Walter Zenga",
+      "Iker Casillas",
+      "Peter Shilton",
+      "Dino Zoff"
+    ],
+    "explanation": "Dino Zoff est resté 1 142 minutes sans encaisser pour l'Italie et a capitané l'équipe vers la Coupe du Monde 1982."
+  },
+  "q102": {
+    "text": "Quelle couleur de carton entraîne l'expulsion immédiate d'un joueur ?",
+    "choices": [
+      "Jaune",
+      "Bleu",
+      "Rouge",
+      "Orange"
+    ],
+    "explanation": "Un carton rouge signifie que le joueur est immédiatement expulsé et ne peut pas être remplacé."
+  },
+  "q103": {
+    "text": "Quel arrière droit brésilien a remporté la Ligue des Champions avec Barcelone et la Juventus ?",
+    "choices": [
+      "Cafu",
+      "Dani Alves",
+      "Maicon",
+      "Danilo"
+    ],
+    "explanation": "Dani Alves a remporté la Ligue des Champions avec Barcelone puis la Serie A et la Coppa Italia avec la Juventus."
+  },
+  "q104": {
+    "text": "Qui est le seul défenseur à avoir remporté le prix FIFA du Joueur mondial de l'année ?",
+    "choices": [
+      "Paolo Maldini",
+      "Fabio Cannavaro",
+      "Sergio Ramos",
+      "Franz Beckenbauer"
+    ],
+    "explanation": "Fabio Cannavaro a remporté le prix FIFA du Joueur mondial de l'année en 2006 après le triomphe de l'Italie en Coupe du Monde."
+  },
+  "q105": {
+    "text": "Quelle remise en jeu a lieu après que le ballon sort par la ligne de touche ?",
+    "choices": [
+      "Corner",
+      "Coup de pied de but",
+      "Touche",
+      "Coup franc"
+    ],
+    "explanation": "Une touche est accordée lorsque le ballon franchit la ligne de touche."
+  },
+  "q106": {
+    "text": "Quel défenseur anglais a capitané Chelsea vers deux titres consécutifs de Premier League en 2005 et 2006 ?",
+    "choices": [
+      "Rio Ferdinand",
+      "Ashley Cole",
+      "John Terry",
+      "Sol Campbell"
+    ],
+    "explanation": "John Terry a capitané Chelsea lors de ses deux titres historiques consécutifs sous José Mourinho."
+  },
+  "q107": {
+    "text": "Quel défenseur était surnommé 'Le Kaiser' et a remporté la Coupe du Monde comme joueur et entraîneur ?",
+    "choices": [
+      "Lothar Matthäus",
+      "Franz Beckenbauer",
+      "Berti Vogts",
+      "Karl-Heinz Rummenigge"
+    ],
+    "explanation": "Franz Beckenbauer a remporté la Coupe du Monde en 1974 comme joueur et en 1990 comme entraîneur de l'Allemagne."
+  },
+  "q108": {
+    "text": "Quelle nation Virgil van Dijk représente-t-il internationalement ?",
+    "choices": [
+      "Belgique",
+      "Danemark",
+      "Pays-Bas",
+      "Suède"
+    ],
+    "explanation": "Virgil van Dijk capitaine l'équipe nationale des Pays-Bas."
+  },
+  "q109": {
+    "text": "Qu'est-ce qu'un système de 'marquage zonal' ?",
+    "choices": [
+      "Chaque défenseur marque un adversaire spécifique",
+      "Les défenseurs gardent des zones du terrain plutôt que des joueurs spécifiques",
+      "Le gardien dicte les positions défensives",
+      "Une tactique de contre-attaque"
+    ],
+    "explanation": "Dans le marquage zonal, les défenseurs couvrent des zones assignées du terrain au lieu de suivre des adversaires individuels."
+  },
+  "q110": {
+    "text": "Quel club anglais a réalisé une série de 49 matchs de championnat consécutifs sans défaite entre 2003 et 2004 ?",
+    "choices": [
+      "Manchester United",
+      "Chelsea",
+      "Arsenal",
+      "Liverpool"
+    ],
+    "explanation": "Les 'Invincibles' d'Arsenal ont disputé 49 matchs de Premier League sans défaite sous Arsène Wenger."
+  },
+  "q111": {
+    "text": "Quel défenseur portugais joue pour Manchester City et est connu pour son leadership en défense ?",
+    "choices": [
+      "Pepe",
+      "Bruno Alves",
+      "Rúben Dias",
+      "José Fonte"
+    ],
+    "explanation": "Rúben Dias a remporté la Premier League avec Manchester City et a été nommé meilleur joueur de la ligue en 2020-21."
+  },
+  "q112": {
+    "text": "Quel défenseur néerlandais a capitané son pays vers le Championnat d'Europe 1988 ?",
+    "choices": [
+      "Frank Rijkaard",
+      "Ronald Koeman",
+      "Ruud Gullit",
+      "Danny Blind"
+    ],
+    "explanation": "Ruud Gullit a capitané les Pays-Bas vers leur seul trophée international majeur à l'Euro 1988."
+  },
+  "q113": {
+    "text": "Combien de joueurs sont dans chaque équipe lors d'un match de football standard ?",
+    "choices": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "explanation": "Chaque équipe aligne 11 joueurs, y compris le gardien, dans un match standard."
+  },
+  "q114": {
+    "text": "Quel défenseur espagnol a marqué le but vainqueur pour Barcelone en finale de la Ligue des Champions 2009 ?",
+    "choices": [
+      "Carles Puyol",
+      "Gerard Piqué",
+      "Eric Abidal",
+      "Gabriel Milito"
+    ],
+    "explanation": "Gerard Piqué a marqué le deuxième but de Barcelone lors de la victoire en finale 2009 contre Manchester United."
+  },
+  "q115": {
+    "text": "Quel arrière gauche a remporté 5 titres en Ligue des Champions et 9 titres en Liga, tous avec le Real Madrid ?",
+    "choices": [
+      "Roberto Carlos",
+      "Ferland Mendy",
+      "Marcelo",
+      "Álvaro Arbeloa"
+    ],
+    "explanation": "Marcelo a remporté 5 Ligues des Champions avec le Real Madrid, faisant de lui le joueur le plus titré de la compétition."
+  },
+  "q116": {
+    "text": "Quel trophée est décerné au meilleur joueur de chaque Coupe du Monde FIFA ?",
+    "choices": [
+      "Gant d'Or",
+      "Soulier d'Or",
+      "Ballon d'Or",
+      "Ballon d'Or FIFA"
+    ],
+    "explanation": "Le Ballon d'Or est décerné au meilleur joueur du tournoi de la Coupe du Monde FIFA."
+  },
+  "q117": {
+    "text": "Quel milieu brésilien est célèbre pour ses dribbles, ses tricks et a joué pour le FC Barcelone ?",
+    "choices": [
+      "Kaká",
+      "Rivaldo",
+      "Ronaldinho",
+      "Robinho"
+    ],
+    "explanation": "Ronaldinho a ébloui le monde avec ses tricks et sa créativité lors de son passage au FC Barcelone."
+  },
+  "q118": {
+    "text": "Quel milieu a remporté la Ligue des Champions avec trois clubs différents ?",
+    "choices": [
+      "Clarence Seedorf",
+      "Xavi Hernández",
+      "Claude Makélélé",
+      "Patrick Vieira"
+    ],
+    "explanation": "Clarence Seedorf a remporté la Ligue des Champions avec l'Ajax (1995), le Real Madrid (1998) et l'AC Milan (2003, 2007)."
+  },
+  "q119": {
+    "text": "Que signifie le 'pressing' dans le football moderne ?",
+    "choices": [
+      "Tirer au but à répétition",
+      "Presser agressivement l'adversaire haut sur le terrain pour récupérer le ballon rapidement",
+      "Passer le ballon vers l'arrière",
+      "Jouer un long ballon par-dessus la défense"
+    ],
+    "explanation": "Le pressing signifie mettre la pression sur l'adversaire immédiatement après avoir perdu le ballon pour le récupérer rapidement."
+  },
+  "q120": {
+    "text": "Quel milieu allemand était surnommé 'Der Bomber der Nation' pour son talent de buteur ?",
+    "choices": [
+      "Lothar Matthäus",
+      "Gerd Müller",
+      "Michael Ballack",
+      "Karl-Heinz Rummenigge"
+    ],
+    "explanation": "Gerd Müller était surnommé 'Der Bomber' pour son instinct de buteur incroyable avec le Bayern Munich et l'Allemagne."
+  },
+  "q121": {
+    "text": "Quel club Kevin De Bruyne a-t-il rejoint avant de passer à Manchester City ?",
+    "choices": [
+      "RSC Anderlecht",
+      "Bayer Leverkusen",
+      "Chelsea",
+      "VfL Wolfsburg"
+    ],
+    "explanation": "Kevin De Bruyne a brillé au VfL Wolfsburg, remportant le titre de Joueur de la saison en Bundesliga, avant de rejoindre Man City."
+  },
+  "q122": {
+    "text": "Quel milieu est surnommé 'La Pulga' (La Puce) en raison de sa petite taille ?",
+    "choices": [
+      "Andrés Iniesta",
+      "David Silva",
+      "Lionel Messi",
+      "Xavi Hernández"
+    ],
+    "explanation": "Lionel Messi est surnommé 'La Pulga' en raison de sa petite taille et de ses mouvements rapides et insaisissables."
+  },
+  "q123": {
+    "text": "Qu'est-ce qu'un 'coup franc' dans le football ?",
+    "choices": [
+      "Un tir accordé à l'équipe adverse après une faute",
+      "Un tir exécuté sans aucun défenseur à proximité",
+      "Un penalty",
+      "Un tir accordé pour relancer le jeu après un but"
+    ],
+    "explanation": "Un coup franc est accordé à une équipe après que les adversaires ont commis une faute."
+  },
+  "q124": {
+    "text": "Quel milieu a marqué le but vainqueur en prolongation de la finale de la Coupe du Monde 1998 ?",
+    "choices": [
+      "Zinedine Zidane",
+      "Emmanuel Petit",
+      "Lilian Thuram",
+      "Patrick Vieira"
+    ],
+    "explanation": "Emmanuel Petit a marqué le troisième but lors de la victoire 3-0 de la France sur le Brésil en finale de la Coupe du Monde 1998."
+  },
+  "q125": {
+    "text": "Quel meneur de jeu italien était célèbre pour sa vision et ses passes à la Juventus dans les années 1980 ?",
+    "choices": [
+      "Roberto Baggio",
+      "Michel Platini",
+      "Dino Baggio",
+      "Gianni Rivera"
+    ],
+    "explanation": "Michel Platini était la force dominante du football italien à la Juventus, remportant trois titres de Serie A."
+  },
+  "q126": {
+    "text": "Qui a marqué le 'but fantôme' pour l'Angleterre contre l'Allemagne lors de la Coupe du Monde 2010 ?",
+    "choices": [
+      "Wayne Rooney",
+      "Frank Lampard",
+      "Steven Gerrard",
+      "Gareth Barry"
+    ],
+    "explanation": "Le tir de Frank Lampard a clairement franchi la ligne contre l'Allemagne mais n'a pas été accordé lors de la Coupe du Monde 2010."
+  },
+  "q127": {
+    "text": "Qu'est-ce qu'un 'corner' ?",
+    "choices": [
+      "Un tir accordé quand le ballon sort par la ligne de fond touché en dernier par l'équipe attaquante",
+      "Un tir accordé quand le ballon sort par la ligne de fond touché en dernier par l'équipe en défense",
+      "Une remise en jeu après que le ballon sort par la ligne de touche",
+      "Un coup franc du bord de la surface"
+    ],
+    "explanation": "Un corner est accordé à l'équipe attaquante quand l'équipe en défense touche le ballon en dernier avant qu'il ne sorte par sa propre ligne de fond."
+  },
+  "q128": {
+    "text": "Quel milieu a été nommé meilleur joueur de la Coupe du Monde FIFA 2018 ?",
+    "choices": [
+      "Ivan Rakitić",
+      "Paul Pogba",
+      "Luka Modrić",
+      "Kylian Mbappé"
+    ],
+    "explanation": "Luka Modrić a remporté le Ballon d'Or à la Coupe du Monde 2018 après avoir mené la Croatie en finale."
+  },
+  "q129": {
+    "text": "Quel milieu espagnol était le meilleur passeur décisif de tous les temps en Ligue des Champions au moment de sa retraite ?",
+    "choices": [
+      "Xavi Hernández",
+      "Andrés Iniesta",
+      "David Silva",
+      "Cesc Fàbregas"
+    ],
+    "explanation": "Xavi Hernández a réalisé un record de 21 passes décisives en Ligue des Champions lors de sa carrière avec Barcelone."
+  },
+  "q130": {
+    "text": "Quel stade de club est surnommé 'Le Théâtre des Rêves' ?",
+    "choices": [
+      "Anfield de Liverpool",
+      "Emirates d'Arsenal",
+      "Old Trafford de Manchester United",
+      "Stamford Bridge de Chelsea"
+    ],
+    "explanation": "Old Trafford, domicile de Manchester United, est surnommé 'Le Théâtre des Rêves'."
+  },
+  "q131": {
+    "text": "Quelle est la distance du point de penalty par rapport à la ligne de but ?",
+    "choices": [
+      "8 mètres",
+      "10 mètres",
+      "11 mètres",
+      "12 mètres"
+    ],
+    "explanation": "Le point de penalty se trouve exactement à 11 mètres (12 yards) de la ligne de but."
+  },
+  "q132": {
+    "text": "Quel attaquant a marqué un triplé en finale de la Coupe du Monde 2022 mais s'est retrouvé dans l'équipe perdante ?",
+    "choices": [
+      "Olivier Giroud",
+      "Antoine Griezmann",
+      "Kylian Mbappé",
+      "Marcus Rashford"
+    ],
+    "explanation": "Kylian Mbappé a marqué un triplé en finale de la Coupe du Monde 2022 mais la France a perdu contre l'Argentine aux tirs au but."
+  },
+  "q133": {
+    "text": "Quel attaquant néerlandais a marqué 35 buts en une saison de Bundesliga en 2022 ?",
+    "choices": [
+      "Luuk de Jong",
+      "Memphis Depay",
+      "Robert Lewandowski",
+      "Erling Haaland"
+    ],
+    "explanation": "Erling Haaland a marqué 35 buts en Bundesliga lors de la saison 2021-22 pour le Borussia Dortmund."
+  },
+  "q134": {
+    "text": "Qu'est-ce qu'une 'passe décisive' dans le football ?",
+    "choices": [
+      "Un dégagement défensif",
+      "Une passe ou action qui mène directement à un but",
+      "Un tir qui touche le poteau",
+      "Un dégagement de la tête"
+    ],
+    "explanation": "Une passe décisive est créditée au joueur dont la passe ou l'action mène directement à un but."
+  },
+  "q135": {
+    "text": "Quel attaquant français était le meilleur buteur de l'Euro 2000 ?",
+    "choices": [
+      "Thierry Henry",
+      "David Trezeguet",
+      "Zinedine Zidane",
+      "Patrick Kluivert"
+    ],
+    "explanation": "Patrick Kluivert des Pays-Bas a terminé meilleur buteur ex-aequo de l'Euro 2000 avec 5 buts."
+  },
+  "q136": {
+    "text": "Qui a marqué un célèbre but en talonnade pour la Juventus contre l'Inter en demi-finale de la Coppa Italia 2015 ?",
+    "choices": [
+      "Carlos Tévez",
+      "Fernando Llorente",
+      "Álvaro Morata",
+      "Mario Mandžukić"
+    ],
+    "explanation": "Carlos Tévez a marqué une talonnade spectaculaire contre l'Inter Milan en Coppa Italia 2015."
+  },
+  "q137": {
+    "text": "Quel pays Karim Benzema représente-t-il internationalement ?",
+    "choices": [
+      "Algérie",
+      "Maroc",
+      "Tunisie",
+      "France"
+    ],
+    "explanation": "Karim Benzema joue pour la France, bien qu'il ait des origines algériennes."
+  },
+  "q138": {
+    "text": "Quel attaquant détient le record du plus grand nombre de buts en une saison de Premier League avec 34 buts ?",
+    "choices": [
+      "Thierry Henry",
+      "Alan Shearer",
+      "Cristiano Ronaldo",
+      "Andrew Cole"
+    ],
+    "explanation": "Andrew Cole a marqué 34 buts en Premier League pour Newcastle United lors de la saison 1993-94."
+  },
+  "q139": {
+    "text": "Quel attaquant argentin a été vendu par Barcelone pour un montant record au PSG en 2017 ?",
+    "choices": [
+      "Carlos Tévez",
+      "Gonzalo Higuaín",
+      "Neymar Jr.",
+      "Antoine Griezmann"
+    ],
+    "explanation": "Neymar Jr. a été transféré de Barcelone au PSG en 2017 pour un montant record de 222 millions d'euros."
+  },
+  "q140": {
+    "text": "Quel attaquant italien portait le numéro 9 pour l'Italie et a remporté la Coupe du Monde 2006 ?",
+    "choices": [
+      "Alessandro Del Piero",
+      "Luca Toni",
+      "Francesco Totti",
+      "Filippo Inzaghi"
+    ],
+    "explanation": "Luca Toni portait le numéro 9 et était le principal attaquant de l'Italie à la Coupe du Monde 2006."
+  },
+  "q141": {
+    "text": "Quel attaquant anglais est le meilleur buteur de tous les temps en Premier League ?",
+    "choices": [
+      "Wayne Rooney",
+      "Frank Lampard",
+      "Alan Shearer",
+      "Andrew Cole"
+    ],
+    "explanation": "Alan Shearer a marqué 260 buts en Premier League, un record qui tient toujours."
+  },
+  "q142": {
+    "text": "Qui a marqué le but qui a éliminé la France de l'Euro 2004 ?",
+    "choices": [
+      "Zinedine Zidane",
+      "Theodoros Zagorakis",
+      "Angelos Charisteas",
+      "Takis Fyssas"
+    ],
+    "explanation": "Angelos Charisteas a marqué l'unique but alors que la Grèce a créé la surprise face à la France en quart de finale de l'Euro 2004."
+  },
+  "q143": {
+    "text": "Quelle est la nationalité de l'attaquant Robert Lewandowski ?",
+    "choices": [
+      "Tchèque",
+      "Ukrainien",
+      "Polonais",
+      "Hongrois"
+    ],
+    "explanation": "Robert Lewandowski est polonais et a été l'un des meilleurs buteurs d'Europe pendant plus d'une décennie."
+  },
+  "q144": {
+    "text": "Quel attaquant a marqué pendant 11 matchs consécutifs de Ligue des Champions, un record ?",
+    "choices": [
+      "Ruud van Nistelrooy",
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Karim Benzema"
+    ],
+    "explanation": "Ruud van Nistelrooy a marqué lors de 11 matchs consécutifs de Ligue des Champions pour Manchester United en 2002-03."
+  },
+  "q145": {
+    "text": "Quel gardien argentin a remporté la Coupe du Monde FIFA 2022 avec son pays ?",
+    "choices": [
+      "Sergio Romero",
+      "Juan Musso",
+      "Emiliano Martínez",
+      "Franco Armani"
+    ],
+    "explanation": "Emiliano Martínez a été crucial dans le triomphe de l'Argentine à la Coupe du Monde 2022."
+  },
+  "q146": {
+    "text": "Que signifie l'acronyme 'VAR' ?",
+    "choices": [
+      "Video Assistant Referee",
+      "Virtual Assistance Review",
+      "Visual Aid Referee",
+      "Video Action Replay"
+    ],
+    "explanation": "VAR signifie Video Assistant Referee (arbitre assistant vidéo), un système introduit pour aider les arbitres."
+  },
+  "q147": {
+    "text": "Combien de temps dure un match de football standard (hors prolongation) ?",
+    "choices": [
+      "80 minutes",
+      "90 minutes",
+      "100 minutes",
+      "120 minutes"
+    ],
+    "explanation": "Un match de football standard dure 90 minutes, divisé en deux mi-temps de 45 minutes."
+  },
+  "q148": {
+    "text": "Quel pays a remporté la toute première Coupe du Monde FIFA en 1930 ?",
+    "choices": [
+      "Brésil",
+      "Argentine",
+      "Uruguay",
+      "Tchécoslovaquie"
+    ],
+    "explanation": "L'Uruguay a accueilli et remporté la première Coupe du Monde FIFA en 1930, battant l'Argentine 4-2 en finale."
+  },
+  "q149": {
+    "text": "Quel gardien est resté invaincu pendant 13 matchs consécutifs de Coupe du Monde, un record ?",
+    "choices": [
+      "Gordon Banks",
+      "Peter Shilton",
+      "Gianluigi Buffon",
+      "Walter Zenga"
+    ],
+    "explanation": "Peter Shilton est resté invaincu pendant un record de 13 matchs de Coupe du Monde pour l'Angleterre."
+  },
+  "q150": {
+    "text": "Quel défenseur a remporté le plus de titres en Ligue des Champions en tant que joueur ?",
+    "choices": [
+      "Sergio Ramos",
+      "Dani Carvajal",
+      "Marcelo",
+      "Paolo Maldini"
+    ],
+    "explanation": "Marcelo a remporté 5 Ligues des Champions avec le Real Madrid entre 2013 et 2022."
+  },
+  "q151": {
+    "text": "Dans quelle zone un gardien est-il autorisé à toucher le ballon avec les mains ?",
+    "choices": [
+      "Cercle central",
+      "Surface de réparation adverse",
+      "Sa propre surface de réparation",
+      "Toute sa moitié de terrain"
+    ],
+    "explanation": "Un gardien n'est autorisé à utiliser ses mains qu'à l'intérieur de sa propre surface de réparation."
+  },
+  "q152": {
+    "text": "Quel gardien italien a remporté la Coupe du Monde FIFA 2006 avec l'Italie ?",
+    "choices": [
+      "Walter Zenga",
+      "Gianluigi Buffon",
+      "Dino Zoff",
+      "Salvatore Sirigu"
+    ],
+    "explanation": "Gianluigi Buffon était le gardien titulaire de l'Italie lors de sa campagne victorieuse à la Coupe du Monde 2006."
+  },
+  "q153": {
+    "text": "Quel gardien brésilien a capitané le Brésil en finale de la Coupe du Monde 1970 ?",
+    "choices": [
+      "Félix",
+      "Taffarel",
+      "Gilmar",
+      "Dida"
+    ],
+    "explanation": "Félix était le gardien et capitaine du Brésil en finale de la Coupe du Monde 1970 contre l'Italie."
+  },
+  "q154": {
+    "text": "Qu'est-ce que la barre transversale ?",
+    "choices": [
+      "La ligne au milieu du terrain",
+      "La barre horizontale reliant les deux poteaux de but",
+      "Le poteau du drapeau de corner",
+      "La ligne de la surface de réparation"
+    ],
+    "explanation": "La barre transversale est la barre horizontale en haut du but."
+  },
+  "q155": {
+    "text": "Quel gardien était le numéro un de l'Angleterre à la Coupe du Monde 1966 ?",
+    "choices": [
+      "Peter Shilton",
+      "Ray Clemence",
+      "Gordon Banks",
+      "David Seaman"
+    ],
+    "explanation": "Gordon Banks est l'un des plus grands gardiens anglais, connu pour son arrêt contre Pelé en 1970."
+  },
+  "q156": {
+    "text": "Quel gardien est devenu le premier lauréat du Trophée Yachine en 2019 ?",
+    "choices": [
+      "Alisson Becker",
+      "Marc-André ter Stegen",
+      "Ederson",
+      "Manuel Neuer"
+    ],
+    "explanation": "Alisson Becker a remporté le premier Trophée Yachine, le prix pour le meilleur gardien du monde."
+  },
+  "q157": {
+    "text": "Quel est le devoir principal d'un gardien pendant un penalty ?",
+    "choices": [
+      "Se tenir hors de la surface",
+      "Empêcher le ballon d'entrer dans le but",
+      "Marquer l'attaquant le plus proche",
+      "Tirer le penalty à la place"
+    ],
+    "explanation": "Le travail du gardien pendant un penalty est d'essayer d'arrêter le tir."
+  },
+  "q158": {
+    "text": "Quel gardien était titulaire pour la France en finale de la Coupe du Monde 2018 ?",
+    "choices": [
+      "Steve Mandanda",
+      "Hugo Lloris",
+      "Fabien Barthez",
+      "Mickaël Landreau"
+    ],
+    "explanation": "Hugo Lloris a capitané la France et était titulaire lors de la victoire en finale de la Coupe du Monde 2018."
+  },
+  "q159": {
+    "text": "Quel gardien a marqué plus de 100 buts en carrière, principalement sur penalties et coups francs ?",
+    "choices": [
+      "René Higuita",
+      "Jorge Campos",
+      "Rogério Ceni",
+      "José Luis Chilavert"
+    ],
+    "explanation": "Rogério Ceni est le gardien ayant marqué le plus de buts dans l'histoire du football."
+  },
+  "q160": {
+    "text": "Quel gardien espagnol était le titulaire régulier de Barcelone pendant une grande partie de l'ère Pep Guardiola ?",
+    "choices": [
+      "David de Gea",
+      "Víctor Valdés",
+      "Pepe Reina",
+      "Kepa Arrizabalaga"
+    ],
+    "explanation": "Víctor Valdés était le gardien titulaire de Barcelone pendant les années dominantes de Guardiola."
+  },
+  "q161": {
+    "text": "Qu'est-ce qu'une situation de rebond après un arrêt ?",
+    "choices": [
+      "Quand le gardien marque",
+      "Quand le ballon revient en jeu après un arrêt",
+      "Quand le gardien fait une touche",
+      "Quand le ballon touche le drapeau de corner"
+    ],
+    "explanation": "Un rebond se produit quand le gardien arrête le ballon mais celui-ci reste en jeu."
+  },
+  "q162": {
+    "text": "Quel gardien a remporté le Gant d'Or à la Coupe du Monde FIFA 2014 ?",
+    "choices": [
+      "Manuel Neuer",
+      "Keylor Navas",
+      "Sergio Romero",
+      "Jasper Cillessen"
+    ],
+    "explanation": "Manuel Neuer a remporté le Gant d'Or après un tournoi exceptionnel pour l'Allemagne en 2014."
+  },
+  "q163": {
+    "text": "Quel est le rôle principal d'un défenseur central ?",
+    "choices": [
+      "Créer des occasions depuis l'aile",
+      "Protéger la zone devant le but et arrêter les attaquants",
+      "Tirer tous les corners",
+      "Jouer derrière le gardien"
+    ],
+    "explanation": "Les défenseurs centraux sont principalement responsables de la défense des zones centrales."
+  },
+  "q164": {
+    "text": "Quel défenseur a capitané Barcelone en finale de la Ligue des Champions 2011 ?",
+    "choices": [
+      "Carles Puyol",
+      "Gerard Piqué",
+      "Éric Abidal",
+      "Dani Alves"
+    ],
+    "explanation": "Carles Puyol était le capitaine de Barcelone lors de la finale de la Ligue des Champions 2011."
+  },
+  "q165": {
+    "text": "Quel défenseur allemand a marqué en finale de la Coupe du Monde 2014 après être entré en tant que remplaçant ?",
+    "choices": [
+      "Mats Hummels",
+      "Benedikt Höwedes",
+      "Jerome Boateng",
+      "Mario Götze"
+    ],
+    "explanation": "Mario Götze a marqué le but vainqueur en prolongation lors de la finale de la Coupe du Monde 2014."
+  },
+  "q166": {
+    "text": "Que fait un défenseur quand il 'bloque' un tir ?",
+    "choices": [
+      "Le passe à l'attaquant",
+      "Empêche le tir d'atteindre le but",
+      "Le laisse au gardien",
+      "Le frappe automatiquement en touche"
+    ],
+    "explanation": "Bloquer un tir signifie se mettre sur le chemin du ballon pour l'empêcher d'atteindre le but."
+  },
+  "q167": {
+    "text": "Quel légendaire défenseur italien portait le numéro 3 pour l'AC Milan pendant la majeure partie de sa carrière ?",
+    "choices": [
+      "Fabio Cannavaro",
+      "Franco Baresi",
+      "Paolo Maldini",
+      "Alessandro Nesta"
+    ],
+    "explanation": "Paolo Maldini portait le célèbre numéro 3 pour l'AC Milan."
+  },
+  "q168": {
+    "text": "Quel défenseur a remporté l'Euro 2000 et la Coupe du Monde 1998 avec la France, puis a entraîné la France vers le titre 2018 ?",
+    "choices": [
+      "Laurent Blanc",
+      "Didier Deschamps",
+      "Marcel Desailly",
+      "Lilian Thuram"
+    ],
+    "explanation": "Didier Deschamps a remporté des trophées majeurs comme joueur puis a entraîné la France vers la Coupe du Monde 2018."
+  },
+  "q169": {
+    "text": "Qu'est-ce qu'un piston (wing-back) ?",
+    "choices": [
+      "Un gardien qui joue large",
+      "Un défenseur latéral avec des tâches défensives et offensives",
+      "Un attaquant qui dérive vers l'aile",
+      "Un défenseur central qui ne quitte jamais la surface"
+    ],
+    "explanation": "Un piston joue sur le flanc et contribue à la fois en défense et en attaque."
+  },
+  "q170": {
+    "text": "Quel défenseur espagnol a marqué le but vainqueur en demi-finale de la Coupe du Monde 2010 contre l'Allemagne ?",
+    "choices": [
+      "Gerard Piqué",
+      "Sergio Ramos",
+      "Carles Puyol",
+      "Joan Capdevila"
+    ],
+    "explanation": "Carles Puyol a marqué de la tête pour envoyer l'Espagne en finale de la Coupe du Monde 2010."
+  },
+  "q171": {
+    "text": "Quel défenseur est surnommé 'Der Kaiser' ?",
+    "choices": [
+      "Franz Beckenbauer",
+      "Paolo Maldini",
+      "Fabio Cannavaro",
+      "Berti Vogts"
+    ],
+    "explanation": "Franz Beckenbauer était surnommé 'Der Kaiser' et est l'un des plus grands défenseurs de tous les temps."
+  },
+  "q172": {
+    "text": "Qu'est-ce qu'un dégagement de la tête ?",
+    "choices": [
+      "Un but marqué de la tête",
+      "Un défenseur utilisant sa tête pour écarter le danger",
+      "Une routine de corner",
+      "Un stratagème de coup franc"
+    ],
+    "explanation": "Un dégagement de la tête est quand un défenseur utilise sa tête pour éloigner le ballon du danger."
+  },
+  "q173": {
+    "text": "Quel défenseur brésilien est célèbre pour ses coups francs puissants et ses tirs de loin depuis le poste d'arrière gauche ?",
+    "choices": [
+      "Marcelo",
+      "Roberto Carlos",
+      "Cafu",
+      "Dani Alves"
+    ],
+    "explanation": "Roberto Carlos est devenu célèbre pour son pied gauche incroyable et ses coups francs spectaculaires."
+  },
+  "q174": {
+    "text": "Quel défenseur néerlandais a marqué deux buts en finale de l'Euro 1988 ?",
+    "choices": [
+      "Ronald Koeman",
+      "Frank Rijkaard",
+      "Ruud Gullit",
+      "Adri van Tiggelen"
+    ],
+    "explanation": "Ruud Gullit a marqué en finale de l'Euro 1988 alors que les Pays-Bas battaient l'Union soviétique."
+  },
+  "q175": {
+    "text": "Que signifie pour les défenseurs 'garder la ligne' ?",
+    "choices": [
+      "Ils restent tous au fond dans la surface",
+      "Ils gardent leur formation ensemble sur le terrain",
+      "Ils arrêtent de passer le ballon",
+      "Ils échangent avec les milieux"
+    ],
+    "explanation": "Garder la ligne signifie que les défenseurs restent coordonnés et maintiennent la forme défensive ensemble."
+  },
+  "q176": {
+    "text": "Quel défenseur italien était capitaine de la Juventus et faisait partie de l'équipe d'Italie championne du monde 2006 ?",
+    "choices": [
+      "Fabio Grosso",
+      "Giorgio Chiellini",
+      "Leonardo Bonucci",
+      "Christian Panucci"
+    ],
+    "explanation": "Giorgio Chiellini est devenu l'un des grands leaders défensifs de l'Italie et de la Juventus."
+  },
+  "q177": {
+    "text": "Quel est le rôle d'un milieu défensif ?",
+    "choices": [
+      "Rester à côté de l'attaquant",
+      "Protéger la défense et récupérer le ballon",
+      "Ne tirer que les corners",
+      "Marquer le gardien"
+    ],
+    "explanation": "Un milieu défensif protège la ligne arrière et aide à récupérer le ballon."
+  },
+  "q178": {
+    "text": "Quel milieu espagnol a marqué le but vainqueur en finale de la Coupe du Monde FIFA 2010 ?",
+    "choices": [
+      "Xavi Hernández",
+      "Andrés Iniesta",
+      "David Silva",
+      "Sergio Busquets"
+    ],
+    "explanation": "Andrés Iniesta a marqué en prolongation pour offrir à l'Espagne son premier titre mondial."
+  },
+  "q179": {
+    "text": "Quel milieu néerlandais a marqué l'une des plus célèbres volées de l'histoire en finale de l'Euro 1988 ?",
+    "choices": [
+      "Ruud Gullit",
+      "Frank Rijkaard",
+      "Marco van Basten",
+      "Ronald Koeman"
+    ],
+    "explanation": "Marco van Basten a marqué une volée iconique en finale de l'Euro 1988 contre l'Union soviétique."
+  },
+  "q180": {
+    "text": "Qu'est-ce qu'un long ballon dans le football ?",
+    "choices": [
+      "Une courte passe au milieu de terrain",
+      "Une passe haute ou tendue jouée sur une longue distance",
+      "Une touche dans la surface",
+      "Un type de dribble"
+    ],
+    "explanation": "Un long ballon est une passe jouée sur une distance importante, souvent pour changer le jeu ou trouver un attaquant rapidement."
+  },
+  "q181": {
+    "text": "Quel milieu était surnommé 'Don Andrés' ?",
+    "choices": [
+      "Xabi Alonso",
+      "Andrés Iniesta",
+      "David Silva",
+      "Juan Mata"
+    ],
+    "explanation": "Andrés Iniesta était affectueusement surnommé 'Don Andrés' pour sa classe et son élégance."
+  },
+  "q182": {
+    "text": "Quel milieu a remporté le Ballon d'Or en 2007 après avoir brillé pour l'AC Milan ?",
+    "choices": [
+      "Andrea Pirlo",
+      "Clarence Seedorf",
+      "Kaká",
+      "Gennaro Gattuso"
+    ],
+    "explanation": "Kaká a remporté le Ballon d'Or 2007 après une année brillante pour l'AC Milan."
+  },
+  "q183": {
+    "text": "Qu'est-ce qu'un taux de passes réussies ?",
+    "choices": [
+      "Le nombre de buts sur passes",
+      "Le pourcentage de passes qui atteignent un coéquipier avec succès",
+      "Le nombre de longs ballons tentés",
+      "Le nombre de corners gagnés"
+    ],
+    "explanation": "Le taux de passes réussies mesure le nombre de passes précises d'un joueur."
+  },
+  "q184": {
+    "text": "Quel milieu croate a remporté le Ballon d'Or en 2018 ?",
+    "choices": [
+      "Ivan Rakitić",
+      "Luka Modrić",
+      "Mateo Kovačić",
+      "Marcelo Brozović"
+    ],
+    "explanation": "Luka Modrić a remporté le Ballon d'Or 2018 après une année brillante en club et en sélection."
+  },
+  "q185": {
+    "text": "Quel milieu a remporté la Ligue des Champions avec l'Ajax, le Real Madrid et l'AC Milan ?",
+    "choices": [
+      "Edgar Davids",
+      "Clarence Seedorf",
+      "Frank Rijkaard",
+      "Rafael van der Vaart"
+    ],
+    "explanation": "Clarence Seedorf est célèbre pour avoir remporté la Ligue des Champions avec trois clubs différents."
+  },
+  "q186": {
+    "text": "Que fait un milieu quand il 'dicte le tempo' ?",
+    "choices": [
+      "Tirer tous les penalties",
+      "Contrôler la vitesse et le rythme du jeu",
+      "Rester dans la surface de réparation",
+      "Marquer l'arbitre"
+    ],
+    "explanation": "Dicter le tempo signifie contrôler la vitesse à laquelle l'équipe joue."
+  },
+  "q187": {
+    "text": "Quel milieu français a remporté trois Ballon d'Or consécutifs dans les années 1980 ?",
+    "choices": [
+      "Zinedine Zidane",
+      "Michel Platini",
+      "Jean Tigana",
+      "Didier Deschamps"
+    ],
+    "explanation": "Michel Platini a remporté le Ballon d'Or en 1983, 1984 et 1985."
+  },
+  "q188": {
+    "text": "Quel milieu a fait la passe décisive sur le but vainqueur de l'Allemagne en finale de la Coupe du Monde 2014 ?",
+    "choices": [
+      "Mesut Özil",
+      "Bastian Schweinsteiger",
+      "André Schürrle",
+      "Toni Kroos"
+    ],
+    "explanation": "André Schürrle a fait le centre pour le but vainqueur de Mario Götze en finale."
+  },
+  "q189": {
+    "text": "Qu'est-ce qu'une interception au milieu de terrain ?",
+    "choices": [
+      "Un tir de loin",
+      "Arrêter la passe d'un adversaire avant qu'elle n'atteigne sa cible",
+      "Un dribble passant deux joueurs",
+      "Un type de coup franc"
+    ],
+    "explanation": "Une interception est quand un joueur lit la passe et la coupe."
+  },
+  "q190": {
+    "text": "Quel milieu anglais portait le numéro 8 à Chelsea et a marqué de nombreux buts depuis le milieu de terrain ?",
+    "choices": [
+      "Steven Gerrard",
+      "Frank Lampard",
+      "Paul Scholes",
+      "David Beckham"
+    ],
+    "explanation": "Frank Lampard est devenu l'un des milieux les plus prolifiques en buts de l'histoire de la Premier League."
+  },
+  "q191": {
+    "text": "Quel est le rôle principal d'un attaquant ?",
+    "choices": [
+      "Faire uniquement les touches",
+      "Marquer des buts et mener l'attaque",
+      "Rester en défense",
+      "Arbitrer le match"
+    ],
+    "explanation": "La responsabilité principale d'un attaquant est de marquer des buts et de créer le danger en attaque."
+  },
+  "q192": {
+    "text": "Quel attaquant portugais est le meilleur buteur de tous les temps du Real Madrid ?",
+    "choices": [
+      "Eusébio",
+      "Cristiano Ronaldo",
+      "Luís Figo",
+      "Nani"
+    ],
+    "explanation": "Cristiano Ronaldo est le meilleur buteur de l'histoire du Real Madrid."
+  },
+  "q193": {
+    "text": "Quel attaquant a marqué deux buts pour le Brésil en finale de la Coupe du Monde 2002 ?",
+    "choices": [
+      "Rivaldo",
+      "Ronaldinho",
+      "Ronaldo Nazário",
+      "Romário"
+    ],
+    "explanation": "Ronaldo Nazário a marqué les deux buts lors de la victoire 2-0 du Brésil contre l'Allemagne en finale 2002."
+  },
+  "q194": {
+    "text": "Qu'est-ce qu'une tête dans le football ?",
+    "choices": [
+      "Frapper le ballon en l'air avec le pied",
+      "Utiliser la tête pour jouer le ballon",
+      "Un tacle glissé",
+      "Une passe de la poitrine"
+    ],
+    "explanation": "Une tête est quand un joueur utilise sa tête pour diriger le ballon."
+  },
+  "q195": {
+    "text": "Quel attaquant français a marqué le but en or en finale de l'Euro 2000 ?",
+    "choices": [
+      "Thierry Henry",
+      "Sylvain Wiltord",
+      "David Trezeguet",
+      "Nicolas Anelka"
+    ],
+    "explanation": "David Trezeguet a marqué le but en or qui a donné l'Euro 2000 à la France."
+  },
+  "q196": {
+    "text": "Quel attaquant est le meilleur buteur de tous les temps en Ligue des Champions ?",
+    "choices": [
+      "Karim Benzema",
+      "Cristiano Ronaldo",
+      "Raúl",
+      "Robert Lewandowski"
+    ],
+    "explanation": "Cristiano Ronaldo est le meilleur buteur de tous les temps en Ligue des Champions."
+  },
+  "q197": {
+    "text": "Qu'est-ce qu'un retourné acrobatique (bicyclette) ?",
+    "choices": [
+      "Une passe basse devant le but",
+      "Un tir acrobatique en ciseau retourné",
+      "Un dégagement du gardien",
+      "Un tir du genou"
+    ],
+    "explanation": "Un retourné acrobatique est une tentative acrobatique en ciseau au-dessus de la tête."
+  },
+  "q198": {
+    "text": "Quel attaquant norvégien a rejoint Manchester City en 2022 ?",
+    "choices": [
+      "Alexander Sørloth",
+      "Erling Haaland",
+      "Jørgen Strand Larsen",
+      "Joshua King"
+    ],
+    "explanation": "Erling Haaland a rejoint Manchester City en 2022."
+  },
+  "q199": {
+    "text": "Quel joueur a marqué le but de la 'Main de Dieu' lors de la Coupe du Monde 1986 ?",
+    "choices": [
+      "Pelé",
+      "Diego Maradona",
+      "Jorge Valdano",
+      "Gabriel Batistuta"
+    ],
+    "explanation": "Diego Maradona a marqué le célèbre but de la 'Main de Dieu' contre l'Angleterre."
+  },
+  "q200": {
+    "text": "Qu'est-ce qu'une finition au premier poteau ?",
+    "choices": [
+      "Un tir dirigé vers le poteau le plus proche de l'attaquant",
+      "Un tir depuis la ligne médiane",
+      "Une volée de l'extérieur de la surface",
+      "Une passe vers le milieu de terrain"
+    ],
+    "explanation": "Une finition au premier poteau est dirigée vers le côté du but le plus proche du tireur."
+  },
+  "q201": {
+    "text": "Quel attaquant est le meilleur buteur de tous les temps de l'Argentine ?",
+    "choices": [
+      "Gabriel Batistuta",
+      "Sergio Agüero",
+      "Lionel Messi",
+      "Hernán Crespo"
+    ],
+    "explanation": "Lionel Messi est le meilleur buteur de tous les temps de l'Argentine."
+  },
+  "q202": {
+    "text": "Quel attaquant a marqué le triplé le plus rapide de l'histoire de la Premier League ?",
+    "choices": [
+      "Sadio Mané",
+      "Alan Shearer",
+      "Robbie Fowler",
+      "Sergio Agüero"
+    ],
+    "explanation": "Sadio Mané a marqué le triplé le plus rapide de la Premier League en 2 minutes 56 secondes."
+  },
+  "q203": {
+    "text": "Que fait un attaquant quand il fait un 'appel dans le dos' ?",
+    "choices": [
+      "Se placer à côté des défenseurs",
+      "Sprinter dans l'espace derrière la défense",
+      "Rester large près du drapeau de corner uniquement",
+      "Revenir dans sa propre surface"
+    ],
+    "explanation": "Un appel dans le dos est fait pour attaquer l'espace derrière la ligne défensive."
+  },
+  "q204": {
+    "text": "Quel attaquant uruguayen est surnommé 'El Pistolero' ?",
+    "choices": [
+      "Edinson Cavani",
+      "Diego Forlán",
+      "Luis Suárez",
+      "Darwin Núñez"
+    ],
+    "explanation": "Luis Suárez est célèbrement connu sous le nom d'El Pistolero."
+  },
+  "q205": {
+    "text": "Quel attaquant français a remporté le Ballon d'Or 1991 en jouant pour Marseille ?",
+    "choices": [
+      "Jean-Pierre Papin",
+      "David Ginola",
+      "Thierry Henry",
+      "Eric Cantona"
+    ],
+    "explanation": "Jean-Pierre Papin a remporté le Ballon d'Or 1991 après ses brillantes performances pour Marseille."
+  },
+  "q206": {
+    "text": "Qu'est-ce qu'une finition du premier coup ?",
+    "choices": [
+      "Un tir sans contrôler le ballon au préalable",
+      "Le premier tir du match",
+      "Un penalty tiré en première mi-temps",
+      "Un tir depuis le cercle central"
+    ],
+    "explanation": "Une finition du premier coup est frappée immédiatement sans prendre de touche pour contrôler le ballon."
+  },
+  "q207": {
+    "text": "Quel attaquant a marqué le but vainqueur pour l'Espagne en finale de l'Euro 2008 ?",
+    "choices": [
+      "David Villa",
+      "Fernando Torres",
+      "Raúl",
+      "Cesc Fàbregas"
+    ],
+    "explanation": "Fernando Torres a marqué l'unique but de la victoire de l'Espagne en finale de l'Euro 2008 contre l'Allemagne."
+  },
+  "q208": {
+    "text": "Quel attaquant a marqué en finales de Coupe du Monde 1958 et 1970 pour le Brésil ?",
+    "choices": [
+      "Garrincha",
+      "Pelé",
+      "Jairzinho",
+      "Vavá"
+    ],
+    "explanation": "Pelé a marqué en finales de Coupe du Monde 1958 et 1970 pour le Brésil."
+  },
+  "q209": {
+    "text": "Quel joueur a remporté le Soulier d'Or à la Coupe du Monde FIFA 2014 ?",
+    "choices": [
+      "Thomas Müller",
+      "James Rodríguez",
+      "Lionel Messi",
+      "Neymar"
+    ],
+    "explanation": "James Rodríguez a terminé meilleur buteur de la Coupe du Monde 2014 avec 6 buts."
+  },
+  "q210": {
+    "text": "Quel attaquant a marqué le but vainqueur pour Manchester United en finale de la Ligue des Champions 1999 ?",
+    "choices": [
+      "Dwight Yorke",
+      "Andy Cole",
+      "Teddy Sheringham",
+      "Ole Gunnar Solskjær"
+    ],
+    "explanation": "Ole Gunnar Solskjær a marqué le but dramatique du temps additionnel contre le Bayern Munich."
+  }
+}

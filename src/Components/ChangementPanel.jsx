@@ -3,7 +3,7 @@
 // ============================================================
 import images from "../constants/images";
 import { POS_LABEL } from "../engine/gameConfig";
-import { useLanguage } from "../contexts/LanguageContext";
+import { useTranslation } from "react-i18next";
 
 /**
  * Props:
@@ -14,7 +14,7 @@ import { useLanguage } from "../contexts/LanguageContext";
  *   onSkip      — () => void
  */
 export default function ChangementPanel({ candidate, pos, teamAtPos, onReplace, onSkip }) {
-    const { t } = useLanguage();
+    const { t } = useTranslation("ui");
     return (
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/85 p-6 backdrop-blur-sm">
             <div className="w-full max-w-lg rounded-2xl border border-white/10 bg-[#0b1018]/95 p-6 shadow-2xl sm:p-8">

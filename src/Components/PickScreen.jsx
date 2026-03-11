@@ -4,10 +4,10 @@
 import images from "../constants/images";
 import { POS_LABEL } from "../engine/gameConfig";
 import { normalizePos } from "../engine/gameUtils";
-import { useLanguage } from "../contexts/LanguageContext";
+import { useTranslation } from "react-i18next";
 
 export default function PickScreen({ pair, onPick }) {
-    const { t } = useLanguage();
+    const { t } = useTranslation("ui");
     const pos = normalizePos(pair.pos);
     const players = [pair.playerA, pair.playerB];
 
