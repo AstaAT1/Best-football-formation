@@ -1,0 +1,1784 @@
+[
+    {
+        "id": "cp_raphinha",
+        "pos": "ATK",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Raphinha",
+            "Antony",
+            "Rodrygo",
+            "Rafa Silva"
+        ],
+        "answerIndex": 0,
+        "explanation": "Raphinha's career: Sporting CP → Rennes → Leeds United → FC Barcelona",
+        "clubs": [
+            {
+                "teamName": "Sporting CP",
+                "logo": "https://media.api-sports.io/football/teams/228.png",
+                "yearFrom": "2016",
+                "yearTo": "2018"
+            },
+            {
+                "teamName": "Rennes",
+                "logo": "https://media.api-sports.io/football/teams/94.png",
+                "yearFrom": "2019",
+                "yearTo": "2020"
+            },
+            {
+                "teamName": "Leeds United",
+                "logo": "https://media.api-sports.io/football/teams/63.png",
+                "yearFrom": "2020",
+                "yearTo": "2022"
+            },
+            {
+                "teamName": "FC Barcelona",
+                "logo": "https://media.api-sports.io/football/teams/529.png",
+                "yearFrom": "2022",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/6063.png"
+    },
+    {
+        "id": "cp_mbappe",
+        "pos": "ATK",
+        "difficulty": "easy",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Kylian Mbappé",
+            "Ousmane Dembélé",
+            "Marcus Thuram",
+            "Randal Kolo Muani"
+        ],
+        "answerIndex": 0,
+        "explanation": "Mbappé's career: AS Monaco → PSG → Real Madrid",
+        "clubs": [
+            {
+                "teamName": "AS Monaco",
+                "logo": "https://media.api-sports.io/football/teams/91.png",
+                "yearFrom": "2015",
+                "yearTo": "2017"
+            },
+            {
+                "teamName": "Paris Saint-Germain",
+                "logo": "https://media.api-sports.io/football/teams/85.png",
+                "yearFrom": "2017",
+                "yearTo": "2024"
+            },
+            {
+                "teamName": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "yearFrom": "2024",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/278.png"
+    },
+    {
+        "id": "cp_haaland",
+        "pos": "ATK",
+        "difficulty": "easy",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Erling Haaland",
+            "Alexander Sørloth",
+            "Joshua Zirkzee",
+            "Victor Osimhen"
+        ],
+        "answerIndex": 0,
+        "explanation": "Haaland's career: Molde → RB Salzburg → Dortmund → Man City",
+        "clubs": [
+            {
+                "teamName": "Molde",
+                "logo": "https://media.api-sports.io/football/teams/313.png",
+                "yearFrom": "2017",
+                "yearTo": "2019"
+            },
+            {
+                "teamName": "Red Bull Salzburg",
+                "logo": "https://media.api-sports.io/football/teams/571.png",
+                "yearFrom": "2019",
+                "yearTo": "2020"
+            },
+            {
+                "teamName": "Borussia Dortmund",
+                "logo": "https://media.api-sports.io/football/teams/165.png",
+                "yearFrom": "2020",
+                "yearTo": "2022"
+            },
+            {
+                "teamName": "Manchester City",
+                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "yearFrom": "2022",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/1100.png"
+    },
+    {
+        "id": "cp_ronaldo",
+        "pos": "ATK",
+        "difficulty": "easy",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Cristiano Ronaldo",
+            "Luís Figo",
+            "Nani",
+            "Ricardo Quaresma"
+        ],
+        "answerIndex": 0,
+        "explanation": "Ronaldo's career: Sporting CP → Man United → Real Madrid → Juventus",
+        "clubs": [
+            {
+                "teamName": "Sporting CP",
+                "logo": "https://media.api-sports.io/football/teams/228.png",
+                "yearFrom": "2002",
+                "yearTo": "2003"
+            },
+            {
+                "teamName": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "yearFrom": "2003",
+                "yearTo": "2009"
+            },
+            {
+                "teamName": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "yearFrom": "2009",
+                "yearTo": "2018"
+            },
+            {
+                "teamName": "Juventus",
+                "logo": "https://media.api-sports.io/football/teams/496.png",
+                "yearFrom": "2018",
+                "yearTo": "2021"
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/874.png"
+    },
+    {
+        "id": "cp_neymar",
+        "pos": "ATK",
+        "difficulty": "easy",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Neymar Jr",
+            "Philippe Coutinho",
+            "Lucas Moura",
+            "Richarlison"
+        ],
+        "answerIndex": 0,
+        "explanation": "Neymar's career: Santos → Barcelona → PSG → Al Hilal",
+        "clubs": [
+            {
+                "teamName": "Santos",
+                "logo": "https://media.api-sports.io/football/teams/1191.png",
+                "yearFrom": "2009",
+                "yearTo": "2013"
+            },
+            {
+                "teamName": "FC Barcelona",
+                "logo": "https://media.api-sports.io/football/teams/529.png",
+                "yearFrom": "2013",
+                "yearTo": "2017"
+            },
+            {
+                "teamName": "Paris Saint-Germain",
+                "logo": "https://media.api-sports.io/football/teams/85.png",
+                "yearFrom": "2017",
+                "yearTo": "2023"
+            },
+            {
+                "teamName": "Al Hilal",
+                "logo": "https://media.api-sports.io/football/teams/2932.png",
+                "yearFrom": "2023",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/276.png"
+    },
+    {
+        "id": "cp_lewandowski",
+        "pos": "ATK",
+        "difficulty": "easy",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Robert Lewandowski",
+            "Arkadiusz Milik",
+            "Krzysztof Piątek",
+            "Łukasz Piszczek"
+        ],
+        "answerIndex": 0,
+        "explanation": "Lewandowski's career: Lech Poznań → Dortmund → Bayern → Barcelona",
+        "clubs": [
+            {
+                "teamName": "Lech Poznań",
+                "logo": "https://media.api-sports.io/football/teams/3563.png",
+                "yearFrom": "2008",
+                "yearTo": "2010"
+            },
+            {
+                "teamName": "Borussia Dortmund",
+                "logo": "https://media.api-sports.io/football/teams/165.png",
+                "yearFrom": "2010",
+                "yearTo": "2014"
+            },
+            {
+                "teamName": "Bayern Munich",
+                "logo": "https://media.api-sports.io/football/teams/157.png",
+                "yearFrom": "2014",
+                "yearTo": "2022"
+            },
+            {
+                "teamName": "FC Barcelona",
+                "logo": "https://media.api-sports.io/football/teams/529.png",
+                "yearFrom": "2022",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/521.png"
+    },
+    {
+        "id": "cp_griezmann",
+        "pos": "ATK",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Antoine Griezmann",
+            "Karim Benzema",
+            "Alexandre Lacazette",
+            "Olivier Giroud"
+        ],
+        "answerIndex": 0,
+        "explanation": "Griezmann's career: Real Sociedad → Atlético → Barcelona → Atlético",
+        "clubs": [
+            {
+                "teamName": "Real Sociedad",
+                "logo": "https://media.api-sports.io/football/teams/548.png",
+                "yearFrom": "2009",
+                "yearTo": "2014"
+            },
+            {
+                "teamName": "Atlético Madrid",
+                "logo": "https://media.api-sports.io/football/teams/530.png",
+                "yearFrom": "2014",
+                "yearTo": "2019"
+            },
+            {
+                "teamName": "FC Barcelona",
+                "logo": "https://media.api-sports.io/football/teams/529.png",
+                "yearFrom": "2019",
+                "yearTo": "2021"
+            },
+            {
+                "teamName": "Atlético Madrid",
+                "logo": "https://media.api-sports.io/football/teams/530.png",
+                "yearFrom": "2021",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/1584.png"
+    },
+    {
+        "id": "cp_salah",
+        "pos": "ATK",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Mohamed Salah",
+            "Sadio Mané",
+            "Riyad Mahrez",
+            "Hakim Ziyech"
+        ],
+        "answerIndex": 0,
+        "explanation": "Salah's career: Basel → Chelsea → Roma → Liverpool",
+        "clubs": [
+            {
+                "teamName": "Basel",
+                "logo": "https://media.api-sports.io/football/teams/556.png",
+                "yearFrom": "2012",
+                "yearTo": "2014"
+            },
+            {
+                "teamName": "Chelsea",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "yearFrom": "2014",
+                "yearTo": "2016"
+            },
+            {
+                "teamName": "AS Roma",
+                "logo": "https://media.api-sports.io/football/teams/497.png",
+                "yearFrom": "2016",
+                "yearTo": "2017"
+            },
+            {
+                "teamName": "Liverpool",
+                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "yearFrom": "2017",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/306.png"
+    },
+    {
+        "id": "cp_hazard",
+        "pos": "ATK",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Eden Hazard",
+            "Kevin De Bruyne",
+            "Yannick Carrasco",
+            "Dries Mertens"
+        ],
+        "answerIndex": 0,
+        "explanation": "Hazard's career: Lille → Chelsea → Real Madrid",
+        "clubs": [
+            {
+                "teamName": "Lille",
+                "logo": "https://media.api-sports.io/football/teams/79.png",
+                "yearFrom": "2007",
+                "yearTo": "2012"
+            },
+            {
+                "teamName": "Chelsea",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "yearFrom": "2012",
+                "yearTo": "2019"
+            },
+            {
+                "teamName": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "yearFrom": "2019",
+                "yearTo": "2023"
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/1427.png"
+    },
+    {
+        "id": "cp_vinicius",
+        "pos": "ATK",
+        "difficulty": "easy",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Vinícius Júnior",
+            "Rodrygo",
+            "Endrick",
+            "Gabriel Martinelli"
+        ],
+        "answerIndex": 0,
+        "explanation": "Vinícius's career: Flamengo → Real Madrid",
+        "clubs": [
+            {
+                "teamName": "Flamengo",
+                "logo": "https://media.api-sports.io/football/teams/1187.png",
+                "yearFrom": "2017",
+                "yearTo": "2018"
+            },
+            {
+                "teamName": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "yearFrom": "2018",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/762.png"
+    },
+    {
+        "id": "cp_suarez",
+        "pos": "ATK",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Luis Suárez",
+            "Edinson Cavani",
+            "Diego Forlán",
+            "Radamel Falcao"
+        ],
+        "answerIndex": 0,
+        "explanation": "Suárez's career: Ajax → Liverpool → Barcelona → Atlético Madrid",
+        "clubs": [
+            {
+                "teamName": "Ajax",
+                "logo": "https://media.api-sports.io/football/teams/194.png",
+                "yearFrom": "2007",
+                "yearTo": "2011"
+            },
+            {
+                "teamName": "Liverpool",
+                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "yearFrom": "2011",
+                "yearTo": "2014"
+            },
+            {
+                "teamName": "FC Barcelona",
+                "logo": "https://media.api-sports.io/football/teams/529.png",
+                "yearFrom": "2014",
+                "yearTo": "2020"
+            },
+            {
+                "teamName": "Atlético Madrid",
+                "logo": "https://media.api-sports.io/football/teams/530.png",
+                "yearFrom": "2020",
+                "yearTo": "2022"
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/186.png"
+    },
+    {
+        "id": "cp_ibrahimovic",
+        "pos": "ATK",
+        "difficulty": "hard",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Zlatan Ibrahimović",
+            "Samuel Eto'o",
+            "Thierry Henry",
+            "Didier Drogba"
+        ],
+        "answerIndex": 0,
+        "explanation": "Ibrahimović's career: Ajax → Juventus → Inter → Barcelona → AC Milan",
+        "clubs": [
+            {
+                "teamName": "Ajax",
+                "logo": "https://media.api-sports.io/football/teams/194.png",
+                "yearFrom": "2001",
+                "yearTo": "2004"
+            },
+            {
+                "teamName": "Juventus",
+                "logo": "https://media.api-sports.io/football/teams/496.png",
+                "yearFrom": "2004",
+                "yearTo": "2006"
+            },
+            {
+                "teamName": "Inter Milan",
+                "logo": "https://media.api-sports.io/football/teams/505.png",
+                "yearFrom": "2006",
+                "yearTo": "2009"
+            },
+            {
+                "teamName": "FC Barcelona",
+                "logo": "https://media.api-sports.io/football/teams/529.png",
+                "yearFrom": "2009",
+                "yearTo": "2011"
+            },
+            {
+                "teamName": "AC Milan",
+                "logo": "https://media.api-sports.io/football/teams/489.png",
+                "yearFrom": "2010",
+                "yearTo": "2012"
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/35845.png"
+    },
+    {
+        "id": "cp_henry",
+        "pos": "ATK",
+        "difficulty": "hard",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Thierry Henry",
+            "Patrick Vieira",
+            "Nicolas Anelka",
+            "David Trezeguet"
+        ],
+        "answerIndex": 0,
+        "explanation": "Henry's career: Monaco → Juventus → Arsenal → Barcelona",
+        "clubs": [
+            {
+                "teamName": "AS Monaco",
+                "logo": "https://media.api-sports.io/football/teams/91.png",
+                "yearFrom": "1994",
+                "yearTo": "1999"
+            },
+            {
+                "teamName": "Juventus",
+                "logo": "https://media.api-sports.io/football/teams/496.png",
+                "yearFrom": "1999",
+                "yearTo": "1999"
+            },
+            {
+                "teamName": "Arsenal",
+                "logo": "https://media.api-sports.io/football/teams/42.png",
+                "yearFrom": "1999",
+                "yearTo": "2007"
+            },
+            {
+                "teamName": "FC Barcelona",
+                "logo": "https://media.api-sports.io/football/teams/529.png",
+                "yearFrom": "2007",
+                "yearTo": "2010"
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/22221.png"
+    },
+    {
+        "id": "cp_drogba",
+        "pos": "ATK",
+        "difficulty": "hard",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Didier Drogba",
+            "Samuel Eto'o",
+            "Emmanuel Adebayor",
+            "Yakubu Aiyegbeni"
+        ],
+        "answerIndex": 0,
+        "explanation": "Drogba's career: Guingamp → Marseille → Chelsea → Galatasaray",
+        "clubs": [
+            {
+                "teamName": "Guingamp",
+                "logo": "https://media.api-sports.io/football/teams/100.png",
+                "yearFrom": "2002",
+                "yearTo": "2003"
+            },
+            {
+                "teamName": "Olympique de Marseille",
+                "logo": "https://media.api-sports.io/football/teams/81.png",
+                "yearFrom": "2003",
+                "yearTo": "2004"
+            },
+            {
+                "teamName": "Chelsea",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "yearFrom": "2004",
+                "yearTo": "2012"
+            },
+            {
+                "teamName": "Galatasaray",
+                "logo": "https://media.api-sports.io/football/teams/645.png",
+                "yearFrom": "2013",
+                "yearTo": "2014"
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/35832.png"
+    },
+    {
+        "id": "cp_lamineyamal",
+        "pos": "ATK",
+        "difficulty": "easy",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Lamine Yamal",
+            "Gavi",
+            "Pedri",
+            "Ansu Fati"
+        ],
+        "answerIndex": 0,
+        "explanation": "Yamal has been at Barcelona since his youth",
+        "clubs": [
+            {
+                "teamName": "FC Barcelona",
+                "logo": "https://media.api-sports.io/football/teams/529.png",
+                "yearFrom": "2023",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/401171.png"
+    },
+    {
+        "id": "cp_coutinho",
+        "pos": "ATK",
+        "difficulty": "hard",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Philippe Coutinho",
+            "Oscar",
+            "Willian",
+            "Firmino"
+        ],
+        "answerIndex": 0,
+        "explanation": "Coutinho's career: Inter → Liverpool → Barcelona → Aston Villa",
+        "clubs": [
+            {
+                "teamName": "Inter Milan",
+                "logo": "https://media.api-sports.io/football/teams/505.png",
+                "yearFrom": "2010",
+                "yearTo": "2013"
+            },
+            {
+                "teamName": "Liverpool",
+                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "yearFrom": "2013",
+                "yearTo": "2018"
+            },
+            {
+                "teamName": "FC Barcelona",
+                "logo": "https://media.api-sports.io/football/teams/529.png",
+                "yearFrom": "2018",
+                "yearTo": "2022"
+            },
+            {
+                "teamName": "Aston Villa",
+                "logo": "https://media.api-sports.io/football/teams/66.png",
+                "yearFrom": "2022",
+                "yearTo": "2024"
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/278.png"
+    },
+    {
+        "id": "cp_zidane",
+        "pos": "MF",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Zinedine Zidane",
+            "Michel Platini",
+            "Youri Djorkaeff",
+            "Robert Pirès"
+        ],
+        "answerIndex": 0,
+        "explanation": "Zidane's career: Cannes → Bordeaux → Juventus → Real Madrid",
+        "clubs": [
+            {
+                "teamName": "Cannes",
+                "logo": "https://media.api-sports.io/football/teams/109.png",
+                "yearFrom": "1988",
+                "yearTo": "1992"
+            },
+            {
+                "teamName": "Bordeaux",
+                "logo": "https://media.api-sports.io/football/teams/78.png",
+                "yearFrom": "1992",
+                "yearTo": "1996"
+            },
+            {
+                "teamName": "Juventus",
+                "logo": "https://media.api-sports.io/football/teams/496.png",
+                "yearFrom": "1996",
+                "yearTo": "2001"
+            },
+            {
+                "teamName": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "yearFrom": "2001",
+                "yearTo": "2006"
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/2.png"
+    },
+    {
+        "id": "cp_debruyne",
+        "pos": "MF",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Kevin De Bruyne",
+            "Eden Hazard",
+            "Dries Mertens",
+            "Thibaut Courtois"
+        ],
+        "answerIndex": 0,
+        "explanation": "De Bruyne's career: Genk → Chelsea → Wolfsburg → Man City",
+        "clubs": [
+            {
+                "teamName": "Genk",
+                "logo": "https://media.api-sports.io/football/teams/736.png",
+                "yearFrom": "2008",
+                "yearTo": "2012"
+            },
+            {
+                "teamName": "Chelsea",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "yearFrom": "2012",
+                "yearTo": "2014"
+            },
+            {
+                "teamName": "VfL Wolfsburg",
+                "logo": "https://media.api-sports.io/football/teams/161.png",
+                "yearFrom": "2014",
+                "yearTo": "2015"
+            },
+            {
+                "teamName": "Manchester City",
+                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "yearFrom": "2015",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/629.png"
+    },
+    {
+        "id": "cp_modric",
+        "pos": "MF",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Luka Modrić",
+            "Ivan Rakitić",
+            "Mateo Kovačić",
+            "Toni Kroos"
+        ],
+        "answerIndex": 0,
+        "explanation": "Modrić's career: Dinamo Zagreb → Tottenham → Real Madrid",
+        "clubs": [
+            {
+                "teamName": "Dinamo Zagreb",
+                "logo": "https://media.api-sports.io/football/teams/620.png",
+                "yearFrom": "2003",
+                "yearTo": "2008"
+            },
+            {
+                "teamName": "Tottenham Hotspur",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
+                "yearFrom": "2008",
+                "yearTo": "2012"
+            },
+            {
+                "teamName": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "yearFrom": "2012",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/756.png"
+    },
+    {
+        "id": "cp_pogba",
+        "pos": "MF",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Paul Pogba",
+            "N'Golo Kanté",
+            "Blaise Matuidi",
+            "Moussa Sissoko"
+        ],
+        "answerIndex": 0,
+        "explanation": "Pogba's career: Man United → Juventus → Man United → Juventus",
+        "clubs": [
+            {
+                "teamName": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "yearFrom": "2009",
+                "yearTo": "2012"
+            },
+            {
+                "teamName": "Juventus",
+                "logo": "https://media.api-sports.io/football/teams/496.png",
+                "yearFrom": "2012",
+                "yearTo": "2016"
+            },
+            {
+                "teamName": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "yearFrom": "2016",
+                "yearTo": "2022"
+            },
+            {
+                "teamName": "Juventus",
+                "logo": "https://media.api-sports.io/football/teams/496.png",
+                "yearFrom": "2022",
+                "yearTo": "2024"
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/882.png"
+    },
+    {
+        "id": "cp_brunofernandes",
+        "pos": "MF",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Bruno Fernandes",
+            "Bernardo Silva",
+            "João Félix",
+            "Diogo Jota"
+        ],
+        "answerIndex": 0,
+        "explanation": "Bruno Fernandes's career: Udinese → Sporting CP → Man United",
+        "clubs": [
+            {
+                "teamName": "Udinese",
+                "logo": "https://media.api-sports.io/football/teams/494.png",
+                "yearFrom": "2012",
+                "yearTo": "2017"
+            },
+            {
+                "teamName": "Sporting CP",
+                "logo": "https://media.api-sports.io/football/teams/228.png",
+                "yearFrom": "2017",
+                "yearTo": "2020"
+            },
+            {
+                "teamName": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "yearFrom": "2020",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/47380.png"
+    },
+    {
+        "id": "cp_son",
+        "pos": "MF",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Son Heung-min",
+            "Takefusa Kubo",
+            "Hwang Hee-chan",
+            "Lee Kang-in"
+        ],
+        "answerIndex": 0,
+        "explanation": "Son's career: Hamburg → Leverkusen → Tottenham",
+        "clubs": [
+            {
+                "teamName": "Hamburger SV",
+                "logo": "https://media.api-sports.io/football/teams/180.png",
+                "yearFrom": "2010",
+                "yearTo": "2013"
+            },
+            {
+                "teamName": "Bayer Leverkusen",
+                "logo": "https://media.api-sports.io/football/teams/168.png",
+                "yearFrom": "2013",
+                "yearTo": "2015"
+            },
+            {
+                "teamName": "Tottenham Hotspur",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
+                "yearFrom": "2015",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/735.png"
+    },
+    {
+        "id": "cp_bellingham",
+        "pos": "MF",
+        "difficulty": "easy",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Jude Bellingham",
+            "Phil Foden",
+            "Bukayo Saka",
+            "Mason Mount"
+        ],
+        "answerIndex": 0,
+        "explanation": "Bellingham's career: Birmingham → Dortmund → Real Madrid",
+        "clubs": [
+            {
+                "teamName": "Birmingham City",
+                "logo": "https://media.api-sports.io/football/teams/43.png",
+                "yearFrom": "2019",
+                "yearTo": "2020"
+            },
+            {
+                "teamName": "Borussia Dortmund",
+                "logo": "https://media.api-sports.io/football/teams/165.png",
+                "yearFrom": "2020",
+                "yearTo": "2023"
+            },
+            {
+                "teamName": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "yearFrom": "2023",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/129718.png"
+    },
+    {
+        "id": "cp_dimaria",
+        "pos": "MF",
+        "difficulty": "hard",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Ángel Di María",
+            "Alexis Sánchez",
+            "James Rodríguez",
+            "Isco"
+        ],
+        "answerIndex": 0,
+        "explanation": "Di María's career: Benfica → Real Madrid → Man United → PSG → Juventus",
+        "clubs": [
+            {
+                "teamName": "Benfica",
+                "logo": "https://media.api-sports.io/football/teams/211.png",
+                "yearFrom": "2007",
+                "yearTo": "2010"
+            },
+            {
+                "teamName": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "yearFrom": "2010",
+                "yearTo": "2014"
+            },
+            {
+                "teamName": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "yearFrom": "2014",
+                "yearTo": "2015"
+            },
+            {
+                "teamName": "Paris Saint-Germain",
+                "logo": "https://media.api-sports.io/football/teams/85.png",
+                "yearFrom": "2015",
+                "yearTo": "2022"
+            },
+            {
+                "teamName": "Juventus",
+                "logo": "https://media.api-sports.io/football/teams/496.png",
+                "yearFrom": "2022",
+                "yearTo": "2023"
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/1585.png"
+    },
+    {
+        "id": "cp_benzema",
+        "pos": "ATK",
+        "difficulty": "easy",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Karim Benzema",
+            "Olivier Giroud",
+            "Antoine Griezmann",
+            "Kylian Mbappé"
+        ],
+        "answerIndex": 0,
+        "explanation": "Benzema's career: Lyon → Real Madrid → Al Ittihad",
+        "clubs": [
+            {
+                "teamName": "Olympique Lyonnais",
+                "logo": "https://media.api-sports.io/football/teams/80.png",
+                "yearFrom": "2004",
+                "yearTo": "2009"
+            },
+            {
+                "teamName": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "yearFrom": "2009",
+                "yearTo": "2023"
+            },
+            {
+                "teamName": "Al Ittihad",
+                "logo": "https://media.api-sports.io/football/teams/2934.png",
+                "yearFrom": "2023",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/759.png"
+    },
+    {
+        "id": "cp_aubameyang",
+        "pos": "ATK",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Pierre-Emerick Aubameyang",
+            "Alexandre Lacazette",
+            "Marco Reus",
+            "Paco Alcácer"
+        ],
+        "answerIndex": 0,
+        "explanation": "Aubameyang's career: Saint-Étienne → Dortmund → Arsenal → Barcelona",
+        "clubs": [
+            {
+                "teamName": "AS Saint-Étienne",
+                "logo": "https://media.api-sports.io/football/teams/1063.png",
+                "yearFrom": "2011",
+                "yearTo": "2013"
+            },
+            {
+                "teamName": "Borussia Dortmund",
+                "logo": "https://media.api-sports.io/football/teams/165.png",
+                "yearFrom": "2013",
+                "yearTo": "2018"
+            },
+            {
+                "teamName": "Arsenal",
+                "logo": "https://media.api-sports.io/football/teams/42.png",
+                "yearFrom": "2018",
+                "yearTo": "2022"
+            },
+            {
+                "teamName": "FC Barcelona",
+                "logo": "https://media.api-sports.io/football/teams/529.png",
+                "yearFrom": "2022",
+                "yearTo": "2023"
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/1460.png"
+    },
+    {
+        "id": "cp_hakimi",
+        "pos": "DF",
+        "difficulty": "hard",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Achraf Hakimi",
+            "Dani Carvajal",
+            "Sergiño Dest",
+            "Denzel Dumfries"
+        ],
+        "answerIndex": 0,
+        "explanation": "Hakimi's career: Real Madrid → Dortmund → Inter → PSG",
+        "clubs": [
+            {
+                "teamName": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "yearFrom": "2017",
+                "yearTo": "2020"
+            },
+            {
+                "teamName": "Borussia Dortmund",
+                "logo": "https://media.api-sports.io/football/teams/165.png",
+                "yearFrom": "2018",
+                "yearTo": "2020"
+            },
+            {
+                "teamName": "Inter Milan",
+                "logo": "https://media.api-sports.io/football/teams/505.png",
+                "yearFrom": "2020",
+                "yearTo": "2021"
+            },
+            {
+                "teamName": "Paris Saint-Germain",
+                "logo": "https://media.api-sports.io/football/teams/85.png",
+                "yearFrom": "2021",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/2295.png"
+    },
+    {
+        "id": "cp_bale",
+        "pos": "DF",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Gareth Bale",
+            "Aaron Ramsey",
+            "Ryan Giggs",
+            "Theo Walcott"
+        ],
+        "answerIndex": 0,
+        "explanation": "Bale's career: Southampton → Tottenham → Real Madrid → LAFC",
+        "clubs": [
+            {
+                "teamName": "Southampton",
+                "logo": "https://media.api-sports.io/football/teams/41.png",
+                "yearFrom": "2006",
+                "yearTo": "2007"
+            },
+            {
+                "teamName": "Tottenham Hotspur",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
+                "yearFrom": "2007",
+                "yearTo": "2013"
+            },
+            {
+                "teamName": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "yearFrom": "2013",
+                "yearTo": "2022"
+            },
+            {
+                "teamName": "Los Angeles FC",
+                "logo": "https://media.api-sports.io/football/teams/1600.png",
+                "yearFrom": "2022",
+                "yearTo": "2023"
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/739.png"
+    },
+    {
+        "id": "cp_courtois",
+        "pos": "GK",
+        "difficulty": "hard",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Thibaut Courtois",
+            "Jan Oblak",
+            "Marc-André ter Stegen",
+            "Keylor Navas"
+        ],
+        "answerIndex": 0,
+        "explanation": "Courtois's career: Genk → Atlético → Chelsea → Real Madrid",
+        "clubs": [
+            {
+                "teamName": "Genk",
+                "logo": "https://media.api-sports.io/football/teams/736.png",
+                "yearFrom": "2009",
+                "yearTo": "2011"
+            },
+            {
+                "teamName": "Atlético Madrid",
+                "logo": "https://media.api-sports.io/football/teams/530.png",
+                "yearFrom": "2011",
+                "yearTo": "2014"
+            },
+            {
+                "teamName": "Chelsea",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "yearFrom": "2014",
+                "yearTo": "2018"
+            },
+            {
+                "teamName": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "yearFrom": "2018",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/730.png"
+    },
+    {
+        "id": "cp_kaka",
+        "pos": "MF",
+        "difficulty": "hard",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Kaká",
+            "Ronaldinho",
+            "Rivaldo",
+            "Robinho"
+        ],
+        "answerIndex": 0,
+        "explanation": "Kaká's career: São Paulo → AC Milan → Real Madrid → AC Milan",
+        "clubs": [
+            {
+                "teamName": "São Paulo",
+                "logo": "https://media.api-sports.io/football/teams/1189.png",
+                "yearFrom": "2001",
+                "yearTo": "2003"
+            },
+            {
+                "teamName": "AC Milan",
+                "logo": "https://media.api-sports.io/football/teams/489.png",
+                "yearFrom": "2003",
+                "yearTo": "2009"
+            },
+            {
+                "teamName": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "yearFrom": "2009",
+                "yearTo": "2013"
+            },
+            {
+                "teamName": "AC Milan",
+                "logo": "https://media.api-sports.io/football/teams/489.png",
+                "yearFrom": "2013",
+                "yearTo": "2014"
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/35625.png"
+    },
+    {
+        "id": "cp_buffon",
+        "pos": "GK",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Gianluigi Buffon",
+            "Iker Casillas",
+            "Manuel Neuer",
+            "Peter Čech"
+        ],
+        "answerIndex": 0,
+        "explanation": "Buffon's career: Parma → Juventus → PSG → Juventus",
+        "clubs": [
+            {
+                "teamName": "Parma",
+                "logo": "https://media.api-sports.io/football/teams/511.png",
+                "yearFrom": "1995",
+                "yearTo": "2001"
+            },
+            {
+                "teamName": "Juventus",
+                "logo": "https://media.api-sports.io/football/teams/496.png",
+                "yearFrom": "2001",
+                "yearTo": "2018"
+            },
+            {
+                "teamName": "Paris Saint-Germain",
+                "logo": "https://media.api-sports.io/football/teams/85.png",
+                "yearFrom": "2018",
+                "yearTo": "2019"
+            },
+            {
+                "teamName": "Juventus",
+                "logo": "https://media.api-sports.io/football/teams/496.png",
+                "yearFrom": "2019",
+                "yearTo": "2021"
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/35642.png"
+    },
+    {
+        "id": "cp_oblak",
+        "pos": "GK",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Jan Oblak",
+            "Thibaut Courtois",
+            "David de Gea",
+            "Hugo Lloris"
+        ],
+        "answerIndex": 0,
+        "explanation": "Oblak's career: Benfica → Atlético Madrid",
+        "clubs": [
+            {
+                "teamName": "Benfica",
+                "logo": "https://media.api-sports.io/football/teams/211.png",
+                "yearFrom": "2010",
+                "yearTo": "2014"
+            },
+            {
+                "teamName": "Atlético Madrid",
+                "logo": "https://media.api-sports.io/football/teams/530.png",
+                "yearFrom": "2014",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/757.png"
+    },
+    {
+        "id": "cp_alisson",
+        "pos": "GK",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Alisson Becker",
+            "Ederson",
+            "Kepa Arrizabalaga",
+            "André Onana"
+        ],
+        "answerIndex": 0,
+        "explanation": "Alisson's career: Internacional → Roma → Liverpool",
+        "clubs": [
+            {
+                "teamName": "Internacional",
+                "logo": "https://media.api-sports.io/football/teams/1193.png",
+                "yearFrom": "2013",
+                "yearTo": "2016"
+            },
+            {
+                "teamName": "AS Roma",
+                "logo": "https://media.api-sports.io/football/teams/497.png",
+                "yearFrom": "2016",
+                "yearTo": "2018"
+            },
+            {
+                "teamName": "Liverpool",
+                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "yearFrom": "2018",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/399.png"
+    },
+    {
+        "id": "cp_sergioramos",
+        "pos": "DF",
+        "difficulty": "easy",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Sergio Ramos",
+            "Gerard Piqué",
+            "Raphaël Varane",
+            "Pepe"
+        ],
+        "answerIndex": 0,
+        "explanation": "Ramos's career: Sevilla → Real Madrid → PSG",
+        "clubs": [
+            {
+                "teamName": "Sevilla",
+                "logo": "https://media.api-sports.io/football/teams/536.png",
+                "yearFrom": "2003",
+                "yearTo": "2005"
+            },
+            {
+                "teamName": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "yearFrom": "2005",
+                "yearTo": "2021"
+            },
+            {
+                "teamName": "Paris Saint-Germain",
+                "logo": "https://media.api-sports.io/football/teams/85.png",
+                "yearFrom": "2021",
+                "yearTo": "2023"
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/735.png"
+    },
+    {
+        "id": "cp_vandijk",
+        "pos": "DF",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Virgil van Dijk",
+            "Matthijs de Ligt",
+            "Joel Matip",
+            "Kalidou Koulibaly"
+        ],
+        "answerIndex": 0,
+        "explanation": "Van Dijk's career: Groningen → Celtic → Southampton → Liverpool",
+        "clubs": [
+            {
+                "teamName": "Groningen",
+                "logo": "https://media.api-sports.io/football/teams/200.png",
+                "yearFrom": "2010",
+                "yearTo": "2013"
+            },
+            {
+                "teamName": "Celtic",
+                "logo": "https://media.api-sports.io/football/teams/247.png",
+                "yearFrom": "2013",
+                "yearTo": "2015"
+            },
+            {
+                "teamName": "Southampton",
+                "logo": "https://media.api-sports.io/football/teams/41.png",
+                "yearFrom": "2015",
+                "yearTo": "2018"
+            },
+            {
+                "teamName": "Liverpool",
+                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "yearFrom": "2018",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/570.png"
+    },
+    {
+        "id": "cp_varane",
+        "pos": "DF",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Raphaël Varane",
+            "Samuel Umtiti",
+            "Presnel Kimpembe",
+            "Dayot Upamecano"
+        ],
+        "answerIndex": 0,
+        "explanation": "Varane's career: Lens → Real Madrid → Man United",
+        "clubs": [
+            {
+                "teamName": "RC Lens",
+                "logo": "https://media.api-sports.io/football/teams/116.png",
+                "yearFrom": "2010",
+                "yearTo": "2011"
+            },
+            {
+                "teamName": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "yearFrom": "2011",
+                "yearTo": "2021"
+            },
+            {
+                "teamName": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "yearFrom": "2021",
+                "yearTo": "2023"
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/883.png"
+    },
+    {
+        "id": "cp_alaba",
+        "pos": "DF",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "David Alaba",
+            "Jerome Boateng",
+            "Mats Hummels",
+            "Niklas Süle"
+        ],
+        "answerIndex": 0,
+        "explanation": "Alaba's career: Bayern Munich → Real Madrid",
+        "clubs": [
+            {
+                "teamName": "Bayern Munich",
+                "logo": "https://media.api-sports.io/football/teams/157.png",
+                "yearFrom": "2009",
+                "yearTo": "2021"
+            },
+            {
+                "teamName": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "yearFrom": "2021",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/521.png"
+    },
+    {
+        "id": "cp_marcelo",
+        "pos": "DF",
+        "difficulty": "easy",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Marcelo",
+            "Dani Alves",
+            "Roberto Carlos",
+            "Jordi Alba"
+        ],
+        "answerIndex": 0,
+        "explanation": "Marcelo's career: Fluminense → Real Madrid",
+        "clubs": [
+            {
+                "teamName": "Fluminense",
+                "logo": "https://media.api-sports.io/football/teams/1186.png",
+                "yearFrom": "2005",
+                "yearTo": "2006"
+            },
+            {
+                "teamName": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "yearFrom": "2007",
+                "yearTo": "2022"
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/754.png"
+    },
+    {
+        "id": "cp_kante",
+        "pos": "MF",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "N'Golo Kanté",
+            "Paul Pogba",
+            "Blaise Matuidi",
+            "Moussa Sissoko"
+        ],
+        "answerIndex": 0,
+        "explanation": "Kanté's career: Caen → Leicester → Chelsea → Al Ittihad",
+        "clubs": [
+            {
+                "teamName": "Caen",
+                "logo": "https://media.api-sports.io/football/teams/101.png",
+                "yearFrom": "2013",
+                "yearTo": "2015"
+            },
+            {
+                "teamName": "Leicester City",
+                "logo": "https://media.api-sports.io/football/teams/46.png",
+                "yearFrom": "2015",
+                "yearTo": "2016"
+            },
+            {
+                "teamName": "Chelsea",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "yearFrom": "2016",
+                "yearTo": "2023"
+            },
+            {
+                "teamName": "Al Ittihad",
+                "logo": "https://media.api-sports.io/football/teams/2934.png",
+                "yearFrom": "2023",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/874.png"
+    },
+    {
+        "id": "cp_ederson",
+        "pos": "GK",
+        "difficulty": "medium",
+        "mode": "clubpath",
+        "text": "Who is this player?",
+        "choices": [
+            "Ederson",
+            "Alisson Becker",
+            "Neto",
+            "Weverton"
+        ],
+        "answerIndex": 0,
+        "explanation": "Ederson's career: Benfica → Man City → Al Ittihad",
+        "clubs": [
+            {
+                "teamName": "Benfica",
+                "logo": "https://media.api-sports.io/football/teams/211.png",
+                "yearFrom": "2015",
+                "yearTo": "2017"
+            },
+            {
+                "teamName": "Manchester City",
+                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "yearFrom": "2017",
+                "yearTo": "2024"
+            },
+            {
+                "teamName": "Al Ittihad",
+                "logo": "https://media.api-sports.io/football/teams/2934.png",
+                "yearFrom": "2024",
+                "yearTo": null
+            }
+        ],
+        "playerPhoto": "https://media.api-sports.io/football/players/617.png"
+    },
+     {
+    "id": "cp_kepa",
+    "pos": "GK",
+    "difficulty": "hard",
+    "mode": "clubpath",
+    "text": "Who is this player?",
+    "choices": [
+      "Eberechi Eze",
+      "Kepa",
+      "Joan García",
+      "W. Szczęsny"
+    ],
+    "answerIndex": 1,
+    "explanation": "Kepa's career: Real Madrid → Chelsea → Bournemouth → Chelsea → Arsenal",
+    "clubs": [
+      {
+        "teamName": "Real Madrid",
+        "logo": "https://media.api-sports.io/football/teams/541.png",
+        "yearFrom": "2023",
+        "yearTo": "2024"
+      },
+      {
+        "teamName": "Chelsea",
+        "logo": "https://media.api-sports.io/football/teams/49.png",
+        "yearFrom": "2024",
+        "yearTo": "2024"
+      },
+      {
+        "teamName": "Bournemouth",
+        "logo": "https://media.api-sports.io/football/teams/35.png",
+        "yearFrom": "2024",
+        "yearTo": "2025"
+      },
+      {
+        "teamName": "Chelsea",
+        "logo": "https://media.api-sports.io/football/teams/49.png",
+        "yearFrom": "2025",
+        "yearTo": "2025"
+      },
+      {
+        "teamName": "Arsenal",
+        "logo": "https://media.api-sports.io/football/teams/42.png",
+        "yearFrom": "2025",
+        "yearTo": null
+      }
+    ],
+    "playerPhoto": "https://media.api-sports.io/football/players/2273.png"
+  },
+  {
+    "id": "cp_david_raya",
+    "pos": "GK",
+    "difficulty": "medium",
+    "mode": "clubpath",
+    "text": "Who is this player?",
+    "choices": [
+      "Ben White",
+      "Leon Klanac",
+      "M. Neuer",
+      "David Raya"
+    ],
+    "answerIndex": 3,
+    "explanation": "David Raya's career: Southport → Brentford → Arsenal → Brentford → Arsenal",
+    "clubs": [
+      {
+        "teamName": "Southport",
+        "logo": "https://media.api-sports.io/football/teams/1826.png",
+        "yearFrom": "2014",
+        "yearTo": "2019"
+      },
+      {
+        "teamName": "Brentford",
+        "logo": "https://media.api-sports.io/football/teams/55.png",
+        "yearFrom": "2019",
+        "yearTo": "2023"
+      },
+      {
+        "teamName": "Arsenal",
+        "logo": "https://media.api-sports.io/football/teams/42.png",
+        "yearFrom": "2023",
+        "yearTo": "2024"
+      },
+      {
+        "teamName": "Brentford",
+        "logo": "https://media.api-sports.io/football/teams/55.png",
+        "yearFrom": "2024",
+        "yearTo": "2024"
+      },
+      {
+        "teamName": "Arsenal",
+        "logo": "https://media.api-sports.io/football/teams/42.png",
+        "yearFrom": "2024",
+        "yearTo": null
+      }
+    ],
+    "playerPhoto": "https://media.api-sports.io/football/players/19465.png"
+  },
+  {
+    "id": "cp_r_calafiori",
+    "pos": "DEF",
+    "difficulty": "hard",
+    "mode": "clubpath",
+    "text": "Who is this player?",
+    "choices": [
+      "R. Calafiori",
+      "Cristhian Mosquera",
+      "A. Christensen",
+      "Gabriel Magalhães"
+    ],
+    "answerIndex": 0,
+    "explanation": "R. Calafiori's career: Genoa → AS Roma → FC Basel 1893 → Bologna → Arsenal",
+    "clubs": [
+      {
+        "teamName": "Genoa",
+        "logo": "https://media.api-sports.io/football/teams/495.png",
+        "yearFrom": "2022",
+        "yearTo": "2022"
+      },
+      {
+        "teamName": "AS Roma",
+        "logo": "https://media.api-sports.io/football/teams/497.png",
+        "yearFrom": "2022",
+        "yearTo": "2022"
+      },
+      {
+        "teamName": "FC Basel 1893",
+        "logo": "https://media.api-sports.io/football/teams/551.png",
+        "yearFrom": "2022",
+        "yearTo": "2023"
+      },
+      {
+        "teamName": "Bologna",
+        "logo": "https://media.api-sports.io/football/teams/500.png",
+        "yearFrom": "2023",
+        "yearTo": "2024"
+      },
+      {
+        "teamName": "Arsenal",
+        "logo": "https://media.api-sports.io/football/teams/42.png",
+        "yearFrom": "2024",
+        "yearTo": null
+      }
+    ],
+    "playerPhoto": "https://media.api-sports.io/football/players/157052.png"
+  },
+  {
+    "id": "cp_gabriel_magalhaes",
+    "pos": "DEF",
+    "difficulty": "medium",
+    "mode": "clubpath",
+    "text": "Who is this player?",
+    "choices": [
+      "Eric García",
+      "Gabriel Martinelli",
+      "P. Hincapié",
+      "Gabriel Magalhães"
+    ],
+    "answerIndex": 3,
+    "explanation": "Gabriel Magalhães's career: Estac Troyes → Dinamo Zagreb → Lille → Arsenal",
+    "clubs": [
+      {
+        "teamName": "Estac Troyes",
+        "logo": "https://media.api-sports.io/football/teams/110.png",
+        "yearFrom": "2017",
+        "yearTo": "2018"
+      },
+      {
+        "teamName": "Dinamo Zagreb",
+        "logo": "https://media.api-sports.io/football/teams/620.png",
+        "yearFrom": "2018",
+        "yearTo": "2018"
+      },
+      {
+        "teamName": "Lille",
+        "logo": "https://media.api-sports.io/football/teams/79.png",
+        "yearFrom": "2018",
+        "yearTo": "2020"
+      },
+      {
+        "teamName": "Arsenal",
+        "logo": "https://media.api-sports.io/football/teams/42.png",
+        "yearFrom": "2020",
+        "yearTo": null
+      }
+    ],
+    "playerPhoto": "https://media.api-sports.io/football/players/22224.png"
+  },
+  {
+    "id": "cp_p_hincapie",
+    "pos": "DEF",
+    "difficulty": "easy",
+    "mode": "clubpath",
+    "text": "Who is this player?",
+    "choices": [
+      "Pau Cubarsí Paredes",
+      "P. Hincapié",
+      "R. Araújo",
+      "J. Onstein"
+    ],
+    "answerIndex": 1,
+    "explanation": "P. Hincapié's career: Talleres Cordoba → Bayer Leverkusen → Arsenal",
+    "clubs": [
+      {
+        "teamName": "Talleres Cordoba",
+        "logo": "https://media.api-sports.io/football/teams/456.png",
+        "yearFrom": "2020",
+        "yearTo": "2021"
+      },
+      {
+        "teamName": "Bayer Leverkusen",
+        "logo": "https://media.api-sports.io/football/teams/168.png",
+        "yearFrom": "2021",
+        "yearTo": "2025"
+      },
+      {
+        "teamName": "Arsenal",
+        "logo": "https://media.api-sports.io/football/teams/42.png",
+        "yearFrom": "2025",
+        "yearTo": null
+      }
+    ],
+    "playerPhoto": "https://media.api-sports.io/football/players/127817.png"
+  }
+]

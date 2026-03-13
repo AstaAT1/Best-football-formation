@@ -347,9 +347,64 @@ export default function RoundScreen({
                 {/* Question Area */}
                 {(phase === "answering" || phase === "result_swap") && (
                     <div className="mx-auto mt-2 flex w-full max-w-2xl flex-col items-center gap-6">
-                        <div className="w-full rounded-2xl border border-white/10 bg-[#0b1018]/80 p-5 shadow-xl backdrop-blur-md sm:p-6">
-                            <h2 className="text-center text-lg font-bold leading-relaxed text-white sm:text-xl">{getTranslatedQuestion(question).text}</h2>
-                        </div>
+                        {/* Club Path UI or Text Question */}
+                        {question.clubs && question.clubs.length > 0 ? (
+                            <>
+                                <div className="w-full rounded-2xl border border-white/10 bg-[#0b1018]/80 p-5 shadow-xl backdrop-blur-md text-center">
+                                    <h2 className="text-lg font-bold leading-relaxed text-white sm:text-xl">
+                                        {t("whoIsThisPlayer") || "Who is this player?"}
+                                    </h2>
+                                    <p className="mt-1 text-sm text-white/50">
+                                        {t("clubPathHint") || "Identify the player from their club career path"}
+                                    </p>
+                                </div>
+                                <div className="w-full rounded-2xl border border-white/10 bg-[#0b1018]/60 p-4 sm:p-6 shadow-xl backdrop-blur-md">
+                                    <div className="flex flex-wrap items-center justify-center gap-2 sm:gap-3">
+                                        {question.clubs.map((club, idx) => (
+                                            <div key={idx} className="flex items-center gap-2 sm:gap-3">
+                                                <div className="flex flex-col items-center gap-1.5 rounded-xl border border-white/10 bg-white/[0.03] p-2.5 sm:p-3 min-w-[72px] sm:min-w-[100px] transition-all hover:bg-white/[0.06] hover:border-white/20">
+                                                    <div className="relative h-10 w-10 sm:h-14 sm:w-14 flex items-center justify-center">
+                                                        <img
+                                                            src={club.logo}
+                                                            alt={club.teamName}
+                                                            className="h-full w-full object-contain drop-shadow-lg"
+                                                            onError={(e) => {
+                                                                e.target.style.display = "none";
+                                                                if (e.target.nextSibling) e.target.nextSibling.style.display = "flex";
+                                                            }}
+                                                        />
+                                                        <div className="hidden absolute inset-0 items-center justify-center rounded-lg bg-white/10 text-[9px] sm:text-[10px] font-bold text-white/70 text-center p-1">
+                                                            {club.teamName}
+                                                        </div>
+                                                    </div>
+                                                    <span className="text-[10px] sm:text-xs font-semibold text-white/80 text-center leading-tight max-w-[72px] sm:max-w-[100px] truncate">
+                                                        {club.teamName}
+                                                    </span>
+                                                    <span className="text-[9px] sm:text-[10px] text-white/40 font-mono">
+                                                        {club.yearFrom || "?"}{club.yearTo ? `–${club.yearTo}` : "–"}
+                                                    </span>
+                                                </div>
+                                                {idx < question.clubs.length - 1 && (
+                                                    <svg
+                                                        width="20" height="20" viewBox="0 0 24 24"
+                                                        fill="none" stroke="currentColor" strokeWidth="2.5"
+                                                        strokeLinecap="round" strokeLinejoin="round"
+                                                        className="text-white/30 shrink-0"
+                                                    >
+                                                        <path d="M5 12h14" />
+                                                        <path d="m12 5 7 7-7 7" />
+                                                    </svg>
+                                                )}
+                                            </div>
+                                        ))}
+                                    </div>
+                                </div>
+                            </>
+                        ) : (
+                            <div className="w-full rounded-2xl border border-white/10 bg-[#0b1018]/80 p-5 shadow-xl backdrop-blur-md sm:p-6">
+                                <h2 className="text-center text-lg font-bold leading-relaxed text-white sm:text-xl">{getTranslatedQuestion(question).text}</h2>
+                            </div>
+                        )}
                         <div className="grid w-full grid-cols-1 gap-3 sm:grid-cols-2">
                             {getTranslatedQuestion(question).shuffledChoices.map((choice, idx) => (
                                 <button

@@ -1,0 +1,3044 @@
+[
+  {
+    "id": 2273,
+    "name": "Kepa",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "Kepa",
+      "Kepa"
+    ]
+  },
+  {
+    "id": 416697,
+    "name": "J. Porter",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "J. Porter",
+      "Porter"
+    ]
+  },
+  {
+    "id": 19465,
+    "name": "David Raya",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "David Raya",
+      "Raya"
+    ]
+  },
+  {
+    "id": 337933,
+    "name": "Alexei Rojas Fedorushchenko",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "Alexei Rojas Fedorushchenko",
+      "Fedorushchenko"
+    ]
+  },
+  {
+    "id": 342243,
+    "name": "T. Setford",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "T. Setford",
+      "Setford"
+    ]
+  },
+  {
+    "id": 157052,
+    "name": "R. Calafiori",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "R. Calafiori",
+      "Calafiori"
+    ]
+  },
+  {
+    "id": 22224,
+    "name": "Gabriel Magalhães",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Gabriel Magalhães",
+      "Magalhães"
+    ]
+  },
+  {
+    "id": 127817,
+    "name": "P. Hincapié",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "P. Hincapié",
+      "Hincapié"
+    ]
+  },
+  {
+    "id": 313245,
+    "name": "M. Lewis-Skelly",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "M. Lewis-Skelly",
+      "Lewis-Skelly"
+    ]
+  },
+  {
+    "id": 333682,
+    "name": "Cristhian Mosquera",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Cristhian Mosquera",
+      "Mosquera"
+    ]
+  },
+  {
+    "id": 380696,
+    "name": "Joshua Nichols",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Joshua Nichols",
+      "Nichols"
+    ]
+  },
+  {
+    "id": 22090,
+    "name": "W. Saliba",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "W. Saliba",
+      "Saliba"
+    ]
+  },
+  {
+    "id": 482903,
+    "name": "M. Salmon",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "M. Salmon",
+      "Salmon"
+    ]
+  },
+  {
+    "id": 38746,
+    "name": "J. Timber",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "J. Timber",
+      "Timber"
+    ]
+  },
+  {
+    "id": 19959,
+    "name": "B. White",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "B. White",
+      "White"
+    ]
+  },
+  {
+    "id": 442044,
+    "name": "M. Dowman",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "M. Dowman",
+      "Dowman"
+    ]
+  },
+  {
+    "id": 19586,
+    "name": "E. Eze",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "E. Eze",
+      "Eze"
+    ]
+  },
+  {
+    "id": 553530,
+    "name": "I. Ibrahim",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "I. Ibrahim",
+      "Ibrahim"
+    ]
+  },
+  {
+    "id": 47311,
+    "name": "Mikel Merino",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Mikel Merino",
+      "Merino"
+    ]
+  },
+  {
+    "id": 30407,
+    "name": "C. Nørgaard",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "C. Nørgaard",
+      "Nørgaard"
+    ]
+  },
+  {
+    "id": 37127,
+    "name": "M. Ødegaard",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "M. Ødegaard",
+      "Ødegaard"
+    ]
+  },
+  {
+    "id": 2937,
+    "name": "D. Rice",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "D. Rice",
+      "Rice"
+    ]
+  },
+  {
+    "id": 47315,
+    "name": "Martín Zubimendi",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Martín Zubimendi",
+      "Zubimendi"
+    ]
+  },
+  {
+    "id": 463908,
+    "name": "B. Bailey-Joseph",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "B. Bailey-Joseph",
+      "Bailey-Joseph"
+    ]
+  },
+  {
+    "id": 643,
+    "name": "Gabriel Jesus",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Gabriel Jesus",
+      "Jesus"
+    ]
+  },
+  {
+    "id": 18979,
+    "name": "V. Gyökeres",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "V. Gyökeres",
+      "Gyökeres"
+    ]
+  },
+  {
+    "id": 457731,
+    "name": "A. Annous",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "A. Annous",
+      "Annous"
+    ]
+  },
+  {
+    "id": 978,
+    "name": "K. Havertz",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "K. Havertz",
+      "Havertz"
+    ]
+  },
+  {
+    "id": 136723,
+    "name": "N. Madueke",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "N. Madueke",
+      "Madueke"
+    ]
+  },
+  {
+    "id": 127769,
+    "name": "Gabriel Martinelli",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Gabriel Martinelli",
+      "Martinelli"
+    ]
+  },
+  {
+    "id": 557442,
+    "name": "C. O'Neill",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "C. O'Neill",
+      "O'Neill"
+    ]
+  },
+  {
+    "id": 1460,
+    "name": "B. Saka",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "B. Saka",
+      "Saka"
+    ]
+  },
+  {
+    "id": 1946,
+    "name": "L. Trossard",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "L. Trossard",
+      "Trossard"
+    ]
+  },
+  {
+    "id": 543468,
+    "name": "Eder Aller",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "Eder Aller",
+      "Aller"
+    ]
+  },
+  {
+    "id": 182718,
+    "name": "Joan García",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "Joan García",
+      "García"
+    ]
+  },
+  {
+    "id": 383647,
+    "name": "D. Kochen",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "D. Kochen",
+      "Kochen"
+    ]
+  },
+  {
+    "id": 851,
+    "name": "W. Szczęsny",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "W. Szczęsny",
+      "Szczęsny"
+    ]
+  },
+  {
+    "id": 101814,
+    "name": "R. Araújo",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "R. Araújo",
+      "Araújo"
+    ]
+  },
+  {
+    "id": 161928,
+    "name": "Alejandro Balde",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Alejandro Balde",
+      "Balde"
+    ]
+  },
+  {
+    "id": 855,
+    "name": "João Cancelo",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "João Cancelo",
+      "Cancelo"
+    ]
+  },
+  {
+    "id": 2282,
+    "name": "A. Christensen",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "A. Christensen",
+      "Christensen"
+    ]
+  },
+  {
+    "id": 433395,
+    "name": "Álvaro Cortés Moyano",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Álvaro Cortés Moyano",
+      "Moyano"
+    ]
+  },
+  {
+    "id": 396623,
+    "name": "Pau Cubarsí Paredes",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Pau Cubarsí Paredes",
+      "Paredes"
+    ]
+  },
+  {
+    "id": 568001,
+    "name": "X. Espart",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "X. Espart",
+      "Espart"
+    ]
+  },
+  {
+    "id": 619,
+    "name": "Eric García",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Eric García",
+      "García"
+    ]
+  },
+  {
+    "id": 1257,
+    "name": "J. Koundé",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "J. Koundé",
+      "Koundé"
+    ]
+  },
+  {
+    "id": 181701,
+    "name": "Gerard Martín",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Gerard Martín",
+      "Martín"
+    ]
+  },
+  {
+    "id": 457214,
+    "name": "J. Onstein",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "J. Onstein",
+      "Onstein"
+    ]
+  },
+  {
+    "id": 414433,
+    "name": "P. PacÃ­fico",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "P. PacÃ­fico",
+      "PacÃ­fico"
+    ]
+  },
+  {
+    "id": 491250,
+    "name": "Jofre Torrents",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Jofre Torrents",
+      "Torrents"
+    ]
+  },
+  {
+    "id": 433396,
+    "name": "Marc Bernal",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Marc Bernal",
+      "Bernal"
+    ]
+  },
+  {
+    "id": 329728,
+    "name": "Marc Casadó",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Marc Casadó",
+      "Casadó"
+    ]
+  },
+  {
+    "id": 340626,
+    "name": "Fermín",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Fermín",
+      "Fermín"
+    ]
+  },
+  {
+    "id": 491086,
+    "name": "Tomás Marqués",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Tomás Marqués",
+      "Marqués"
+    ]
+  },
+  {
+    "id": 1323,
+    "name": "Dani Olmo",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Dani Olmo",
+      "Olmo"
+    ]
+  },
+  {
+    "id": 133609,
+    "name": "Pedri",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Pedri",
+      "Pedri"
+    ]
+  },
+  {
+    "id": 538,
+    "name": "F. de Jong",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "F. de Jong",
+      "Jong"
+    ]
+  },
+  {
+    "id": 338958,
+    "name": "R. Bardghji",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "R. Bardghji",
+      "Bardghji"
+    ]
+  },
+  {
+    "id": 445973,
+    "name": "Toni Fernández",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Toni Fernández",
+      "Fernández"
+    ]
+  },
+  {
+    "id": 579244,
+    "name": "Juan Hernández",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Juan Hernández",
+      "Hernández"
+    ]
+  },
+  {
+    "id": 386828,
+    "name": "Lamine Yamal",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Lamine Yamal",
+      "Yamal"
+    ]
+  },
+  {
+    "id": 521,
+    "name": "R. Lewandowski",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "R. Lewandowski",
+      "Lewandowski"
+    ]
+  },
+  {
+    "id": 1496,
+    "name": "Raphinha",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Raphinha",
+      "Raphinha"
+    ]
+  },
+  {
+    "id": 909,
+    "name": "M. Rashford",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "M. Rashford",
+      "Rashford"
+    ]
+  },
+  {
+    "id": 931,
+    "name": "Ferran Torres",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Ferran Torres",
+      "Torres"
+    ]
+  },
+  {
+    "id": 432595,
+    "name": "Jannis Bärtl",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "Jannis Bärtl",
+      "Bärtl"
+    ]
+  },
+  {
+    "id": 435089,
+    "name": "Leon Klanac",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "Leon Klanac",
+      "Klanac"
+    ]
+  },
+  {
+    "id": 497,
+    "name": "M. Neuer",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "M. Neuer",
+      "Neuer"
+    ]
+  },
+  {
+    "id": 498,
+    "name": "S. Ulreich",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "S. Ulreich",
+      "Ulreich"
+    ]
+  },
+  {
+    "id": 203376,
+    "name": "J. Urbig",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "J. Urbig",
+      "Urbig"
+    ]
+  },
+  {
+    "id": 509,
+    "name": "A. Davies",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "A. Davies",
+      "Davies"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Raphaël Guerreiro",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Raphaël Guerreiro",
+      "Guerreiro"
+    ]
+  },
+  {
+    "id": 32893,
+    "name": "H. Ito",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "H. Ito",
+      "Ito"
+    ]
+  },
+  {
+    "id": 524214,
+    "name": "Cassiano Kiala",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Cassiano Kiala",
+      "Kiala"
+    ]
+  },
+  {
+    "id": 2897,
+    "name": "Kim Min-Jae",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Kim Min-Jae",
+      "Min-Jae"
+    ]
+  },
+  {
+    "id": 610483,
+    "name": "V. Manuba",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "V. Manuba",
+      "Manuba"
+    ]
+  },
+  {
+    "id": 125171,
+    "name": "J. Stanišić",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "J. Stanišić",
+      "Stanišić"
+    ]
+  },
+  {
+    "id": 972,
+    "name": "J. Tah",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "J. Tah",
+      "Tah"
+    ]
+  },
+  {
+    "id": 1149,
+    "name": "D. Upamecano",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "D. Upamecano",
+      "Upamecano"
+    ]
+  },
+  {
+    "id": 325975,
+    "name": "T. Bischof",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "T. Bischof",
+      "Bischof"
+    ]
+  },
+  {
+    "id": 568042,
+    "name": "M. Cardozo",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "M. Cardozo",
+      "Cardozo"
+    ]
+  },
+  {
+    "id": 449689,
+    "name": "David Daiber",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "David Daiber",
+      "Daiber"
+    ]
+  },
+  {
+    "id": 511,
+    "name": "L. Goretzka",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "L. Goretzka",
+      "Goretzka"
+    ]
+  },
+  {
+    "id": 494131,
+    "name": "L. Karl",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "L. Karl",
+      "Karl"
+    ]
+  },
+  {
+    "id": 502,
+    "name": "J. Kimmich",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "J. Kimmich",
+      "Kimmich"
+    ]
+  },
+  {
+    "id": 1157,
+    "name": "K. Laimer",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "K. Laimer",
+      "Laimer"
+    ]
+  },
+  {
+    "id": 496738,
+    "name": "W. Mike",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "W. Mike",
+      "Mike"
+    ]
+  },
+  {
+    "id": 181812,
+    "name": "J. Musiala",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "J. Musiala",
+      "Musiala"
+    ]
+  },
+  {
+    "id": 630895,
+    "name": "Bara Ndiaye",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Bara Ndiaye",
+      "Ndiaye"
+    ]
+  },
+  {
+    "id": 19617,
+    "name": "M. Olise",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "M. Olise",
+      "Olise"
+    ]
+  },
+  {
+    "id": 328033,
+    "name": "A. Pavlović",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "A. Pavlović",
+      "Pavlović"
+    ]
+  },
+  {
+    "id": 2489,
+    "name": "L. Díaz",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "L. Díaz",
+      "Díaz"
+    ]
+  },
+  {
+    "id": 510,
+    "name": "S. Gnabry",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "S. Gnabry",
+      "Gnabry"
+    ]
+  },
+  {
+    "id": 283058,
+    "name": "N. Jackson",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "N. Jackson",
+      "Jackson"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "H. Kane",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "H. Kane",
+      "Kane"
+    ]
+  },
+  {
+    "id": 286616,
+    "name": "F. Jörgensen",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "F. Jörgensen",
+      "Jörgensen"
+    ]
+  },
+  {
+    "id": 287868,
+    "name": "Max Merrick",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "Max Merrick",
+      "Merrick"
+    ]
+  },
+  {
+    "id": 18959,
+    "name": "Robert Sánchez",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "Robert Sánchez",
+      "Sánchez"
+    ]
+  },
+  {
+    "id": 180940,
+    "name": "T. Sharman-Lowe",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "T. Sharman-Lowe",
+      "Sharman-Lowe"
+    ]
+  },
+  {
+    "id": 64167,
+    "name": "G. Słonina",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "G. Słonina",
+      "Słonina"
+    ]
+  },
+  {
+    "id": 366735,
+    "name": "Joshua Kofi Acheampong",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Joshua Kofi Acheampong",
+      "Acheampong"
+    ]
+  },
+  {
+    "id": 19145,
+    "name": "T. Adarabioyo",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "T. Adarabioyo",
+      "Adarabioyo"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "B. Badiashile",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "B. Badiashile",
+      "Badiashile"
+    ]
+  },
+  {
+    "id": 19720,
+    "name": "T. Chalobah",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "T. Chalobah",
+      "Chalobah"
+    ]
+  },
+  {
+    "id": 47380,
+    "name": "Marc Cucurella",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Marc Cucurella",
+      "Cucurella"
+    ]
+  },
+  {
+    "id": 22094,
+    "name": "W. Fofana",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "W. Fofana",
+      "Fofana"
+    ]
+  },
+  {
+    "id": 161907,
+    "name": "M. Gusto",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "M. Gusto",
+      "Gusto"
+    ]
+  },
+  {
+    "id": 341642,
+    "name": "J. Hato",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "J. Hato",
+      "Hato"
+    ]
+  },
+  {
+    "id": 19545,
+    "name": "R. James",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "R. James",
+      "James"
+    ]
+  },
+  {
+    "id": 276184,
+    "name": "M. Sarr",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "M. Sarr",
+      "Sarr"
+    ]
+  },
+  {
+    "id": 305834,
+    "name": "Andrey Santos",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Andrey Santos",
+      "Santos"
+    ]
+  },
+  {
+    "id": 116117,
+    "name": "M. Caicedo",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "M. Caicedo",
+      "Caicedo"
+    ]
+  },
+  {
+    "id": 417653,
+    "name": "J. Derry",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "J. Derry",
+      "Derry"
+    ]
+  },
+  {
+    "id": 308678,
+    "name": "Dário Essugo",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Dário Essugo",
+      "Essugo"
+    ]
+  },
+  {
+    "id": 5996,
+    "name": "E. Fernández",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "E. Fernández",
+      "Fernández"
+    ]
+  },
+  {
+    "id": 394167,
+    "name": "O. Harrison",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "O. Harrison",
+      "Harrison"
+    ]
+  },
+  {
+    "id": 610563,
+    "name": "C. Holland",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "C. Holland",
+      "Holland"
+    ]
+  },
+  {
+    "id": 282125,
+    "name": "R. Lavia",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "R. Lavia",
+      "Lavia"
+    ]
+  },
+  {
+    "id": 152982,
+    "name": "C. Palmer",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "C. Palmer",
+      "Palmer"
+    ]
+  },
+  {
+    "id": 482888,
+    "name": "R. Walsh",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "R. Walsh",
+      "Walsh"
+    ]
+  },
+  {
+    "id": 161948,
+    "name": "L. Delap",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "L. Delap",
+      "Delap"
+    ]
+  },
+  {
+    "id": 425733,
+    "name": "Estêvão",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Estêvão",
+      "Estêvão"
+    ]
+  },
+  {
+    "id": 284324,
+    "name": "A. Garnacho",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "A. Garnacho",
+      "Garnacho"
+    ]
+  },
+  {
+    "id": 286894,
+    "name": "J. Bynoe-Gittens",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "J. Bynoe-Gittens",
+      "Bynoe-Gittens"
+    ]
+  },
+  {
+    "id": 392270,
+    "name": "Marc Guiu",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Marc Guiu",
+      "Guiu"
+    ]
+  },
+  {
+    "id": 10329,
+    "name": "João Pedro",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "João Pedro",
+      "Pedro"
+    ]
+  },
+  {
+    "id": 359117,
+    "name": "Shumaira Mheuka",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Shumaira Mheuka",
+      "Mheuka"
+    ]
+  },
+  {
+    "id": 1864,
+    "name": "Pedro Neto",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Pedro Neto",
+      "Neto"
+    ]
+  },
+  {
+    "id": 336707,
+    "name": "A. Calligaris",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "A. Calligaris",
+      "Calligaris"
+    ]
+  },
+  {
+    "id": 91488,
+    "name": "R. Di Gennaro",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "R. Di Gennaro",
+      "Gennaro"
+    ]
+  },
+  {
+    "id": 46988,
+    "name": "Josep Martínez",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "Josep Martínez",
+      "Martínez"
+    ]
+  },
+  {
+    "id": 2802,
+    "name": "Y. Sommer",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "Y. Sommer",
+      "Sommer"
+    ]
+  },
+  {
+    "id": 449683,
+    "name": "A. Taho",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "A. Taho",
+      "Taho"
+    ]
+  },
+  {
+    "id": 1836,
+    "name": "F. Acerbi",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "F. Acerbi",
+      "Acerbi"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "M. Akanji",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "M. Akanji",
+      "Akanji"
+    ]
+  },
+  {
+    "id": 343345,
+    "name": "C. Alexiou",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "C. Alexiou",
+      "Alexiou"
+    ]
+  },
+  {
+    "id": 558546,
+    "name": "I. Amerighi",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "I. Amerighi",
+      "Amerighi"
+    ]
+  },
+  {
+    "id": 31009,
+    "name": "A. Bastoni",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "A. Bastoni",
+      "Bastoni"
+    ]
+  },
+  {
+    "id": 24953,
+    "name": "Y. Bisseck",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Y. Bisseck",
+      "Bisseck"
+    ]
+  },
+  {
+    "id": 563846,
+    "name": "S. Cinquegrano",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "S. Cinquegrano",
+      "Cinquegrano"
+    ]
+  },
+  {
+    "id": 392493,
+    "name": "M. Cocchi",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "M. Cocchi",
+      "Cocchi"
+    ]
+  },
+  {
+    "id": 887,
+    "name": "M. Darmian",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "M. Darmian",
+      "Darmian"
+    ]
+  },
+  {
+    "id": 31010,
+    "name": "F. Dimarco",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "F. Dimarco",
+      "Dimarco"
+    ]
+  },
+  {
+    "id": 226,
+    "name": "D. Dumfries",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "D. Dumfries",
+      "Dumfries"
+    ]
+  },
+  {
+    "id": 563858,
+    "name": "Y. Maye",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Y. Maye",
+      "Maye"
+    ]
+  },
+  {
+    "id": 562570,
+    "name": "F. Stante",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "F. Stante",
+      "Stante"
+    ]
+  },
+  {
+    "id": 194,
+    "name": "S. de Vrij",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "S. de Vrij",
+      "Vrij"
+    ]
+  },
+  {
+    "id": 30558,
+    "name": "N. Barella",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "N. Barella",
+      "Barella"
+    ]
+  },
+  {
+    "id": 395849,
+    "name": "Thomas Berenbruch",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Thomas Berenbruch",
+      "Berenbruch"
+    ]
+  },
+  {
+    "id": 562597,
+    "name": "L. Bovo",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "L. Bovo",
+      "Bovo"
+    ]
+  },
+  {
+    "id": 1640,
+    "name": "H. Çalhanoğlu",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "H. Çalhanoğlu",
+      "Çalhanoğlu"
+    ]
+  },
+  {
+    "id": 10238,
+    "name": "Carlos Augusto",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Carlos Augusto",
+      "Augusto"
+    ]
+  },
+  {
+    "id": 270509,
+    "name": "A. Diouf",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "A. Diouf",
+      "Diouf"
+    ]
+  },
+  {
+    "id": 31173,
+    "name": "D. Frattesi",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "D. Frattesi",
+      "Frattesi"
+    ]
+  },
+  {
+    "id": 161831,
+    "name": "Iwo Kaczmarski",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Iwo Kaczmarski",
+      "Kaczmarski"
+    ]
+  },
+  {
+    "id": 383000,
+    "name": "I. Kamate",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "I. Kamate",
+      "Kamate"
+    ]
+  },
+  {
+    "id": 1457,
+    "name": "H. Mkhitaryan",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "H. Mkhitaryan",
+      "Mkhitaryan"
+    ]
+  },
+  {
+    "id": 348205,
+    "name": "P. Sučić",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "P. Sučić",
+      "Sučić"
+    ]
+  },
+  {
+    "id": 367878,
+    "name": "L. Topalović",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "L. Topalović",
+      "Topalović"
+    ]
+  },
+  {
+    "id": 329,
+    "name": "P. Zieliński",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "P. Zieliński",
+      "Zieliński"
+    ]
+  },
+  {
+    "id": 275651,
+    "name": "A. Bonny",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "A. Bonny",
+      "Bonny"
+    ]
+  },
+  {
+    "id": 345808,
+    "name": "F. Esposito",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "F. Esposito",
+      "Esposito"
+    ]
+  },
+  {
+    "id": 461830,
+    "name": "M. Lavelli",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "M. Lavelli",
+      "Lavelli"
+    ]
+  },
+  {
+    "id": 10077,
+    "name": "Luis Henrique",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Luis Henrique",
+      "Henrique"
+    ]
+  },
+  {
+    "id": 217,
+    "name": "Lautaro Martínez",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Lautaro Martínez",
+      "Martínez"
+    ]
+  },
+  {
+    "id": 437678,
+    "name": "M. Mosconi",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "M. Mosconi",
+      "Mosconi"
+    ]
+  },
+  {
+    "id": 436238,
+    "name": "M. Spinaccè",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "M. Spinaccè",
+      "Spinaccè"
+    ]
+  },
+  {
+    "id": 21509,
+    "name": "M. Thuram",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "M. Thuram",
+      "Thuram"
+    ]
+  },
+  {
+    "id": 280,
+    "name": "Alisson Becker",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "Alisson Becker",
+      "Becker"
+    ]
+  },
+  {
+    "id": 24760,
+    "name": "G. Mamardashvili",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "G. Mamardashvili",
+      "Mamardashvili"
+    ]
+  },
+  {
+    "id": 415992,
+    "name": "K. Miściur",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "K. Miściur",
+      "Miściur"
+    ]
+  },
+  {
+    "id": 342467,
+    "name": "Á. Pécsi",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "Á. Pécsi",
+      "Pécsi"
+    ]
+  },
+  {
+    "id": 18889,
+    "name": "F. Woodman",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "F. Woodman",
+      "Woodman"
+    ]
+  },
+  {
+    "id": 180317,
+    "name": "C. Bradley",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "C. Bradley",
+      "Bradley"
+    ]
+  },
+  {
+    "id": 284,
+    "name": "J. Gomez",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "J. Gomez",
+      "Gomez"
+    ]
+  },
+  {
+    "id": 206254,
+    "name": "M. Kerkez",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "M. Kerkez",
+      "Kerkez"
+    ]
+  },
+  {
+    "id": 1145,
+    "name": "I. Konaté",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "I. Konaté",
+      "Konaté"
+    ]
+  },
+  {
+    "id": 409047,
+    "name": "G. Leoni",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "G. Leoni",
+      "Leoni"
+    ]
+  },
+  {
+    "id": 328081,
+    "name": "W. Omoruyi",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "W. Omoruyi",
+      "Omoruyi"
+    ]
+  },
+  {
+    "id": 380666,
+    "name": "C. Pinnington",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "C. Pinnington",
+      "Pinnington"
+    ]
+  },
+  {
+    "id": 135525,
+    "name": "C. Ramsay",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "C. Ramsay",
+      "Ramsay"
+    ]
+  },
+  {
+    "id": 289,
+    "name": "A. Robertson",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "A. Robertson",
+      "Robertson"
+    ]
+  },
+  {
+    "id": 162904,
+    "name": "R. Williams",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "R. Williams",
+      "Williams"
+    ]
+  },
+  {
+    "id": 290,
+    "name": "V. van Dijk",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "V. van Dijk",
+      "Dijk"
+    ]
+  },
+  {
+    "id": 8500,
+    "name": "W. Endo",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "W. Endo",
+      "Endo"
+    ]
+  },
+  {
+    "id": 152654,
+    "name": "J. Frimpong",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "J. Frimpong",
+      "Frimpong"
+    ]
+  },
+  {
+    "id": 542,
+    "name": "R. Gravenberch",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "R. Gravenberch",
+      "Gravenberch"
+    ]
+  },
+  {
+    "id": 293,
+    "name": "C. Jones",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "C. Jones",
+      "Jones"
+    ]
+  },
+  {
+    "id": 339205,
+    "name": "M. Laffey",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "M. Laffey",
+      "Laffey"
+    ]
+  },
+  {
+    "id": 6716,
+    "name": "A. Mac Allister",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "A. Mac Allister",
+      "Allister"
+    ]
+  },
+  {
+    "id": 389032,
+    "name": "K. Morrison",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "K. Morrison",
+      "Morrison"
+    ]
+  },
+  {
+    "id": 407032,
+    "name": "A. Nallo",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "A. Nallo",
+      "Nallo"
+    ]
+  },
+  {
+    "id": 397997,
+    "name": "T. Nyoni",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "T. Nyoni",
+      "Nyoni"
+    ]
+  },
+  {
+    "id": 301286,
+    "name": "Tommy Pilling",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Tommy Pilling",
+      "Pilling"
+    ]
+  },
+  {
+    "id": 1096,
+    "name": "D. Szoboszlai",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "D. Szoboszlai",
+      "Szoboszlai"
+    ]
+  },
+  {
+    "id": 203224,
+    "name": "F. Wirtz",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "F. Wirtz",
+      "Wirtz"
+    ]
+  },
+  {
+    "id": 30410,
+    "name": "F. Chiesa",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "F. Chiesa",
+      "Chiesa"
+    ]
+  },
+  {
+    "id": 314661,
+    "name": "J. Danns",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "J. Danns",
+      "Danns"
+    ]
+  },
+  {
+    "id": 174565,
+    "name": "H. Ekitike",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "H. Ekitike",
+      "Ekitike"
+    ]
+  },
+  {
+    "id": 344223,
+    "name": "K. Figueroa",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "K. Figueroa",
+      "Figueroa"
+    ]
+  },
+  {
+    "id": 247,
+    "name": "C. Gakpo",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "C. Gakpo",
+      "Gakpo"
+    ]
+  },
+  {
+    "id": 286764,
+    "name": "Kaide Gordon",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Kaide Gordon",
+      "Gordon"
+    ]
+  },
+  {
+    "id": 2864,
+    "name": "A. Isak",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "A. Isak",
+      "Isak"
+    ]
+  },
+  {
+    "id": 452685,
+    "name": "R. Ngumoha",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "R. Ngumoha",
+      "Ngumoha"
+    ]
+  },
+  {
+    "id": 306,
+    "name": "Mohamed Salah",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Mohamed Salah",
+      "Salah"
+    ]
+  },
+  {
+    "id": 19012,
+    "name": "M. Bettinelli",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "M. Bettinelli",
+      "Bettinelli"
+    ]
+  },
+  {
+    "id": 1622,
+    "name": "G. Donnarumma",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "G. Donnarumma",
+      "Donnarumma"
+    ]
+  },
+  {
+    "id": 162489,
+    "name": "J. Trafford",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "J. Trafford",
+      "Trafford"
+    ]
+  },
+  {
+    "id": 21138,
+    "name": "R. Aït-Nouri",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "R. Aït-Nouri",
+      "Aït-Nouri"
+    ]
+  },
+  {
+    "id": 18861,
+    "name": "N. Aké",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "N. Aké",
+      "Aké"
+    ]
+  },
+  {
+    "id": 293168,
+    "name": "Max Alleyne",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Max Alleyne",
+      "Alleyne"
+    ]
+  },
+  {
+    "id": 451583,
+    "name": "K. Braithwaite",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "K. Braithwaite",
+      "Braithwaite"
+    ]
+  },
+  {
+    "id": 567,
+    "name": "Rúben Dias",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Rúben Dias",
+      "Dias"
+    ]
+  },
+  {
+    "id": 67971,
+    "name": "M. Guéhi",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "M. Guéhi",
+      "Guéhi"
+    ]
+  },
+  {
+    "id": 129033,
+    "name": "J. Gvardiol",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "J. Gvardiol",
+      "Gvardiol"
+    ]
+  },
+  {
+    "id": 360114,
+    "name": "A. Khusanov",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "A. Khusanov",
+      "Khusanov"
+    ]
+  },
+  {
+    "id": 284230,
+    "name": "R. Lewis",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "R. Lewis",
+      "Lewis"
+    ]
+  },
+  {
+    "id": 626,
+    "name": "J. Stones",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "J. Stones",
+      "Stones"
+    ]
+  },
+  {
+    "id": 156477,
+    "name": "R. Cherki",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "R. Cherki",
+      "Cherki"
+    ]
+  },
+  {
+    "id": 631,
+    "name": "P. Foden",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "P. Foden",
+      "Foden"
+    ]
+  },
+  {
+    "id": 389034,
+    "name": "Charlie Gray",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Charlie Gray",
+      "Gray"
+    ]
+  },
+  {
+    "id": 2291,
+    "name": "M. Kovačić",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "M. Kovačić",
+      "Kovačić"
+    ]
+  },
+  {
+    "id": 442048,
+    "name": "R. McAidoo",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "R. McAidoo",
+      "McAidoo"
+    ]
+  },
+  {
+    "id": 161933,
+    "name": "Nico González",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Nico González",
+      "González"
+    ]
+  },
+  {
+    "id": 41621,
+    "name": "Matheus Nunes",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Matheus Nunes",
+      "Nunes"
+    ]
+  },
+  {
+    "id": 323591,
+    "name": "S. Nypan",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "S. Nypan",
+      "Nypan"
+    ]
+  },
+  {
+    "id": 307123,
+    "name": "N. O&apos;Reilly",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "N. O&apos;Reilly",
+      "O&apos;Reilly"
+    ]
+  },
+  {
+    "id": 36902,
+    "name": "T. Reijnders",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "T. Reijnders",
+      "Reijnders"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Rodri",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Rodri",
+      "Rodri"
+    ]
+  },
+  {
+    "id": 568413,
+    "name": "T. Samba",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "T. Samba",
+      "Samba"
+    ]
+  },
+  {
+    "id": 636,
+    "name": "Bernardo Silva",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Bernardo Silva",
+      "Silva"
+    ]
+  },
+  {
+    "id": 1422,
+    "name": "J. Doku",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "J. Doku",
+      "Doku"
+    ]
+  },
+  {
+    "id": 1100,
+    "name": "E. Haaland",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "E. Haaland",
+      "Haaland"
+    ]
+  },
+  {
+    "id": 448969,
+    "name": "Reigan Heskey",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Reigan Heskey",
+      "Heskey"
+    ]
+  },
+  {
+    "id": 81573,
+    "name": "Omar Marmoush",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Omar Marmoush",
+      "Marmoush"
+    ]
+  },
+  {
+    "id": 266657,
+    "name": "Sávio",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Sávio",
+      "Sávio"
+    ]
+  },
+  {
+    "id": 19281,
+    "name": "A. Semenyo",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "A. Semenyo",
+      "Semenyo"
+    ]
+  },
+  {
+    "id": 162453,
+    "name": "L. Chevalier",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "L. Chevalier",
+      "Chevalier"
+    ]
+  },
+  {
+    "id": 568266,
+    "name": "M. James",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "M. James",
+      "James"
+    ]
+  },
+  {
+    "id": 437099,
+    "name": "Renato Bellucci",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "Renato Bellucci",
+      "Bellucci"
+    ]
+  },
+  {
+    "id": 2068,
+    "name": "M. Safonov",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "M. Safonov",
+      "Safonov"
+    ]
+  },
+  {
+    "id": 307835,
+    "name": "Beraldo",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Beraldo",
+      "Beraldo"
+    ]
+  },
+  {
+    "id": 610763,
+    "name": "D. Boly",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "D. Boly",
+      "Boly"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "A. Hakimi",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "A. Hakimi",
+      "Hakimi"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "L. Hernández",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "L. Hernández",
+      "Hernández"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Marquinhos",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Marquinhos",
+      "Marquinhos"
+    ]
+  },
+  {
+    "id": 263482,
+    "name": "Nuno Mendes",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Nuno Mendes",
+      "Mendes"
+    ]
+  },
+  {
+    "id": 16367,
+    "name": "W. Pacho",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "W. Pacho",
+      "Pacho"
+    ]
+  },
+  {
+    "id": 161671,
+    "name": "I. Zabarnyi",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "I. Zabarnyi",
+      "Zabarnyi"
+    ]
+  },
+  {
+    "id": 491087,
+    "name": "Pedro Fernández",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Pedro Fernández",
+      "Fernández"
+    ]
+  },
+  {
+    "id": 551416,
+    "name": "Y. Khafi",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Y. Khafi",
+      "Khafi"
+    ]
+  },
+  {
+    "id": 927,
+    "name": "Lee Kang-In",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Lee Kang-In",
+      "Kang-In"
+    ]
+  },
+  {
+    "id": 409216,
+    "name": "Senny Mayulu",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Senny Mayulu",
+      "Mayulu"
+    ]
+  },
+  {
+    "id": 335051,
+    "name": "João Neves",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "João Neves",
+      "Neves"
+    ]
+  },
+  {
+    "id": 567804,
+    "name": "N. Nsoki",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "N. Nsoki",
+      "Nsoki"
+    ]
+  },
+  {
+    "id": 328,
+    "name": "Fabián Ruiz",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Fabián Ruiz",
+      "Ruiz"
+    ]
+  },
+  {
+    "id": 493032,
+    "name": "W. Slama",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "W. Slama",
+      "Slama"
+    ]
+  },
+  {
+    "id": 128384,
+    "name": "Vitinha",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Vitinha",
+      "Vitinha"
+    ]
+  },
+  {
+    "id": 336657,
+    "name": "W. Zaïre-Emery",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "W. Zaïre-Emery",
+      "Zaïre-Emery"
+    ]
+  },
+  {
+    "id": 161904,
+    "name": "B. Barcola",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "B. Barcola",
+      "Barcola"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "O. Dembélé",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "O. Dembélé",
+      "Dembélé"
+    ]
+  },
+  {
+    "id": 343027,
+    "name": "D. Doué",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "D. Doué",
+      "Doué"
+    ]
+  },
+  {
+    "id": 543469,
+    "name": "Mathis Jangeal",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Mathis Jangeal",
+      "Jangeal"
+    ]
+  },
+  {
+    "id": 483,
+    "name": "K. Kvaratskhelia",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "K. Kvaratskhelia",
+      "Kvaratskhelia"
+    ]
+  },
+  {
+    "id": 446249,
+    "name": "I. Mbaye",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "I. Mbaye",
+      "Mbaye"
+    ]
+  },
+  {
+    "id": 471107,
+    "name": "Quentin Ndjantou Mbitcha",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Quentin Ndjantou Mbitcha",
+      "Mbitcha"
+    ]
+  },
+  {
+    "id": 41585,
+    "name": "Gonçalo Ramos",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Gonçalo Ramos",
+      "Ramos"
+    ]
+  },
+  {
+    "id": 730,
+    "name": "T. Courtois",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "T. Courtois",
+      "Courtois"
+    ]
+  },
+  {
+    "id": 396475,
+    "name": "Fran González",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "Fran González",
+      "González"
+    ]
+  },
+  {
+    "id": 47400,
+    "name": "A. Lunin",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "A. Lunin",
+      "Lunin"
+    ]
+  },
+  {
+    "id": 386872,
+    "name": "Sergio Mestre",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "Sergio Mestre",
+      "Mestre"
+    ]
+  },
+  {
+    "id": 544044,
+    "name": "J. Navarro Jimenez",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "J. Navarro Jimenez",
+      "Jimenez"
+    ]
+  },
+  {
+    "id": 451355,
+    "name": "Diego Aguado",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Diego Aguado",
+      "Aguado"
+    ]
+  },
+  {
+    "id": 505,
+    "name": "D. Alaba",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "D. Alaba",
+      "Alaba"
+    ]
+  },
+  {
+    "id": 283,
+    "name": "T. Alexander-Arnold",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "T. Alexander-Arnold",
+      "Alexander-Arnold"
+    ]
+  },
+  {
+    "id": 341640,
+    "name": "Raúl Asencio",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Raúl Asencio",
+      "Asencio"
+    ]
+  },
+  {
+    "id": 284300,
+    "name": "Álvaro Fernández",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Álvaro Fernández",
+      "Fernández"
+    ]
+  },
+  {
+    "id": 733,
+    "name": "Dani Carvajal",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Dani Carvajal",
+      "Carvajal"
+    ]
+  },
+  {
+    "id": 372,
+    "name": "Éder Militão",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Éder Militão",
+      "Militão"
+    ]
+  },
+  {
+    "id": 561032,
+    "name": "L. Fati",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "L. Fati",
+      "Fati"
+    ]
+  },
+  {
+    "id": 736,
+    "name": "Fran García",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Fran García",
+      "García"
+    ]
+  },
+  {
+    "id": 361497,
+    "name": "D. Huijsen",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "D. Huijsen",
+      "Huijsen"
+    ]
+  },
+  {
+    "id": 330436,
+    "name": "David Jiménez",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "David Jiménez",
+      "Jiménez"
+    ]
+  },
+  {
+    "id": 561033,
+    "name": "J. Martinez",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "J. Martinez",
+      "Martinez"
+    ]
+  },
+  {
+    "id": 653,
+    "name": "F. Mendy",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "F. Mendy",
+      "Mendy"
+    ]
+  },
+  {
+    "id": 2285,
+    "name": "A. Rüdiger",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "A. Rüdiger",
+      "Rüdiger"
+    ]
+  },
+  {
+    "id": 560901,
+    "name": "V. Valdepenas",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "V. Valdepenas",
+      "Valdepenas"
+    ]
+  },
+  {
+    "id": 129718,
+    "name": "J. Bellingham",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "J. Bellingham",
+      "Bellingham"
+    ]
+  },
+  {
+    "id": 2207,
+    "name": "E. Camavinga",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "E. Camavinga",
+      "Camavinga"
+    ]
+  },
+  {
+    "id": 748,
+    "name": "Dani Ceballos",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Dani Ceballos",
+      "Ceballos"
+    ]
+  },
+  {
+    "id": 560905,
+    "name": "J. Cestero Sancho",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "J. Cestero Sancho",
+      "Sancho"
+    ]
+  },
+  {
+    "id": 744,
+    "name": "Brahim Díaz",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Brahim Díaz",
+      "Díaz"
+    ]
+  },
+  {
+    "id": 371913,
+    "name": "Pol Fortuny",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Pol Fortuny",
+      "Fortuny"
+    ]
+  },
+  {
+    "id": 291964,
+    "name": "A. Güler",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "A. Güler",
+      "Güler"
+    ]
+  },
+  {
+    "id": 313167,
+    "name": "Manuel Ángel",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Manuel Ángel",
+      "Ángel"
+    ]
+  },
+  {
+    "id": 386306,
+    "name": "César Palacios",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "César Palacios",
+      "Palacios"
+    ]
+  },
+  {
+    "id": 509470,
+    "name": "Thiago Pitarch",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Thiago Pitarch",
+      "Pitarch"
+    ]
+  },
+  {
+    "id": 1271,
+    "name": "A. Tchouaméni",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "A. Tchouaméni",
+      "Tchouaméni"
+    ]
+  },
+  {
+    "id": 756,
+    "name": "F. Valverde",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "F. Valverde",
+      "Valverde"
+    ]
+  },
+  {
+    "id": 440339,
+    "name": "Adrian Arnuncio",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Adrian Arnuncio",
+      "Arnuncio"
+    ]
+  },
+  {
+    "id": 336711,
+    "name": "Gonzalo García",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Gonzalo García",
+      "García"
+    ]
+  },
+  {
+    "id": 308998,
+    "name": "Ávaro Leiva",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Ávaro Leiva",
+      "Leiva"
+    ]
+  },
+  {
+    "id": 449249,
+    "name": "Franco Mastantuono",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Franco Mastantuono",
+      "Mastantuono"
+    ]
+  },
+  {
+    "id": 278,
+    "name": "Kylian Mbappé",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Kylian Mbappé",
+      "Mbappé"
+    ]
+  },
+  {
+    "id": 10009,
+    "name": "Rodrygo",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Rodrygo",
+      "Rodrygo"
+    ]
+  },
+  {
+    "id": 762,
+    "name": "Vinícius Júnior",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Vinícius Júnior",
+      "Júnior"
+    ]
+  },
+  {
+    "id": 50132,
+    "name": "A. Bayındır",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "A. Bayındır",
+      "Bayındır"
+    ]
+  },
+  {
+    "id": 2931,
+    "name": "T. Heaton",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "T. Heaton",
+      "Heaton"
+    ]
+  },
+  {
+    "id": 162511,
+    "name": "S. Lammens",
+    "pos": "GK",
+    "acceptableAnswers": [
+      "S. Lammens",
+      "Lammens"
+    ]
+  },
+  {
+    "id": 886,
+    "name": "Diogo Dalot",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Diogo Dalot",
+      "Dalot"
+    ]
+  },
+  {
+    "id": 382452,
+    "name": "P. Dorgu",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "P. Dorgu",
+      "Dorgu"
+    ]
+  },
+  {
+    "id": 328101,
+    "name": "T. Fredricson",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "T. Fredricson",
+      "Fredricson"
+    ]
+  },
+  {
+    "id": 402329,
+    "name": "A. Heaven",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "A. Heaven",
+      "Heaven"
+    ]
+  },
+  {
+    "id": 440159,
+    "name": "G. Kukonki",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "G. Kukonki",
+      "Kukonki"
+    ]
+  },
+  {
+    "id": 475598,
+    "name": "D. León",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "D. León",
+      "León"
+    ]
+  },
+  {
+    "id": 2935,
+    "name": "H. Maguire",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "H. Maguire",
+      "Maguire"
+    ]
+  },
+  {
+    "id": 37145,
+    "name": "T. Malacia",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "T. Malacia",
+      "Malacia"
+    ]
+  },
+  {
+    "id": 2467,
+    "name": "Lisandro Martínez",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "Lisandro Martínez",
+      "Martínez"
+    ]
+  },
+  {
+    "id": 545,
+    "name": "N. Mazraoui",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "N. Mazraoui",
+      "Mazraoui"
+    ]
+  },
+  {
+    "id": 891,
+    "name": "L. Shaw",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "L. Shaw",
+      "Shaw"
+    ]
+  },
+  {
+    "id": 342970,
+    "name": "L. Yoro",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "L. Yoro",
+      "Yoro"
+    ]
+  },
+  {
+    "id": 532,
+    "name": "M. de Ligt",
+    "pos": "DEF",
+    "acceptableAnswers": [
+      "M. de Ligt",
+      "Ligt"
+    ]
+  },
+  {
+    "id": 747,
+    "name": "Casemiro",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Casemiro",
+      "Casemiro"
+    ]
+  },
+  {
+    "id": 1485,
+    "name": "Bruno Fernandes",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Bruno Fernandes",
+      "Fernandes"
+    ]
+  },
+  {
+    "id": 383770,
+    "name": "J. Fletcher",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "J. Fletcher",
+      "Fletcher"
+    ]
+  },
+  {
+    "id": 557460,
+    "name": "T. Fletcher",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "T. Fletcher",
+      "Fletcher"
+    ]
+  },
+  {
+    "id": 284322,
+    "name": "K. Mainoo",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "K. Mainoo",
+      "Mainoo"
+    ]
+  },
+  {
+    "id": 344229,
+    "name": "J. Moorhouse",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "J. Moorhouse",
+      "Moorhouse"
+    ]
+  },
+  {
+    "id": 19220,
+    "name": "M. Mount",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "M. Mount",
+      "Mount"
+    ]
+  },
+  {
+    "id": 51494,
+    "name": "M. Ugarte",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "M. Ugarte",
+      "Ugarte"
+    ]
+  },
+  {
+    "id": 1165,
+    "name": "Matheus Cunha",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "Matheus Cunha",
+      "Cunha"
+    ]
+  },
+  {
+    "id": 157997,
+    "name": "A. Diallo",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "A. Diallo",
+      "Diallo"
+    ]
+  },
+  {
+    "id": 557462,
+    "name": "S. Lacey",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "S. Lacey",
+      "Lacey"
+    ]
+  },
+  {
+    "id": 404769,
+    "name": "Bendito Mantato",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "Bendito Mantato",
+      "Mantato"
+    ]
+  },
+  {
+    "id": 20589,
+    "name": "B. Mbeumo",
+    "pos": "MID",
+    "acceptableAnswers": [
+      "B. Mbeumo",
+      "Mbeumo"
+    ]
+  },
+  {
+    "id": 389309,
+    "name": "O. Martin",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "O. Martin",
+      "Martin"
+    ]
+  },
+  {
+    "id": 115589,
+    "name": "B. Šeško",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "B. Šeško",
+      "Šeško"
+    ]
+  },
+  {
+    "id": 70100,
+    "name": "J. Zirkzee",
+    "pos": "ATK",
+    "acceptableAnswers": [
+      "J. Zirkzee",
+      "Zirkzee"
+    ]
+  }
+]

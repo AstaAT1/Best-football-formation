@@ -1,0 +1,546 @@
+{
+  "2273": [
+    {
+      "player": {
+        "id": 2273,
+        "name": "Kepa"
+      },
+      "update": "2026-03-09T00:20:18+00:00",
+      "transfers": [
+        {
+          "date": "2025-07-01",
+          "type": "N/A",
+          "teams": {
+            "in": {
+              "id": 49,
+              "name": "Chelsea",
+              "logo": "https://media.api-sports.io/football/teams/49.png"
+            },
+            "out": {
+              "id": 35,
+              "name": "Bournemouth",
+              "logo": "https://media.api-sports.io/football/teams/35.png"
+            }
+          }
+        },
+        {
+          "date": "2024-08-29",
+          "type": "Loan",
+          "teams": {
+            "in": {
+              "id": 35,
+              "name": "Bournemouth",
+              "logo": "https://media.api-sports.io/football/teams/35.png"
+            },
+            "out": {
+              "id": 49,
+              "name": "Chelsea",
+              "logo": "https://media.api-sports.io/football/teams/49.png"
+            }
+          }
+        },
+        {
+          "date": "2024-07-01",
+          "type": "N/A",
+          "teams": {
+            "in": {
+              "id": 49,
+              "name": "Chelsea",
+              "logo": "https://media.api-sports.io/football/teams/49.png"
+            },
+            "out": {
+              "id": 541,
+              "name": "Real Madrid",
+              "logo": "https://media.api-sports.io/football/teams/541.png"
+            }
+          }
+        },
+        {
+          "date": "2023-08-14",
+          "type": "Loan",
+          "teams": {
+            "in": {
+              "id": 541,
+              "name": "Real Madrid",
+              "logo": "https://media.api-sports.io/football/teams/541.png"
+            },
+            "out": {
+              "id": 49,
+              "name": "Chelsea",
+              "logo": "https://media.api-sports.io/football/teams/49.png"
+            }
+          }
+        },
+        {
+          "date": "2018-08-08",
+          "type": "€ 79.5M",
+          "teams": {
+            "in": {
+              "id": 49,
+              "name": "Chelsea",
+              "logo": "https://media.api-sports.io/football/teams/49.png"
+            },
+            "out": {
+              "id": 531,
+              "name": "Athletic Club",
+              "logo": "https://media.api-sports.io/football/teams/531.png"
+            }
+          }
+        },
+        {
+          "date": "2016-07-01",
+          "type": "N/A",
+          "teams": {
+            "in": {
+              "id": 531,
+              "name": "Athletic Club",
+              "logo": "https://media.api-sports.io/football/teams/531.png"
+            },
+            "out": {
+              "id": 720,
+              "name": "Valladolid",
+              "logo": "https://media.api-sports.io/football/teams/720.png"
+            }
+          }
+        },
+        {
+          "date": "2015-07-20",
+          "type": "Loan",
+          "teams": {
+            "in": {
+              "id": 720,
+              "name": "Valladolid",
+              "logo": "https://media.api-sports.io/football/teams/720.png"
+            },
+            "out": {
+              "id": 531,
+              "name": "Athletic Club",
+              "logo": "https://media.api-sports.io/football/teams/531.png"
+            }
+          }
+        },
+        {
+          "date": "2015-01-06",
+          "type": "Loan",
+          "teams": {
+            "in": {
+              "id": 4907,
+              "name": "Ponferradina",
+              "logo": "https://media.api-sports.io/football/teams/4907.png"
+            },
+            "out": {
+              "id": 531,
+              "name": "Athletic Club",
+              "logo": "https://media.api-sports.io/football/teams/531.png"
+            }
+          }
+        },
+        {
+          "date": "2025-07-01",
+          "type": "Transfer",
+          "teams": {
+            "in": {
+              "id": 42,
+              "name": "Arsenal",
+              "logo": "https://media.api-sports.io/football/teams/42.png"
+            },
+            "out": {
+              "id": 49,
+              "name": "Chelsea",
+              "logo": "https://media.api-sports.io/football/teams/49.png"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "19465": [
+    {
+      "player": {
+        "id": 19465,
+        "name": "David Raya"
+      },
+      "update": "2025-07-29T11:46:10+00:00",
+      "transfers": [
+        {
+          "date": "2024-07-04",
+          "type": "€ 31.9M",
+          "teams": {
+            "in": {
+              "id": 42,
+              "name": "Arsenal",
+              "logo": "https://media.api-sports.io/football/teams/42.png"
+            },
+            "out": {
+              "id": 55,
+              "name": "Brentford",
+              "logo": "https://media.api-sports.io/football/teams/55.png"
+            }
+          }
+        },
+        {
+          "date": "2024-07-01",
+          "type": "N/A",
+          "teams": {
+            "in": {
+              "id": 55,
+              "name": "Brentford",
+              "logo": "https://media.api-sports.io/football/teams/55.png"
+            },
+            "out": {
+              "id": 42,
+              "name": "Arsenal",
+              "logo": "https://media.api-sports.io/football/teams/42.png"
+            }
+          }
+        },
+        {
+          "date": "2023-08-15",
+          "type": "Loan",
+          "teams": {
+            "in": {
+              "id": 42,
+              "name": "Arsenal",
+              "logo": "https://media.api-sports.io/football/teams/42.png"
+            },
+            "out": {
+              "id": 55,
+              "name": "Brentford",
+              "logo": "https://media.api-sports.io/football/teams/55.png"
+            }
+          }
+        },
+        {
+          "date": "2019-07-06",
+          "type": "€ 3M",
+          "teams": {
+            "in": {
+              "id": 55,
+              "name": "Brentford",
+              "logo": "https://media.api-sports.io/football/teams/55.png"
+            },
+            "out": {
+              "id": 67,
+              "name": "Blackburn",
+              "logo": "https://media.api-sports.io/football/teams/67.png"
+            }
+          }
+        },
+        {
+          "date": "2014-09-19",
+          "type": "Loan",
+          "teams": {
+            "in": {
+              "id": 1826,
+              "name": "Southport",
+              "logo": "https://media.api-sports.io/football/teams/1826.png"
+            },
+            "out": {
+              "id": 67,
+              "name": "Blackburn",
+              "logo": "https://media.api-sports.io/football/teams/67.png"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "22224": [
+    {
+      "player": {
+        "id": 22224,
+        "name": "Gabriel Magalhães"
+      },
+      "update": "2025-07-29T11:46:05+00:00",
+      "transfers": [
+        {
+          "date": "2020-09-01",
+          "type": "€ 26.3M",
+          "teams": {
+            "in": {
+              "id": 42,
+              "name": "Arsenal",
+              "logo": "https://media.api-sports.io/football/teams/42.png"
+            },
+            "out": {
+              "id": 79,
+              "name": "Lille",
+              "logo": "https://media.api-sports.io/football/teams/79.png"
+            }
+          }
+        },
+        {
+          "date": "2018-07-01",
+          "type": "N/A",
+          "teams": {
+            "in": {
+              "id": 79,
+              "name": "Lille",
+              "logo": "https://media.api-sports.io/football/teams/79.png"
+            },
+            "out": {
+              "id": 620,
+              "name": "Dinamo Zagreb",
+              "logo": "https://media.api-sports.io/football/teams/620.png"
+            }
+          }
+        },
+        {
+          "date": "2018-02-15",
+          "type": "Loan",
+          "teams": {
+            "in": {
+              "id": 620,
+              "name": "Dinamo Zagreb",
+              "logo": "https://media.api-sports.io/football/teams/620.png"
+            },
+            "out": {
+              "id": 79,
+              "name": "Lille",
+              "logo": "https://media.api-sports.io/football/teams/79.png"
+            }
+          }
+        },
+        {
+          "date": "2017-07-01",
+          "type": "Loan",
+          "teams": {
+            "in": {
+              "id": 9945,
+              "name": "Troyes II",
+              "logo": "https://media.api-sports.io/football/teams/9945.png"
+            },
+            "out": {
+              "id": 79,
+              "name": "Lille",
+              "logo": "https://media.api-sports.io/football/teams/79.png"
+            }
+          }
+        },
+        {
+          "date": "2017-07-01",
+          "type": "Loan",
+          "teams": {
+            "in": {
+              "id": 110,
+              "name": "Estac Troyes",
+              "logo": "https://media.api-sports.io/football/teams/110.png"
+            },
+            "out": {
+              "id": 79,
+              "name": "Lille",
+              "logo": "https://media.api-sports.io/football/teams/79.png"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "127817": [
+    {
+      "player": {
+        "id": 127817,
+        "name": "P. Hincapié"
+      },
+      "update": "2026-03-09T00:28:22+00:00",
+      "transfers": [
+        {
+          "date": "2021-08-17",
+          "type": "N/A",
+          "teams": {
+            "in": {
+              "id": 168,
+              "name": "Bayer Leverkusen",
+              "logo": "https://media.api-sports.io/football/teams/168.png"
+            },
+            "out": {
+              "id": 456,
+              "name": "Talleres Cordoba",
+              "logo": "https://media.api-sports.io/football/teams/456.png"
+            }
+          }
+        },
+        {
+          "date": "2020-08-20",
+          "type": "€ 845K",
+          "teams": {
+            "in": {
+              "id": 456,
+              "name": "Talleres Cordoba",
+              "logo": "https://media.api-sports.io/football/teams/456.png"
+            },
+            "out": {
+              "id": 11055,
+              "name": "Independiente U20",
+              "logo": "https://media.api-sports.io/football/teams/11055.png"
+            }
+          }
+        },
+        {
+          "date": "2025-09-01",
+          "type": "Loan",
+          "teams": {
+            "in": {
+              "id": 42,
+              "name": "Arsenal",
+              "logo": "https://media.api-sports.io/football/teams/42.png"
+            },
+            "out": {
+              "id": 168,
+              "name": "Bayer Leverkusen",
+              "logo": "https://media.api-sports.io/football/teams/168.png"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "157052": [
+    {
+      "player": {
+        "id": 157052,
+        "name": "R. Calafiori"
+      },
+      "update": "2025-07-29T11:45:56+00:00",
+      "transfers": [
+        {
+          "date": "2024-07-29",
+          "type": "€ 45M",
+          "teams": {
+            "in": {
+              "id": 42,
+              "name": "Arsenal",
+              "logo": "https://media.api-sports.io/football/teams/42.png"
+            },
+            "out": {
+              "id": 500,
+              "name": "Bologna",
+              "logo": "https://media.api-sports.io/football/teams/500.png"
+            }
+          }
+        },
+        {
+          "date": "2023-08-31",
+          "type": "N/A",
+          "teams": {
+            "in": {
+              "id": 500,
+              "name": "Bologna",
+              "logo": "https://media.api-sports.io/football/teams/500.png"
+            },
+            "out": {
+              "id": 551,
+              "name": "FC Basel 1893",
+              "logo": "https://media.api-sports.io/football/teams/551.png"
+            }
+          }
+        },
+        {
+          "date": "2022-09-02",
+          "type": "€ 1M",
+          "teams": {
+            "in": {
+              "id": 551,
+              "name": "FC Basel 1893",
+              "logo": "https://media.api-sports.io/football/teams/551.png"
+            },
+            "out": {
+              "id": 497,
+              "name": "AS Roma",
+              "logo": "https://media.api-sports.io/football/teams/497.png"
+            }
+          }
+        },
+        {
+          "date": "2022-07-01",
+          "type": "N/A",
+          "teams": {
+            "in": {
+              "id": 497,
+              "name": "AS Roma",
+              "logo": "https://media.api-sports.io/football/teams/497.png"
+            },
+            "out": {
+              "id": 495,
+              "name": "Genoa",
+              "logo": "https://media.api-sports.io/football/teams/495.png"
+            }
+          }
+        },
+        {
+          "date": "2022-01-14",
+          "type": "Loan",
+          "teams": {
+            "in": {
+              "id": 495,
+              "name": "Genoa",
+              "logo": "https://media.api-sports.io/football/teams/495.png"
+            },
+            "out": {
+              "id": 497,
+              "name": "AS Roma",
+              "logo": "https://media.api-sports.io/football/teams/497.png"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "313245": [],
+  "333682": [
+    {
+      "player": {
+        "id": 333682,
+        "name": "Cristhian Mosquera"
+      },
+      "update": "2026-03-09T00:50:08+00:00",
+      "transfers": [
+        {
+          "date": "2025-07-24",
+          "type": "Transfer",
+          "teams": {
+            "in": {
+              "id": 42,
+              "name": "Arsenal",
+              "logo": "https://media.api-sports.io/football/teams/42.png"
+            },
+            "out": {
+              "id": 532,
+              "name": "Valencia",
+              "logo": "https://media.api-sports.io/football/teams/532.png"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "337933": [],
+  "342243": [
+    {
+      "player": {
+        "id": 342243,
+        "name": "T. Setford"
+      },
+      "update": "2025-07-29T11:46:14+00:00",
+      "transfers": [
+        {
+          "date": "2024-07-24",
+          "type": "N/A",
+          "teams": {
+            "in": {
+              "id": 42,
+              "name": "Arsenal",
+              "logo": "https://media.api-sports.io/football/teams/42.png"
+            },
+            "out": {
+              "id": 425,
+              "name": "Jong Ajax",
+              "logo": "https://media.api-sports.io/football/teams/425.png"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "416697": []
+}

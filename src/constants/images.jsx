@@ -80,11 +80,22 @@ import  BenWithe from "../assets/images/Ben-White-df.jpg"
 import  MarkosCafu from "../assets/images/Markos-Cafu-df.jpg"
 import gabrielmagalhaes from "../assets/images/gabriel-magalhaes-df.jpg"
 import CodyGakpo from "../assets/images/Cody-Gakpo-atk.jpg"
-
+import PhilippeCoutinho from "../assets/images/PhilippeCoutinho.jpg"
+import LuisSuárez from "../assets/images/LuisSuárez.jpg"
+import ThierryHenry from "../assets/images/ThierryHenry.jpg"
+import GarethBale from "../assets/images/GarethBale.jpg"
+import ZlatanIbrahimović from "../assets/images/ZlatanIbrahimović.jpg"
+import SonHeungmin from "../assets/images/SonHeung-min.jpg"
 
 const images = {
   // ─── Players (keys match players.json imageKey exactly) ───
   AchrafHakimi,
+  GarethBale,
+  ZlatanIbrahimović,
+  SonHeungmin,
+  PhilippeCoutinho,
+  LuisSuárez,
+  ThierryHenry,
   AdamAznou,
   RamyBensebaini,
   TeunKoopmeiners,

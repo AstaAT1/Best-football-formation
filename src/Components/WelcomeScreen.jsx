@@ -294,6 +294,7 @@ export default function WelcomeScreen({ onStart }) {
   const [stadium, setStadium] = useState(null);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [showRules, setShowRules] = useState(false);
+  const [gameMode, setGameMode] = useState("normal"); // "normal" | "clubpath"
 
   const currentStadium = STADIUMS[currentIndex];
   const currentStadiumImage = images?.[currentStadium.id] || bg;
@@ -320,6 +321,7 @@ export default function WelcomeScreen({ onStart }) {
     if (!canStart) return;
 
     onStart?.({
+      gameMode,
       teamName: teamName.trim(),
       difficulty,
       stadium,
@@ -373,7 +375,49 @@ export default function WelcomeScreen({ onStart }) {
               onToggle={() => setShowRules((prev) => !prev)}
             />
 
-            <form onSubmit={handleStart} className="mt-6">
+            {/* Mode Selector */}
+            <div className="mt-6">
+              <label className="mb-2.5 block text-xs font-extrabold uppercase tracking-[0.14em] text-white/75">
+                {t("gameModeLabel") || "GAME MODE"}
+              </label>
+              <div className="flex gap-2">
+                <button
+                  type="button"
+                  onClick={() => setGameMode("normal")}
+                  className={cn(
+                    "flex-1 rounded-xl border px-4 py-3 text-sm font-bold transition",
+                    gameMode === "normal"
+                      ? "border-white bg-white text-[#0b0e14]"
+                      : "border-white/10 bg-black/20 text-white/75 hover:bg-black/30"
+                  )}
+                >
+                  <div className="text-center">
+                    <div className="text-base">⚽</div>
+                    <div className="mt-1 text-[12px] font-black uppercase">{t("modeSelectDraft") || "Draft Arena"}</div>
+                    <div className="mt-0.5 text-[10px] font-medium opacity-60">{t("modeSelectDraftSub") || "Build your dream squad"}</div>
+                  </div>
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setGameMode("clubpath")}
+                  className={cn(
+                    "flex-1 rounded-xl border px-4 py-3 text-sm font-bold transition",
+                    gameMode === "clubpath"
+                      ? "border-white bg-white text-[#0b0e14]"
+                      : "border-white/10 bg-black/20 text-white/75 hover:bg-black/30"
+                  )}
+                >
+                  <div className="text-center">
+                    <div className="text-base">🏟️</div>
+                    <div className="mt-1 text-[12px] font-black uppercase">{t("modeSelectClubPath") || "Guess by Clubs"}</div>
+                    <div className="mt-0.5 text-[10px] font-medium opacity-60">{t("modeSelectClubPathSub") || "Identify players by career"}</div>
+                  </div>
+                </button>
+              </div>
+            </div>
+
+            <form onSubmit={handleStart} className="mt-4">
+              {/* Settings shared by both modes */}
               <div className="mt-4">
                 <label
                   htmlFor="teamName"
@@ -413,7 +457,9 @@ export default function WelcomeScreen({ onStart }) {
                   className="h-[56px] w-full rounded-2xl bg-white text-[15px] font-black uppercase tracking-[0.05em] text-[#020617] transition hover:bg-white/90 active:scale-[0.98] disabled:cursor-not-allowed disabled:bg-white/20 disabled:text-white/40"
                   disabled={!canStart}
                 >
-                  {t("startDraft")}
+                  {gameMode === "clubpath"
+                    ? (t("startClubPath") || "START GUESSING ⚡")
+                    : t("startDraft")}
                 </button>
 
                 {!canStart && (

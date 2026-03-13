@@ -7,6 +7,7 @@ import bg from "./assets/images/background.jpg";
 import images from "./constants/images";
 import allPlayers from "./data/players.json";
 import allQuestions from "./data/questions.json";
+import clubPathQuestions from "./data/clubPathQuestions.json";
 
 import { buildDraftPairs } from "./engine/ai";
 import { TOTAL_ROUNDS } from "./engine/gameConfig";
@@ -23,7 +24,7 @@ import CardCallout from "./Components/CardCallout";
 import StageTransition from "./Components/StageTransition";
 import { useTranslation } from "react-i18next";
 
-const DEFAULT_SETTINGS = { teamName: "My Team", difficulty: "medium", stadium: null };
+const DEFAULT_SETTINGS = { teamName: "My Team", difficulty: "medium", stadium: null, gameMode: "normal" };
 
 /** Stage boundary definitions: after completing roundIndex N, show message */
 const STAGE_BOUNDARIES = {
@@ -71,6 +72,8 @@ export default function App() {
   }, [streakToast]);
 
   function startGame(settings) {
+    // Both modes use the exact same game flow — only the question source differs
+    usedQIds.current = new Set();
     setGame({
       screen: "game",
       settings: { ...DEFAULT_SETTINGS, ...settings },
@@ -171,6 +174,9 @@ export default function App() {
     ? images[settings.stadium]
     : bg;
 
+  // Select question source based on game mode
+  const questionsForMode = settings.gameMode === "clubpath" ? clubPathQuestions : allQuestions;
+
   return (
     <div
       className="min-h-screen w-full bg-cover bg-center bg-no-repeat bg-fixed"
@@ -216,7 +222,7 @@ export default function App() {
                 key={roundIndex}
                 roundIndex={roundIndex}
                 pair={draftPairs[roundIndex]}
-                allQuestions={allQuestions}
+                allQuestions={questionsForMode}
                 usedQuestionIds={usedQIds.current}
                 settings={settings}
                 teams={teams}
